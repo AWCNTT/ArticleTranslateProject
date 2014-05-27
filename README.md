@@ -3,11 +3,11 @@
 
 **ArticleTranslateProject** 是由`AWCNTT`维护的Android技术文章翻译项目，负责翻译`AndroidWeekly.net`发布的每一期Weekly中的所有Android技术文章、开源库介绍等等。
 
-**AWCNTT**是AndroidWeekly中国社区（[http://androidweekly.cn/](http://androidweekly.cn/)）的翻译组
+**AWCNTT**是AndroidWeekly中国社区（[http://androidweekly.cn/](http://androidweekly.cn/)）的翻译小组。
 
-由于我们的翻译水平有限，难免存在错误或者翻译不准去的地方，欢迎批评指正。
+由于我们的翻译水平有限，难免存在错误或者翻译不准确的地方，欢迎批评指正。
 
-欢迎更多的Android开发爱好者加入我们。
+期待更多Android开发爱好者加入我们。
 
 加入我们
 -------------------------------
