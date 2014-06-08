@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Android自定义形状的阴影效果"
+title: "Android用自定义Shapes实现阴影效果"
 date: 2014-5-29 10:30
 comments: true
-categories: Android 阴影 自定义形状
+categories: Android 阴影效果 自定义Shapes
 ---
 
 给自定义View的形状创建阴影是很简单的。
@@ -79,7 +79,7 @@ For example：
 
 原文地址: [http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/](http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/)
 
-译者：[whosea](https://github.com/whosea) 译者：[校对者ID](https://github.com/校对者ID)
+译者：[whosea](https://github.com/whosea) 译者：[inferjay](https://github.com/inferjay)
 
 本文由[AWCNTT](https://github.com/AWCNTT) 原创翻译，[AndroidWeekly中国](http://www.androidweekly.cn/) 荣誉推出
 
