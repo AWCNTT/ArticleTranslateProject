@@ -3,7 +3,7 @@
 ###ARTICLES & TUTORIALS
 -------------------------------------------------
  
- ![ link image](http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/) [**Shadow effect with custom shapes**](http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/) (slothdevelopers.wordpress.com)
+ ![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.41.30.png) [**Shadow effect with custom shapes**](http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/) (slothdevelopers.wordpress.com)
  
 This post shows how easy it is to create a simple shadow for your views using custom shapes.
  
@@ -15,7 +15,7 @@ Here the first in a series of articles for getting set up to build AOSP on a Mac
 
 If you want to simulate slow and spotty network connections on a device, one way to do it is by configuring OpenWRT on a router.
  
-![ link image](http://androidweekly.net/system/images/5381d7/53ea6d8d09f5000064/square_Bildschirmfoto_2014-05-25_um_15.52.01.png)	 [**ProTip: Blur Images Efficiently using Renderscript**]() (plus.google.com)
+![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.52.01.png)	 [**ProTip: Blur Images Efficiently using Renderscript**]() (plus.google.com)
  
 Blurring images is an effect a lot of developers need to achieve, and it may require some time and efforts to be implemented. Also, since a lot of image manipulation is required, if it's not appropriately coded it can be really a pain in terms of CPU and memory usage.
  
@@ -57,7 +57,7 @@ Do more than code. Raizlabs is seeking an experienced senior Android mobile deve
 ###LIBRARIES & CODE
 -------------------------------------------------
  
- ![ link image](http://androidweekly.net/system/images/5381d5/6eea6d8d09f5000046/square_Bildschirmfoto_2014-05-25_um_15.54.07.png) [**Mizuu**](https://github.com/MizzleDK/Mizuu) (github.com)
+ ![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.54.07.png) [**Mizuu**](https://github.com/MizzleDK/Mizuu) (github.com)
  
 Mizuu is a user friendly media center application for Android tablets and smartphones. The application helps manage all your movie and TV show video files - and automatically fetches useful information about the video content, including title, plot, cover art and actors.
  
@@ -98,13 +98,13 @@ Another release of Google Play services is out - version 4.4.This release includ
 ###APP OF THE WEEK
 -------------------------------------------------
  
-![ link image](http://androidweekly.net/system/images/537d2b/d2ea6d8d5cf4000015/square_Bildschirmfoto_2014-05-22_um_00.35.14.png)	 [**App Dialer**](https://play.google.com/store/apps/details?id=name.pilgr.appdialer&hl=en)  (play.google.com)
+![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-22_um_00.35.14.png)	 [**App Dialer**](https://play.google.com/store/apps/details?id=name.pilgr.appdialer&hl=en)  (play.google.com)
  
 The App Dialer provides a revolutionary way to app search! Only a few clicks on a simple T9 keyboard are required to launch any app. This saves time when you need to find and launch apps quickly.
  
 ###SPECIALS
 -------------------------------------------------
  
-![ link image](http://androidweekly.net/system/images/537f26/8eea6d8d0d48000098/square_Bildschirmfoto_2014-05-25_um_15.55.27.png)	 [**Spam Filter - Please Help Us**](http://androidweekly.net/)  (androidweekly.net)
+![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.55.27.png)	 [**Spam Filter - Please Help Us**](http://androidweekly.net/)  (androidweekly.net)
  
 In the past weeks we had some problems with the GMail spam filter. It would be very helpful if you could take a look at your email spam folders and mark our issues as "not spam". You can also keep our issues from landing in the spam folder by adding our email address to your address book. Thank you very much for your support!
