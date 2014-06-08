@@ -46,7 +46,7 @@ Renderscript 是一个非常复杂和铰接式的框架，它允许深入的配�
 
 最后，模糊图像出现了！ :+1:
 
-![image](http://awcntt-article-image.qiniudn.com/issue#103blur.png)
+![image](http://awcntt-article-image.qiniudn.com/issue103_blur.png)
 
 谨记：使用以上代码需要在API≥17(4.2.2)上运行
 
@@ -68,7 +68,7 @@ Renderscript 是一个非常复杂和铰接式的框架，它允许深入的配�
 
 原文地址：[https://plus.google.com/+MarioViviani/posts/fhuzYkji9zz](https://plus.google.com/+MarioViviani/posts/fhuzYkji9zz)
 
-译者：[whosea](https://github.com/whosea) 校对：[校对者ID](https://github.com/校对者ID)
+译者：[whosea](https://github.com/whosea) 校对：[inferjay](https://github.com/inferjay)
 
 本文由[AWCNTT](https://github.com/AWCNTT) 原创翻译，[AndroidWeekly中国](http://www.androidweekly.cn/) 荣誉推出
 
