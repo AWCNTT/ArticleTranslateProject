@@ -3,13 +3,13 @@
 [**GPlayServices #1: Save to Google Drive**](http://gmariotti.blogspot.com/2014/05/gplayservices-1-save-to-google-drive.html) (gmariotti.blogspot.com)
 A little snippet about how to save a file (or some content) to Google Drive with the Drive API included in Google Play Services.
  
-![ link image	 	](http://awcntt-article-image.qiniudn.com/issue#104square_Bildschirmfoto_2014-06-01_um_15.59.50.png) [**Learn from the biggest fails in the Play store**](http://bit.ly/andbigfails) (bit.ly)
+![ link image	 	](http://awcntt-article-image.qiniudn.com/issue104_square_Bildschirmfoto_2014-06-01_um_15.59.50.png) [**Learn from the biggest fails in the Play store**](http://bit.ly/andbigfails) (bit.ly)
 Android app bashing: Learn from the biggest fails in the Play store
  
 [**Defining Custom Pre and Post-Processing Tasks in Gradle**](http://www.crashlytics.com/blog/defining-custom-pre-and-post-processing-tasks-in-gradle/) (www.crashlytics.com)
 Jake Ouellette shares some Gradle tips and tricks used to make the Crashlytics plugin.
  
-![ link image	 	](http://awcntt-article-image.qiniudn.com/issue#104square_Bildschirmfoto_2014-06-01_um_15.59.50.png) [**How to develop an Android Weather app using Weatherlib**](http://www.survivingwithandroid.com/2014/05/how-to-develop-android-weather-app.html) (www.survivingwithandroid.com)
+![ link image	 	](http://awcntt-article-image.qiniudn.com/issue104_square_Bildschirmfoto_2014-06-01_um_16.01.58.png) [**How to develop an Android Weather app using Weatherlib**](http://www.survivingwithandroid.com/2014/05/how-to-develop-android-weather-app.html) (www.survivingwithandroid.com)
 Weatherlib is an Android lib that helps to easily and quickly develop a weather app. This post describes the main concepts that stand behind the lib so that you can understand it better.
  
 [**How Dropbox Uses C++ for Cross-Platform iOS and Android Development**](http://oleb.net/blog/2014/05/how-dropbox-uses-cplusplus-cross-platform-development/) (oleb.net)
@@ -19,11 +19,11 @@ A summary of notes from the talk by Mailbox developer Steven Kabbesʼs about how
 This tutorial I will go over creating an app that plays an online audio stream from a mobile device over the Ford Sync system.
  
 ###SPONSORED
-![ link image	 	 ](http://awcntt-article-image.qiniudn.com/issue#104square_Bildschirmfoto_2014-06-01_um_16.02.34.png)[**Appnext: Get a bonus on top of your monetization revenue**](http://blog.appnext.com/?ref=adrw/2014/06/01/june-bonuses-are-here-get-500-on-top-of-your-monetization-revenue/) (blog.appnext.com)
+![ link image	 	 ](http://awcntt-article-image.qiniudn.com/issue104_square_Bildschirmfoto_2014-06-01_um_16.02.34.png)[**Appnext: Get a bonus on top of your monetization revenue**](http://blog.appnext.com/?ref=adrw/2014/06/01/june-bonuses-are-here-get-500-on-top-of-your-monetization-revenue/) (blog.appnext.com)
 Throughout June the app developers get a bonus on top of the core revenue monetizing their apps with appnext. Try it.
  
 ###DESIGN
-![ link image	 	 ](http://awcntt-article-image.qiniudn.com/issue#104square_Bildschirmfoto_2014-06-01_um_16.04.05.png)[**Unoptimized tablet experience is a missed opportunity**](http://androiduiux.com/2014/05/30/unoptimized-tablet-experience/) (androiduiux.com)
+![ link image	 	 ](http://awcntt-article-image.qiniudn.com/issue104_square_Bildschirmfoto_2014-06-01_um_16.04.05.png)[**Unoptimized tablet experience is a missed opportunity**](http://androiduiux.com/2014/05/30/unoptimized-tablet-experience/) (androiduiux.com)
 After Taylor Ling saw the refreshed UI of Bank of America app which looks OK on the phone, but terribly on the tablet device, he wrote this blog post on the topic.
  
 ###JOBS
@@ -52,7 +52,7 @@ Notes and GitHub repo from AnDevCon Boston presentation "Building a Custom Camer
 [**Android SlideShow Widget**](https://github.com/marvinlabs/android-slideshow-widget) (github.com)
 A set of widgets to create smooth slide shows with ease. The slide show components are fully customizable and are not limited to pictures, you can slide whatever you want to (text, etc.).
  
-![ link image	 	 ](http://awcntt-article-image.qiniudn.com/issue#104square_Bildschirmfoto_2014-06-01_um_16.04.51.png)[**MagicViews**](https://github.com/ikocijan/MagicViews) (github.com)
+![ link image	 	 ](http://awcntt-article-image.qiniudn.com/issue104_square_Bildschirmfoto_2014-06-01_um_16.04.51.png)[**MagicViews**](https://github.com/ikocijan/MagicViews) (github.com)
 Provides a simple way to set custom font in Android application with more coming soon.
  
 ###TOOLS
