@@ -1,7 +1,6 @@
 #Issue #103
 
 ###ARTICLES & TUTORIALS
--------------------------------------------------
  
  ![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.41.30.png) [**Shadow effect with custom shapes**](http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/) (slothdevelopers.wordpress.com)
  
@@ -36,7 +35,6 @@ Cyril Mottier published a "behind the scene" blog post to described how and why 
 This slide deck gives a nice overview of where to find Android resources that can help speed up development of your app.
  
 ###JOBS
--------------------------------------------------
  
 [**Android Engineer @ Tumblr**](http://www.jobscore.com/jobs2/tumblr/android-engineer/aVgT38MQ0r4RdviGakNqq7?ref=rss&sid=68) (New York)
 
@@ -55,7 +53,6 @@ Phunware is the 4th fastest growing software company in the U.S. per the latest 
 Do more than code. Raizlabs is seeking an experienced senior Android mobile developer to engineer beautiful apps and influence product direction for startups and big brands, alike. You’ll be working with enthusiastic and supportive peers in a trust-based work environment. Check out www.raizlabs.com
  
 ###LIBRARIES & CODE
--------------------------------------------------
  
  ![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.54.07.png) [**Mizuu**](https://github.com/MizzleDK/Mizuu) (github.com)
  
@@ -66,7 +63,6 @@ Mizuu is a user friendly media center application for Android tablets and smartp
 Swipeable-cards is a native library for Android that provide a Tinder card like effect. A card can be constructed using an image and displayed with animation effects, dismiss-to-like and dismiss-to-unlike, and use different sorting mechanisms.
  
 ###TOOLS
--------------------------------------------------
  
 [**Sending Android Logs with Live Templates in IntelliJ IDEA**](http://www.pawegio.com/2014/05/20/sending-android-logs-with-live-templates-in-intellij-idea-and-android-studio/) (www.pawegio.com)
 
@@ -85,7 +81,6 @@ This is a faster fork of ProGuard, based off of ProGuard 4.11. Our tests show th
 ContentProviders can be a hassle to maintain. For every Uri you create you have to add it to 5 different methods, as well as add it to your UriMatcher. To alleviate this, Schematic generates the ContentProvider for you. All you have to do is define the Uri's and annotate them.
  
 ###VIDEOS
--------------------------------------------------
  
 [**Effective Android Messaging**](https://www.youtube.com/watch?v=GXvxxAb7RMY&feature=youtu.be) (www.youtube.com)
 
@@ -96,14 +91,12 @@ Messaging is a powerful addition to your Android app, but implementation can be 
 Another release of Google Play services is out - version 4.4.This release includes a blockbuster announcement: Street View for Google Maps Android API. There's also a whole lot more!
  
 ###APP OF THE WEEK
--------------------------------------------------
  
 ![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-22_um_00.35.14.png)	 [**App Dialer**](https://play.google.com/store/apps/details?id=name.pilgr.appdialer&hl=en)  (play.google.com)
  
 The App Dialer provides a revolutionary way to app search! Only a few clicks on a simple T9 keyboard are required to launch any app. This saves time when you need to find and launch apps quickly.
  
 ###SPECIALS
--------------------------------------------------
  
 ![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.55.27.png)	 [**Spam Filter - Please Help Us**](http://androidweekly.net/)  (androidweekly.net)
  
