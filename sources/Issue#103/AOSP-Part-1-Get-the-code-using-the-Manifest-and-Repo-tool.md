@@ -8,6 +8,7 @@ categories: xxxxx(文章关键字，多个关键字用英文空格分割)
 
 With a new job at a new place, I decided to also try a new laptop running a new platform – Mac OS. I always used Windows before that. I have used Linux as a VM and on servers I worked on, but as a primary OS – I sticked with Windows (with no particular reason).  After many recommendations, I decided to give Mac its big break. As one big advantage of Mac over Windows – I could build my own [Android ROM](http://droidlessons.com/what-are-roms-for-android/) (Android operation system software, running on a device), which i’ve wanted to try and do for a long time.
 
+![image](http://awcntt-article-image.qiniudn.com/issue103_wpid-images-21.jpg)
 
 It wasn’t an easy start..
 
@@ -183,7 +184,7 @@ Mirroring CyanogenMod – This post helps creating a mirroring manifest for the 
 ---
 
 
-原文地址：[https://github.com/AWCNTT/ArticleTranslateProject](https://github.com/AWCNTT/ArticleTranslateProject)
+原文地址：[http://udinic.wordpress.com/2014/05/24/aosp-part-1-get-the-code-using-the-manifest-and-repo/](http://udinic.wordpress.com/2014/05/24/aosp-part-1-get-the-code-using-the-manifest-and-repo/)
 
 译者：[译者ID](https://github.com/译者ID) 校对：[校对者ID](https://github.com/校对者ID)
 
