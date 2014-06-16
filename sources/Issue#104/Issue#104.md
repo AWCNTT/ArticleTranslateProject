@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Issue #104"
+date: 2014-06-08 11:47
+comments: true
+categories: Issue #104
+---
+
 #Issue #104
 ###ARTICLES & TUTORIALS
 [**GPlayServices #1: Save to Google Drive**](http://gmariotti.blogspot.com/2014/05/gplayservices-1-save-to-google-drive.html) (gmariotti.blogspot.com)
@@ -62,3 +70,14 @@ Google just released Android Studio 0.5.9 with numerous bug fixes and improvemen
 ###VIDEOS
 [**Infinum Android Talks #05**](https://www.youtube.com/watch?v=PS-4VZi750s) (www.youtube.com)
 Learn about best practices, tools and libraries for creating better Android apps! 1. Square tape - +Ivan Kocijan  2. UI optimization of android applications - +Dino Kovač  3. DbInspector library - Dino Kovač 4. Android labs notifier -Ivan Marić 5. OnSavedInstanceState - +Marko Vitas 
+
+
+---
+
+原文地址：[https://github.com/AWCNTT/ArticleTranslateProject](https://github.com/AWCNTT/ArticleTranslateProject)
+
+译者：[译者ID](https://github.com/译者ID) 校对：[校对者ID](https://github.com/校对者ID)
+
+本文由[AWCNTT](https://github.com/AWCNTT) 原创翻译，[AndroidWeekly中国](http://www.androidweekly.cn/) 荣誉推出
+
+版权声明：原创译文欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
