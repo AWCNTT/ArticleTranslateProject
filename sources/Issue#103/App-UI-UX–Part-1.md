@@ -1,28 +1,26 @@
 ---
 layout: post
-title: "文章中文标题xxxx"
-date: xxxx-xx-xx xx:xx
+title: "Part 1 - App界面效果和用户体验"
+date: 2014-6-18 15:00
 comments: true
-categories: Bluetooth-LE
+categories: App界面效果和用户体验
 ---
 
-In the [**previous series on Bluetooth LE**](http://blog.stylingandroid.com/archives/2394) we got a simple app working which read temperature and humidity values from a Texas Instruments SensorTag, and displayed them. Functionally the app worked quite well but, because the series was focused on BLE topics, we neglected the UI somewhat. In this series we’ll take a look at various techniques that we can employ to make our app feel much nicer, and provide a richer and, hopefully, more engaging experience for the user.
+在之前一系列的Bluetooth LE文章中，我们知道如何从Texas Instruments SensorTag读取温度和湿度值并展示出来。从功能看该app运行不错，但由于之前Bluetooth LE的系列文章关注点都在BLE上，而忽视了UI的重要性。所以在这系列文章里我们将使用不同技术来美化app，给用户一个丰富、充满希望和更具有吸引力的用户界面。
 
-Let’s begin with a quick review of the current UI architecture of the app. The source code that we’re going to base this series on is the same code with which we finished the last series, but to avoid confusion I’ve forked a new repo, and the starting source can be found [**here**](https://bitbucket.org/StylingAndroid/appuiux/src/d6feddcb87aaf07d4eaafc6bb7150a48492e9dd3/?at=Initial).
+快速回顾一下该app的UI架构，目前这一系列的文章到结束都是用同一个项目的代码，为了避免混乱我重新fork新的repo，大家可以从[这里](https://bitbucket.org/StylingAndroid/appuiux/src/d6feddcb87aaf07d4eaafc6bb7150a48492e9dd3/?at=Initial)找到开始源码。
 
-The communication mechanism between our Activity and the Service responsible for communicating with the SensorTag has [**already been covered**](http://blog.stylingandroid.com/archives/2408), the only thing that we need to know is that we’ll receive Message events when the state of the Service changes and, once we’re connected to the SensorTag, when new data arrives.
+Activity和Service通讯机制负责与SensorTag通讯，而这些交互都隐藏在背后。我们只要知道当Service改变时我们会接收到消息数据，数据达到后就连接到SensorTag。
 
-The Activity itself is a state machine which will switch between two Fragments depending on the state of the Service. If we are connected to a SensorTag then DisplayFragment will be displayed, otherwise DeviceListFragment will be displayed.
+Activity本身会在两个Fragments中根据Service的状态切换，如果连接上SensorTag，那么DisplayFragment显示，连接失败则DeviceListFragment显示。
 
-Let’s begin by focusing our attention on DisplayFragment. While this won’t be the first thing that the user sees when they start our app, it’s the area where they will (hopefully!) spend the most time, so let’s give it some UI love. The current UI is functional, but both dull and quite difficult to read:
+我们来关注DisplayFragment。用户打开app第一眼看到的不是DisplayFragment，因为这里（有可能）耗过多的时间，因此在加载期间放上一些好看的UI。该UI虽很实用但代码却枯燥乏味难以阅读。
 
 ![display_initial](http://awcntt-article-image.qiniudn.com/issue103_display_initial.png)
 
-The first thing that we’ll do is make our app portrait only. We can and should support all orientations, but for the sake of creating a simple example, let’s keep things portrait only:
+我们这里只做垂直的布局（本应该支持所有方向的布局），但是由于只是做个简单的例子，所以暂时只有垂直布局。
 
-AndroidManifest.xml
-
-``` xml
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.stylingandroid.ble">
@@ -47,16 +45,16 @@ AndroidManifest.xml
         </activity>
         <service android:name=".BleService">
         </service>
-    </application> 
+    </application>
+ 
 </manifest>
 ```
 
-Next we’ll look at the general layout. We obviously need to make things bigger, but let’s also think about making it more visually appealing. We’ll remove the label TextViews, increase the font sizes, centre things, and place some grey boxes around the TextViews. We’ll enclose the whole lot in a FrameLayout with a blue background. We’ll do something interesting with this in later on in the series:
+接下来看看布局，明显我们需要将布局改大，同时视觉上看起来也是享受。我们先移除以前`TextViews`标签的属性，增加字体大小并居中，给`TextViews`周围边框线条设成灰色，再给`FrameLayout`附上蓝色背景。后面一系列的文章我们将做一些有趣的事情：
 
-fragment_display.xml
-
-``` xml
-<?xml version="1.0" encoding="utf-8"?> 
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+ 
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -103,9 +101,7 @@ fragment_display.xml
 </FrameLayout>
 ```
 
-There are a few resource files which support this. Firstly there are some dimension values in **res/xml/dimens.xml**:
-
-dimens.xml
+这里需要一些资源文件来支持以上布局。首先在res/xml/dimens.xml设置一些尺寸变量的值：
 
 ```xml
 <resources>
@@ -115,11 +111,9 @@ dimens.xml
 </resources>
 ```
 
-And there are also some colour definitions in **res/xml/colours.xml**:
+同样res/xml/colours.xml里也需要设置一些颜色变量的值：
 
-colours.xml
-
-``` xml
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="text">#A0FFFFFF</color>
@@ -128,24 +122,21 @@ colours.xml
 </resources>
 ```
 
-There’s nothing particularly complicated here, so I haven’t bothered going in to detail. But the basic layout looks like this:
+这里没什么特别复杂的地方，我就不唠叨了。最后基本的布局如下：
 
 ![display_layout](http://awcntt-article-image.qiniudn.com/issue103_display_layout.png)
 
-So we have our basic layout, but we can improve it further. In the next article in this series we’ll look at using custom typefaces to bring some additional visual appeal to our app, and also look at an alternate to the static text labels (for “Temperature” and “Humidity” which we removed earlier).
+有了基本布局后，我们将在后续文章改善优化它。后续文章里我们将在app自定义字体，以达到更好的效果，并且用静态text标签来替代（之前的“Temperature”和“Humidity”用的标签将会移除）。
 
-The source code for this article is available [**here**](http://code.stylingandroid.com/appuiux/src/72ebcc0463e879f9d6f71df0100891bc9470189a/?at=Part1).
+本文章的源码——[here](http://code.stylingandroid.com/appuiux/src/72ebcc0463e879f9d6f71df0100891bc9470189a/?at=Part1)
 
-© 2014, [**Mark Allison**](http://blog.stylingandroid.com/). All rights reserved. This article originally appeared on [**Styling Android**](http://blog.stylingandroid.com/[link](http://)).
-
-Portions of this page are modifications based on work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License
+© 2014, Mark Allison. All rights reserved. This article originally appeared on [Styling Android](http://blog.stylingandroid.com/).
 
 ---
 
+原文地址：http://blog.stylingandroid.com/archives/2571
 
-原文地址：[https://github.com/AWCNTT/ArticleTranslateProject](https://github.com/AWCNTT/ArticleTranslateProject)
-
-译者：[译者ID](https://github.com/译者ID) 校对：[校对者ID](https://github.com/校对者ID)
+译者：[whosea](https://github.com/whosea) 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由[AWCNTT](https://github.com/AWCNTT) 原创翻译，[AndroidWeekly中国](http://www.androidweekly.cn/) 荣誉推出
 
