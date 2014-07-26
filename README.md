@@ -41,6 +41,8 @@
 * 2014/05/15 [inferjay](https://github.com/inferjay)有了翻译文章的想法并注册`androidweekly.cn`的域名。
 * 2014/05/19 与[whosea](https://github.com/whosea)交流做翻译`androidweekly.net`每期weekly文章的想法并得到`whosea`的积极相应。
 * 2014/05/26 经过与`Androidweekly.net`主站维护者几天的邮件沟通确定了合作关系，并成立翻译小组`AWCNTT`。
+* 2014/07/23 [jackuhan](https://github.com/jackuhan) 加入翻译小组。
+* 2014/07/26 [lsjwzh](https://github.com/lsjwzh) 加入翻译小组。
 
 版权声明
 -------------------------------
