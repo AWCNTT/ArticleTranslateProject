@@ -8,6 +8,7 @@ categories: Issue#106
 
 #Issue #106
 
+
 ###ARTICLES & TUTORIALS
 ---
  
@@ -50,14 +51,10 @@ In this second part in a series, Antonio Leiva dives into some simple examples o
 [Theming ActionBar and the SearchView within it](http://www.jayway.com/2014/06/02/android-theming-the-actionbar/) (www.jayway.com)
 
 An in-depth article on providing the appropriate theme values for the default SearchView.
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue106_square_Bildschirmfoto_2014-06-15_um_17.13.58.png) 
 	
 [Android Version Distribution](http://robux4.blogspot.fr/2014/06/android-version-distribution.html) (robux4.blogspot.fr)
  
-Here's a look at the Android version distributions over the years, with some analysis of how version usage changes over time.
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue106_square_Bildschirmfoto_2014-06-15_um_17.15.20.png) 	
+Here's a look at the Android version distributions over the years, with some analysis of how version usage changes over time.	
 
 [App UI / UX – Part 4 ](http://blog.stylingandroid.com/archives/2637)(blog.stylingandroid.com)
  
@@ -65,8 +62,6 @@ Previously in this series Mark Allison looked at improving the UI of an app to d
  
 ###SPONSORED
 ----
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue106_square_testdroid_cloud_logo_85x_85.png)
 
 [Mobile App Testing on Real Devices with Testdroid ](http://www2.testdroid.com/l/21572/2014-06-13/93hr3)(www2.testdroid.com)
  
@@ -74,8 +69,6 @@ Testdroid is a family of development and testing products for Android and iOS ap
  
 ####LIBRARIES & CODE
 ----
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue106_square_Bildschirmfoto_2014-06-15_um_17.17.07.png)
 
 [Progress Pie View ](https://github.com/FilipPudak/ProgressPieView)(github.com)
  
@@ -95,8 +88,6 @@ A PageTransformer for ViewPager that provides a parallax effect.
  
 ####NEWS
 -----
- 
-![ link image](http://awcntt-article-image.qiniudn.com/issue106_square_Bildschirmfoto_2014-06-15_um_17.16.11.png)
 
 [June Android Platform Distribution Numbers Released](http://www.androidpolice.com/2014/06/04/june-android-platform-distribution-numbers-released-kitkat-up-to-13-6-4-2-and-4-3-continue-to-climb/) (www.androidpolice.com)
 
@@ -116,7 +107,7 @@ A new version of Android Studio has been released with numerous improviements, i
 ---
 
 
-原文地址：[https://github.com/AWCNTT/ArticleTranslateProject](https://github.com/AWCNTT/ArticleTranslateProject)
+原文地址：[http://androidweekly.net/issues/issue-106](http://androidweekly.net/issues/issue-106)
 
 译者：[译者ID](https://github.com/译者ID) 校对：[校对者ID](https://github.com/校对者ID)
 
