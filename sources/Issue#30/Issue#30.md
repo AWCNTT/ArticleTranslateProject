@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Issue#30"
+date: 2014-07-27 00:10
+
+comments: true
+categories: Issue#30
+---
+
 #Issue #30
 
 ###ARTICLES & TUTORIALS
