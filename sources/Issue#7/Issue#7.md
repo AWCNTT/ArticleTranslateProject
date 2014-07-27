@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Issue@@@"
-date: 2014-07-27 14:19
+title: "Issue#7"
+date: 2014-07-27 16:16
 
 comments: true
-categories: Issue@@@
+categories: Issue#7
 ---
 
 #Issue #7
@@ -50,3 +50,15 @@ In this Android services example, you will learn how to create an Android servic
 
 [**GanttDroid Lite**](https://market.android.com/details?id=es.ganttdroidlite)(market.android.com)
 Gantt Chart and Project management for Android.
+
+
+---
+
+
+原文地址：[http://androidweekly.net/issues/issue-7](http://androidweekly.net/issues/issue-7)
+
+译者：[译者ID](https://github.com/译者ID) 校对：[校对者ID](https://github.com/校对者ID)
+
+本文由[AWCNTT](https://github.com/AWCNTT) 原创翻译，[AndroidWeekly中国](http://www.androidweekly.cn/) 荣誉推出
+
+版权声明：原创译文欢迎自由转载-非商用-非衍生-保持署名 | [Creative Commons BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
