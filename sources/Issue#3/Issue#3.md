@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Issue3"
+title: "Issue#3"
 date: 2014-07-27 13:19
 
 comments: true
-categories: Issue3
+categories: Issue#3
 ---
 
 #Issue #3
