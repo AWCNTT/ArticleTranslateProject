@@ -70,7 +70,7 @@ Here comes a little dp to px calculator in case you need it.
 ---
 
 
-原文地址：[http://androidweekly.net/issues/issue-](http://androidweekly.net/issues/issue-)
+原文地址：[http://androidweekly.net/issues/issue-43-birthday-issue](http://androidweekly.net/issues/issue-43-birthday-issue)
 
 译者：[译者ID](https://github.com/译者ID) 校对：[校对者ID](https://github.com/校对者ID)
 
