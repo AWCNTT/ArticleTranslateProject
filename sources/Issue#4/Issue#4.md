@@ -9,23 +9,8 @@ categories: Issue#4
 
 #Issue #4
 
-###HEADLINES
----
-[**Ice Cream Sandwich source code hits AOSP**](http://androidandme.com/2011/11/news/ice-cream-sandwich-source-code-hits-aosp-custom-roms-are-a-go/?utm_source=rss&utm_medium=rss&utm_campaign=ice-cream-sandwich-source-code-hits-aosp-custom-roms-are-a-go&utm_medium=referral)(androidandme.com)
-
-The source code of Android 4.0 "Ice Cream Sandwich" is now available. The new Cyanogenmod will be awaited.
-
- 
-[**200 million Android devices**](http://androidandme.com/2011/11/news/200-million-android-devices-have-been-activated-globally-550000-new-additions-daily/?utm_source=rss&utm_medium=rss&utm_campaign=200-million-android-devices-have-been-activated-globally-550000-new-additions-daily&utm_medium=referral)(androidandme.com)
-
-The rise of Android continues with 550 thousand activations daily.
-
- 
 ###ARTICLES AND TUTORIALS
 ---
-[**Speeding up Android development**](http://brunocosta.com/blog/2011/11/02/speeding-up-android-development-with-android-x86-and-virtualbox/)(brunocosta.com)
-
-Bored of having coffee while your emulator boots up? This post explains how to speed up your emulator with Virtual Box.
 
 [**Drag and Drop part 3**](http://codingjunkie.net/android-drag-and-drop-part-3/)(codingjunkie.net)
 

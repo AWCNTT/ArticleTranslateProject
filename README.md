@@ -253,6 +253,8 @@
 	* 
 * [Issue #4](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%234/Issue%234.md)
 	* 
+	* 
+	* 
 * [Issue #3](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%233/Issue%233.md)
 	* [Android Development: Background Process for a Heavy Task](http://www.brighthub.com/mobile/google-android/articles/117359.aspx)
 	* [Android Drag and Drop (Part 2)](http://codingjunkie.net/android-drag-and-drop-part-2/)
