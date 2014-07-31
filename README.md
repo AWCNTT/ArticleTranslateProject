@@ -266,6 +266,7 @@
 * [whosea](https://github.com/whosea)
 * [jackuhan](https://github.com/jackuhan)
 * [lsjwzh](https://github.com/lsjwzh)
+* [lushan1314](https://github.com/lushan1314)
 
 项目历史
 -------------------------------
@@ -275,6 +276,8 @@
 * 2014/05/26 经过与`Androidweekly.net`主站维护者几天的邮件沟通确定了合作关系，并成立翻译小组`AWCNTT`。
 * 2014/07/23 [jackuhan](https://github.com/jackuhan) 加入翻译小组。
 * 2014/07/26 [lsjwzh](https://github.com/lsjwzh) 加入翻译小组。
+* 2014/07/31 [lushan1314](https://github.com/lushan1314) 加入翻译小组。
+
 
 版权声明
 -------------------------------
