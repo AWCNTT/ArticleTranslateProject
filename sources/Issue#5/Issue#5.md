@@ -37,16 +37,6 @@ NewQuickAction is a small android library to create QuickAction dialog.
 
 [**Brian Tarricone convenience Classes for Android**](https://github.com/kelnos/bt-android-utils)(github.com)
 
-###HEADLINES
----
-
-[**BildAndroid App Revenue**](http://www.androidauthority.com/android-app-revenue-only-7-of-ios-revenue-not-so-fast-34241/)(androidauthority.com)
-A great drilldown on Android vs. iOS revenue.
-
- 
-[****BildAndroid Ice Cream Sandwich guinea pig**](http://i.imgur.com/Oh6sM.jpg)(jpg)
-Humours take on the headline "Galaxy Nexus: Android Ice Cream Sandwich guinea pig".
-
 ###SCREENCASTS
 ---
 

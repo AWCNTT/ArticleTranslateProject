@@ -252,9 +252,8 @@
 * [Issue #5](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%235/Issue%235.md)
 	* 
 * [Issue #4](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%234/Issue%234.md)
-	* 
-	* 
-	* 
+	* [Android Drag and Drop (Part 3)](http://codingjunkie.net/android-drag-and-drop-part-3/)
+	* [Working with XML on Android](http://www.ibm.com/developerworks/opensource/library/x-android/index.html)	
 * [Issue #3](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%233/Issue%233.md)
 	* [Android Development: Background Process for a Heavy Task](http://www.brighthub.com/mobile/google-android/articles/117359.aspx)
 	* [Android Drag and Drop (Part 2)](http://codingjunkie.net/android-drag-and-drop-part-2/)
