@@ -10,9 +10,6 @@ categories: Issue#1
 
 ###Articles and Tutorials
 ---
-[http://clayallsopp.posterous.com/building-an-android-app-from-scratch-or-this](http://clayallsopp.posterous.com/building-an-android-app-from-scratch-or-this) 
-
-An Android Tutorial aimed for iOS Developers.
 
 [http://android-developers.blogspot.com/2011/10/introducing-android-webdriver.html](http://android-developers.blogspot.com/2011/10/introducing-android-webdriver.html)
  
