@@ -32,13 +32,6 @@ Speed up your Android development with an x86 based Android Emulator that runs o
 
 [**A UI control to show a wheel select.**](http://code.google.com/p/android-wheel/)(code.google.com)
 
-###HEADLINES
----
-
-[**Pricing your App correctly to increase sales.**](http://www.appbackr.com/blog/developers/pricing-android-app)(appbackr.com)
-
-[**Android the plattform for prototypes**](http://robsandhu.tumblr.com/post/15537100360/android-the-platform-for-prototypes)(robsandhu.tumblr.com)
-
 ###SCREENCASTS
 ---
 
