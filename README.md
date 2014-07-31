@@ -248,20 +248,25 @@
 * [Issue #7](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%237/Issue%237.md)
 	* 
 * [Issue #6](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%236/Issue%236.md)
-	* 
+	* [Designing For Android](http://)
+	* [Android Development - Tutorial](http://)
+	* [Customize button in Android](http://)
+
 * [Issue #5](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%235/Issue%235.md)
 	* [Android SDK: Embed a WebView with the WebKit Engine](http://code.tutsplus.com/tutorials/android-sdk-embed-a-webview-with-the-webkit-engine--mobile-1459)
 	* [Pixel-perfect Android web UIs](http://designbycode.tumblr.com/post/1127120282/pixel-perfect-android-web-ui)
 	* [Custom Android Tabs](http://joshclemm.com/blog/?p=136)
 	* [Quick Tip: Customize Android Fonts](http://code.tutsplus.com/tutorials/customize-android-fonts--mobile-1601)
-	
+
 * [Issue #4](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%234/Issue%234.md)
 	* [Android Drag and Drop (Part 3)](http://codingjunkie.net/android-drag-and-drop-part-3/)
-	* [Working with XML on Android](http://www.ibm.com/developerworks/opensource/library/x-android/index.html)	
+	* [Working with XML on Android](http://www.ibm.com/developerworks/opensource/library/x-android/index.html)
+
 * [Issue #3](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%233/Issue%233.md)
 	* [Android Development: Background Process for a Heavy Task](http://www.brighthub.com/mobile/google-android/articles/117359.aspx)
 	* [Android Drag and Drop (Part 2)](http://codingjunkie.net/android-drag-and-drop-part-2/)
-	* [Developer Income Report](http://www.kreci.net/reports/)	
+	* [Developer Income Report](http://www.kreci.net/reports/)
+	
 * [Issue #2](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%232/Issue%232.md)
 	* [OAuth and REST in Android: Part 1](http://simpleprogrammer.com/2011/05/25/oauth-and-rest-in-android-part-1/)
 	* [Android Drag and Drop (Part 1)](http://codingjunkie.net/android-drag-and-drop-part1/)
