@@ -242,7 +242,10 @@
 * [Issue #10](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2310/Issue%2310.md)
 	* 
 * [Issue #9](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%239/Issue%239.md)
-	* 
+	* [Using SQLite Database with Android](http://agiliq.com/blog/2011/12/using-sqlite-database-with-android/)
+	* [Holo Everywhere](http://android-developers.blogspot.com/2012/01/holo-everywhere.html)
+	* [What Android Apps Should Look like?](http://www.androiduipatterns.com/2011/12/how-should-android-apps-look-like_16.html)
+	
 * [Issue #8](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%238/Issue%238.md)
 	* [JSON in Android - Tutorial](http://www.vogella.com/tutorials/AndroidJSON/article.html)
 	* [New Layout Widgets: Space and GridLayout](http://android-developers.blogspot.com/2011/11/new-layout-widgets-space-and-gridlayout.html)
