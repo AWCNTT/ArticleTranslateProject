@@ -244,7 +244,11 @@
 * [Issue #9](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%239/Issue%239.md)
 	* 
 * [Issue #8](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%238/Issue%238.md)
-	* 
+	* [JSON in Android - Tutorial](http://www.vogella.com/tutorials/AndroidJSON/article.html)
+	* [New Layout Widgets: Space and GridLayout](http://android-developers.blogspot.com/2011/11/new-layout-widgets-space-and-gridlayout.html)
+	* [How about some Android graphics true facts?](https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s)
+	* [Some true Android graphics facts - Part II](https://plus.google.com/+AndrewMunn/posts/VDkV9XaJRGS)
+
 * [Issue #7](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%237/Issue%237.md)
 	* [Android Cloud to Device Messaging (C2DM) - Tutorial](http://www.vogella.de/articles/AndroidCloudToDeviceMessaging/article.html)
 	* [Custom XML attributes and views](http://staticallytyped.wordpress.com/2011/04/16/android-custom-xml-attributes-and-views/)

@@ -38,7 +38,7 @@ This library provides an easy way to annotate map overlay items with a simple in
 ###HEADLINES
 ---
 
-**Dianne HackbornSome true Android graphics facts?[**](https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s)(google+)
+[**Dianne HackbornSome true Android graphics facts?**](https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s)(google+)
 
 Last week Dianne Hackborn explained some of the Android graphic pipeline internals...
  
