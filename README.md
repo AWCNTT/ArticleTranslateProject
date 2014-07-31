@@ -246,11 +246,14 @@
 * [Issue #8](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%238/Issue%238.md)
 	* 
 * [Issue #7](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%237/Issue%237.md)
-	* 
+	* [Android Cloud to Device Messaging (C2DM) - Tutorial](http://www.vogella.de/articles/AndroidCloudToDeviceMessaging/article.html)
+	* [Custom XML attributes and views](http://staticallytyped.wordpress.com/2011/04/16/android-custom-xml-attributes-and-views/)
+	* [GridLayout – Part 1](http://blog.stylingandroid.com/archives/669#more-669)
+	 
 * [Issue #6](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%236/Issue%236.md)
-	* [Designing For Android](http://)
-	* [Android Development - Tutorial](http://)
-	* [Customize button in Android](http://)
+	* [Designing For Android](http://coding.smashingmagazine.com/2011/06/30/designing-for-android/)
+	* [Android Development - Tutorial](http://www.vogella.de/articles/Android/article.html)
+	* [Customize button in Android](http://nishantvnair.wordpress.com/2010/11/09/customize-button-in-android/)
 
 * [Issue #5](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%235/Issue%235.md)
 	* [Android SDK: Embed a WebView with the WebKit Engine](http://code.tutsplus.com/tutorials/android-sdk-embed-a-webview-with-the-webkit-engine--mobile-1459)
