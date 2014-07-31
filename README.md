@@ -256,9 +256,12 @@
 * [Issue #3](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%233/Issue%233.md)
 	* 
 * [Issue #2](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%232/Issue%232.md)
-	* 
+	* [OAuth and REST in Android: Part 1](http://simpleprogrammer.com/2011/05/25/oauth-and-rest-in-android-part-1/)
+	* [Android Drag and Drop (Part 1)](http://codingjunkie.net/android-drag-and-drop-part1/)
+	* [Android Layout Tutorial](http://www.learn-android.com/2010/01/05/android-layout-tutorial/)
 * [Issue #1](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%231/Issue%231.md)
-	* 
+	* [Introducing Android WebDriver](http://android-developers.blogspot.com/2011/10/introducing-android-webdriver.html)
+	* [Learn Java for Android Development: Introduction to Java](http://mobile.tutsplus.com/tutorials/android/java-tutorial/ )
 	
 团队成员
 -------------------------------
