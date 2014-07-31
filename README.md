@@ -250,7 +250,11 @@
 * [Issue #6](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%236/Issue%236.md)
 	* 
 * [Issue #5](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%235/Issue%235.md)
-	* 
+	* [Android SDK: Embed a WebView with the WebKit Engine](http://code.tutsplus.com/tutorials/android-sdk-embed-a-webview-with-the-webkit-engine--mobile-1459)
+	* [Pixel-perfect Android web UIs](http://designbycode.tumblr.com/post/1127120282/pixel-perfect-android-web-ui)
+	* [Custom Android Tabs](http://joshclemm.com/blog/?p=136)
+	* [Quick Tip: Customize Android Fonts](http://code.tutsplus.com/tutorials/customize-android-fonts--mobile-1601)
+	
 * [Issue #4](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%234/Issue%234.md)
 	* [Android Drag and Drop (Part 3)](http://codingjunkie.net/android-drag-and-drop-part-3/)
 	* [Working with XML on Android](http://www.ibm.com/developerworks/opensource/library/x-android/index.html)	
