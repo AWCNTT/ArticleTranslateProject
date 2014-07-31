@@ -240,7 +240,9 @@
 * [Issue #11](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2311/Issue%2311.md)
 	* 
 * [Issue #10](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2310/Issue%2310.md)
-	* 
+	* [Android Notifications - Tutorial](http://www.vogella.com/tutorials/AndroidNotifications/article.html)
+	* [Speed up your Android Emulator](http://www.bobbychanblog.com/2011/07/faster-android-emulator-alternative-using-virtualbox/)
+	
 * [Issue #9](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%239/Issue%239.md)
 	* [Using SQLite Database with Android](http://agiliq.com/blog/2011/12/using-sqlite-database-with-android/)
 	* [Holo Everywhere](http://android-developers.blogspot.com/2012/01/holo-everywhere.html)
