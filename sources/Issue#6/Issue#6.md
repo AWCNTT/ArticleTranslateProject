@@ -34,19 +34,6 @@ Ever wanted to integrate QR Codes into your App? Heres a good library for that.
 
 The missing tabs widget.
 
-
-###HEADLINES
----
-
-[**Latest version of Android fragmentation**](http://www.androidcentral.com/android-version-numbers-dec-1-are-out-gingerbread-sees-big-boost)(androidcentral.com)
-
-Gingerbread sees a big boost.
-
-[**The Perfect Companion For The Android NDK**](http://www.arm.com/products/tools/software-tools/ds-5/community-edition/index.php)(arm.com)
-
-Develop high-performance native Android apps with new tools directly from ARM.
-
-
 ###SCREENCASTS
 ---
 
