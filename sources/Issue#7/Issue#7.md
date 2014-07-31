@@ -33,12 +33,6 @@ In this series of articles you’ll have a look at GridLayout and explore the wa
 [**Coverflow Widget**](http://www.inter-fuser.com/2010/02/android-coverflow-widget-v2.html)(inter-fuser.com)
 
 
-###HEADLINES
----
-[**Standing up for Android**](http://shiftyjelly.wordpress.com/2011/12/08/standing-up-for-android/)(shiftyjelly.wordpress.com)
- 
-[**billion Android App downloads**](http://www.androidcentral.com/google-officially-announces-10-billion-app-downloads-more-10-cent-apps-come)(androidcentral.com)
-
 ###SCREENCASTS
 ---
 [**Link BildAndroid Service Example**](http://wla.tv/5B5W)(wla.tv)
