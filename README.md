@@ -170,7 +170,13 @@
 * [Issue #46](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2346/Issue%2346.md)
 	* 
 * [Issue #45](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2345/Issue%2345.md)
-	* 
+	* [On Wizards](https://plus.google.com/+RomanNurik/posts/6cVymZvn3f4)
+	* [Add animations to your Android app](https://plus.google.com/+RomanNurik/posts/FpqgDJvRcgd)
+	* [Pull to Refresh – Part 2](http://blog.stylingandroid.com/archives/1350?utm_campaign=1350)
+	* [How to define a Android Multiline EditText](http://blog.vogella.com/2012/11/07/how-to-define-a-android-multiline-edittext/)
+	* [Use built-in feedback mechanism on Android](http://blog.tomtasche.at/2012/10/use-built-in-feedback-mechanism-on.html)
+	* [Getting the Android Emulator to Work on the Macbook Pro Retina Display](http://www.kotancode.com/2012/08/06/getting-the-android-emulator-to-work-on-the-macbook-pro-retina-display/)
+	
 * [Issue #44](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2345/Issue%2344.md)
 	* [Pull to Refresh – Part 1](http://blog.stylingandroid.com/archives/1341)
 	* [Android Scripts](http://udinic.wordpress.com/2012/10/24/android-scripts/)
