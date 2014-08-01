@@ -12,13 +12,6 @@ categories: Issue#34
 ###ARTICLES & TUTORIALS
 ---
 
-[**Android Performance Tweaking**](http://www.programmingmobile.com/2012/07/android-performance-tweaking-parsearray.html)(programmingmobile.com)
-
-In this blog post Isaac Hayes talks about the performance difference between a SpraseArray and a Hashmap.
-
- 
-[**How to get the most out of Android’s WebView?**](http://www.jmanzano.es/blog/?p=551)(jmanzano.es)
-
 In this blog post Javier Manzano talks about his experience when he integrated different OAuth providers via a WebView.
 
 [**Plurals**](http://blog.stylingandroid.com/archives/1136)(blog.stylingandroid.com)
