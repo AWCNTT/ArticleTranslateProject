@@ -192,7 +192,9 @@
 * [Issue #35](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/Issue%2335.md)
 	* 
 * [Issue #34](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2334.md)
-	* 
+	* [Plurals](http://blog.stylingandroid.com/archives/1136)
+	* [Android Sliding Drawer Tutorial](http://www.androidpeople.com/android-sliding-drawer-tutorial)
+		
 * [Issue #33](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2333.md)
 	* [Mobile Design Practices For Android: Tips And Techniques](http://www.smashingmagazine.com/2012/07/26/android-design-tips/)
 	* [Must-have Libraries in Modern Android Developer Toolbox](https://www.virag.si/2012/06/must-have-libraries-in-modern-android-developer-toolbox/)
