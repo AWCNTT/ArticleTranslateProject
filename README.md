@@ -212,7 +212,11 @@
 * [Issue #25](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2325/Issue%2325.md)
 	* 
 * [Issue #24](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%224/Issue%2324.md)
-	* 
+	* [Using Bitmap Fonts in Android](http://obviam.net/index.php/using-bitmap-fonts-in-android/)
+	* [What API level should I target?](http://simonvt.net/2012/02/07/what-api-level-should-i-target/)
+	* [Android C2DM - Client Login key expiration](http://android-developers.blogspot.de/2012/04/android-c2dm-client-login-key.html)
+	* [31 Days of Android: Day 3 - A Java Refresher](http://chrisrisner.com/31-Days-of-Android--Day-3---A-Java-Refresher)
+	
 * [Issue #23](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2323/Issue%2323.md)
 	* [Cloud to Device Messaging](http://www.vogella.com/tutorials/AndroidCloudToDeviceMessaging/article.html)
 	* [Creating Android Virtual Devices (AVDs)](http://chrisrisner.com/31-Days-of-Android--Day-2---Creating-Android-Virtual-Devices-(AVDs))
