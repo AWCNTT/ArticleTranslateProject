@@ -161,12 +161,13 @@
 * Issue #48
 	* 
 * [Issue #47](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2347/Issue%2347.md)
-	* Fragments and the Support Library
-	* ViewPager Redux - Part 2
-	* ViewPager Redux - Part 3
-	* ActionBar on the move
-	* Fun with Android and NFC
-	* Android Design Patterns
+	* [Fragments and the Support Library](http://www.grokkingandroid.com/getting-started-with-fragments-and-the-support-library/)
+	* [ViewPager Redux - Part 2](http://blog.stylingandroid.com/archives/1366)
+	* [ViewPager Redux - Part 3](http://blog.stylingandroid.com/archives/1378)
+	* [ActionBar on the move](http://cyrilmottier.com/2012/11/27/actionbar-on-the-move/)
+	* [Fun with Android and NFC](http://wiebe-elsinga.com/blog/fun-with-android-and-nfc/)
+	* [Android Design Patterns](http://de.slideshare.net/penano/android-design-patterns-15425401)
+	
 * [Issue #46](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2346/Issue%2346.md)
 	* [Examining the ViewPager](http://www.androidzeitgeist.com/p/viewpager.html)
 	* [ViewPager Redux – Part 1](http://blog.stylingandroid.com/archives/1357)
