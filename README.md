@@ -178,7 +178,10 @@
 * [Issue #42](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2342.md)
 	* 
 * [Issue #41](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2341/Issue%2341.md)
-	* 
+	* [Android: Adding a change log dialog to your app](http://martin.cubeactive.com/android-how-to-create-a-change-log-dialog/)
+	* [Take These Steps to Make your Android App Accessible](http://www.grokkingandroid.com/steps-to-making-android-app-accessible/)
+	* [Styling the ActionBar – Part 4](http://blog.stylingandroid.com/archives/1285)
+	
 * [Issue #40](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2340/Issue%2340.md)
 	* [Twitter Feed on an App Widget](http://blog.blundell-apps.com/tut-twitter-on-an-app-widget/)
 	* [Styling the ActionBar – Part 3](http://blog.stylingandroid.com/archives/1267)
