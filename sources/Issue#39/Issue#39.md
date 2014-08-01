@@ -21,10 +21,6 @@ Mark Allisons 2nd post about styling the ActionBar. Be sure that you check out t
 
 Mobile testing automation is a difficult task. In this blog post from Dominik Dary you'll get an overview which mobile testing automation frameworks are out there. In later posts he'll show you how to apply mobile testing automation for your app.
 
-[**WebView tips & tricks**](http://stablex.blogspot.de/2012/08/android-webview-tips-tricks.html)(stablex.blogspot.de)
-
-In this blog post you'll learn some good tips when dealing with the WebView component.
-
 ###LIBRARIES & CODE
 ---
 
