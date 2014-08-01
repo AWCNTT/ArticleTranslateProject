@@ -12,7 +12,7 @@ categories: Issue#18
 ###ARTICLES & TUTORIALS
 ---
 
-[**Creating Live Wallpapers on Android**](http://)(mobile.tutsplus.com)
+[**Creating Live Wallpapers on Android**](http://mobile.tutsplus.com/tutorials/android/creating-live-wallpapers-on-android/)(mobile.tutsplus.com)
 
 Live wallpapers don’t remain as static background images but instead have interactive features. Learn how to create a live wallpaper in this tutorial.
 
