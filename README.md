@@ -176,7 +176,10 @@
 * [Issue #43](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2343.md)
 	* 
 * [Issue #42](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2342.md)
-	* 
+	* [Styling the ActionBar – Part 5](http://blog.stylingandroid.com/archives/1310)
+	* [Android units – pixels, density, dpi, dip, dp, dps, sp, sip](http://blog.edwinevans.me/?p=131)
+	* [Android Development - Tutorial 4.1](http://www.vogella.com/tutorials/Android/article.html)
+	
 * [Issue #41](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2341/Issue%2341.md)
 	* [Android: Adding a change log dialog to your app](http://martin.cubeactive.com/android-how-to-create-a-change-log-dialog/)
 	* [Take These Steps to Make your Android App Accessible](http://www.grokkingandroid.com/steps-to-making-android-app-accessible/)
