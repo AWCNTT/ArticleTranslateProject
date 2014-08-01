@@ -218,7 +218,10 @@
 * [Issue #22](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2322/Issue%2322.md)
 	* 
 * [Issue #21](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2321/Issue%2321.md)
-	* 
+	* [Android Architecture: Message-based MVC](http://mindtherobot.com/blog/675/android-architecture-message-based-mvc/)
+	* [Android Guts: Intro to Loopers and Handlers](http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/)
+	* [Android App Development: Intents and Intent filters](http://mobileorchard.com/android-app-development-intents-and-intent-filters/)
+	
 * [Issue #20](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2320/Issue%2320.md)
 	* 
 * [Issue #19](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2319/Issue%2319.md)
