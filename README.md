@@ -196,7 +196,14 @@
 * [Issue #33](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2333.md)
 	* 
 * [Issue #32](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/Issue%2332.md)
-	* 
+	* [Maven and Android - Part 1](http://blog.stylingandroid.com/archives/1067)
+	* [Maven and Android - Part 2](http://blog.stylingandroid.com/archives/1072)
+	* [Maven and Android - Part 3](http://blog.stylingandroid.com/archives/1024)
+	* [Maven and Android - Part 4](http://blog.stylingandroid.com/archives/1089)
+	* [Maven and Android - Part 5](http://blog.stylingandroid.com/archives/1114)
+	* [Don't Advertise Intent Filters That Are Not Yours](http://commonsware.com/blog/2012/07/09/dont-advertise-intent-filters-that-are-not-yours.html)
+	* [31 Days of Android: Day 8–The Android Project Structure](http://chrisrisner.com/31-Days-of-Android--Day-8–The-Android-Project-Structure)
+	
 * [Issue #31](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2331/Issue%2331.md)
 	* [Creating Custom Layouts for Android](http://arpitonline.com/blog/2012/07/01/creating-custom-layouts-for-android/?utm_source=androidweekly)
 	
