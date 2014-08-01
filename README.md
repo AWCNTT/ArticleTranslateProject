@@ -163,12 +163,12 @@
 	* [**Getting Started developing for Google TV**](http://www.isharecodes.com/2013/01/android-getting-started-developing-for.html?m=1)
 	* [**Multiple Displays – Part 5**](http://blog.stylingandroid.com/archives/1456)
 	
-* Issue #49
+* [Issue #49](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2349/Issue%2349.md)
 	* [YouTube Android Player API Tutorial](http://www.kpbird.com/2012/12/youtube-android-player-api-tutorial.html)
 	* [Multiple Displays – Part 3](http://blog.stylingandroid.com/archives/1435)
 	* [Multiple Displays – Part 4](http://blog.stylingandroid.com/archives/1440)
 	
-* Issue #48
+* [Issue #48](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2348/Issue%2348.md)
 	* [Android Performance Case Study](http://www.curious-creature.org/2012/12/01/android-performance-case-study/)
 	* [Android Recipe #1, image with rounded corners](http://www.curious-creature.org/2012/12/11/android-recipe-1-image-with-rounded-corners/)
 	* [Multiple Displays – Part 1](http://blog.stylingandroid.com/archives/1394)
