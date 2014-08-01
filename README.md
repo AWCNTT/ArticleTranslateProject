@@ -157,7 +157,10 @@
 * Issue #50
 	* 
 * Issue #49
-	* 
+	* [YouTube Android Player API Tutorial](http://www.kpbird.com/2012/12/youtube-android-player-api-tutorial.html)
+	* [Multiple Displays – Part 3](http://blog.stylingandroid.com/archives/1435)
+	* [Multiple Displays – Part 4](http://blog.stylingandroid.com/archives/1440)
+	
 * Issue #48
 	* [Android Performance Case Study](http://www.curious-creature.org/2012/12/01/android-performance-case-study/)
 	* [Android Recipe #1, image with rounded corners](http://www.curious-creature.org/2012/12/11/android-recipe-1-image-with-rounded-corners/)
