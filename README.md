@@ -184,7 +184,9 @@
 * [Issue #39](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2339/Issue%2339.md)
 	* 
 * [Issue #38](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2338/Issue%2338.md)
-	* 
+	* [Styling the ActionBar – Part 1](http://blog.stylingandroid.com/archives/1240)
+	* [Android Testing MindMap – there’s a lot to consider!](http://blog.apkudo.com/2012/09/17/android-testing-mindmap-theres-a-lot-to-consider/)
+	
 * [Issue #37](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2337/Issue%2337.md)
 	* [Basic ActionBar – Part 5](http://blog.stylingandroid.com/archives/1203#)
 	* [ActionMode](http://blog.stylingandroid.com/archives/1212)
