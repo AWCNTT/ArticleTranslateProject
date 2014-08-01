@@ -254,7 +254,10 @@
 * [Issue #20](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2320/Issue%2320.md)
 	* 
 * [Issue #19](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2319/Issue%2319.md)
-	* 
+	* [Unifying Key Store Access in ICS](http://android-developers.blogspot.com/2012/03/unifying-key-store-access-in-ics.html)
+	* [ServicesDemo - Using Android Services](https://thenewcircle.com/s/post/60/servicesdemo_using_android_services)
+	* [Android "foreground service" notifications](http://chris.boyle.name/blog/2012/03/android-foreground-service-notifications/)
+	
 * [Issue #18](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2318/Issue%2318.md)
 	* [Creating Live Wallpapers on Android](http://mobile.tutsplus.com/tutorials/android/creating-live-wallpapers-on-android/)
 	* [Android Design V2: Now with stencils](http://android-developers.blogspot.com/2012/02/android-design-v2-now-with-stencils.html)
