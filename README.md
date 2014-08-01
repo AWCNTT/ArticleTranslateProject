@@ -168,7 +168,12 @@
 	* Fun with Android and NFC
 	* Android Design Patterns
 * [Issue #46](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2346/Issue%2346.md)
-	* 
+	* [Examining the ViewPager](http://www.androidzeitgeist.com/p/viewpager.html)
+	* [ViewPager Redux – Part 1](http://blog.stylingandroid.com/archives/1357)
+	* [UI Testing](http://developer.android.com/intl/zh-cn/tools/testing/testing_ui.html)
+	* [Enabling App Widgets on the Lockscreen](http://developer.android.com/guide/topics/appwidgets/index.html#lockscreen)
+	* [Efficient Multi-Screen Resource Selection](http://wiresareobsolete.com/2012/11/multi-screen-resource-selection/)
+	
 * [Issue #45](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2345/Issue%2345.md)
 	* [On Wizards](https://plus.google.com/+RomanNurik/posts/6cVymZvn3f4)
 	* [Add animations to your Android app](https://plus.google.com/+RomanNurik/posts/FpqgDJvRcgd)
