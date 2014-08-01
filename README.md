@@ -154,7 +154,7 @@
 	* 
 * Issue #51
 	* 
-* Issue #50
+* [Issue #50](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2350/Issue%2350.md)
 	* [**Android external storage helpers**](http://toastmo.com/blog/2013/01/09/android-external-storage-helper/)
 	* [**Android (Homescreen) Widgets - Tutorial**](http://www.vogella.com/tutorials/AndroidWidgets/article.html)
 	* [**Android Instagram Integration**](http://www.kpbird.com/2013/01/android-instagram-integration.html)
