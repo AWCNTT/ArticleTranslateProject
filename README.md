@@ -172,11 +172,11 @@
 * [Issue #45](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2345/Issue%2345.md)
 	* 
 * [Issue #44](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2345/Issue%2344.md)
-	* 
-* [Issue #43](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2343.md)
 	* [Pull to Refresh – Part 1](http://blog.stylingandroid.com/archives/1341)
 	* [Android Scripts](http://udinic.wordpress.com/2012/10/24/android-scripts/)
 	* [Views saving instance state in Android](http://www.charlesharley.com/2012/programming/views-saving-instance-state-in-android/)
+	
+* [Issue #43](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2343.md)
 	* 
 	
 * [Issue #42](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2342.md)
