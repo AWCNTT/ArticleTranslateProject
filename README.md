@@ -180,7 +180,10 @@
 * [Issue #41](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2341/Issue%2341.md)
 	* 
 * [Issue #40](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2340/Issue%2340.md)
-	* 
+	* [Twitter Feed on an App Widget](http://blog.blundell-apps.com/tut-twitter-on-an-app-widget/)
+	* [Styling the ActionBar – Part 3](http://blog.stylingandroid.com/archives/1267)
+	* [Test Automation - 10 (Sometimes Painful) Lessons Learned](http://dary.de/2012/03/test-automation-10-sometimes-painful-lessons-learned/)
+	
 * [Issue #39](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2339/Issue%2339.md)
 	* [Styling the ActionBar – Part 2](http://blog.stylingandroid.com/archives/1249)
 	* [Open Source Mobile Test Automation Frameworks](http://dary.de/2012/03/open-source-mobile-test-automation-frameworks/)
