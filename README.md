@@ -153,7 +153,13 @@
 * Issue #52
 	* 
 * Issue #51
-	* 
+	* [Transparency with JPEGs](http://corner.squareup.com/2013/01/transparent-jpegs.html)
+	* [Android Google Play Service: Authorization**](http://www.kpbird.com/2013/01/android-google-play-service.html)
+	* ["a Nexus 10 is all you need"](https://plus.google.com/+AdamWPowell/posts/cz5TxuoNDfG)
+	* [Text Clock – Part 1](http://blog.stylingandroid.com/archives/1501)
+	* [Text Clock – Part 2](http://blog.stylingandroid.com/archives/1512)
+	* [APK Expansion Files in Android with Example](http://ankitthakkar90.blogspot.in/2013/01/apk-expansion-files-in-android-with.html)
+	
 * [Issue #50](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2350/Issue%2350.md)
 	* [**Android external storage helpers**](http://toastmo.com/blog/2013/01/09/android-external-storage-helper/)
 	* [**Android (Homescreen) Widgets - Tutorial**](http://www.vogella.com/tutorials/AndroidWidgets/article.html)
