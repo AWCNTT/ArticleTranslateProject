@@ -252,7 +252,11 @@
 	* [Android App Development: Intents and Intent filters](http://mobileorchard.com/android-app-development-intents-and-intent-filters/)
 	
 * [Issue #20](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2320/Issue%2320.md)
-	* 
+	* [NeHe Android Ports](http://insanitydesign.com/wp/projects/nehe-android-ports/)
+	* [Android Animations - Tutorial](http://www.vogella.com/tutorials/AndroidAnimation/article.html)
+	* [Uses of API Level in Android](http://developer.android.com/intl/zh-cn/guide/topics/manifest/uses-sdk-element.html#uses)
+	* [Android newbie mistakes](http://www.developer.com/ws/android/programming/5-common-android-newbie-mistakes.html)
+	
 * [Issue #19](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2319/Issue%2319.md)
 	* [Unifying Key Store Access in ICS](http://android-developers.blogspot.com/2012/03/unifying-key-store-access-in-ics.html)
 	* [ServicesDemo - Using Android Services](https://thenewcircle.com/s/post/60/servicesdemo_using_android_services)
