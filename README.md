@@ -204,9 +204,14 @@
 * [Issue #29](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2329/Issue%2329.md)
 	* 
 * [Issue #28](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2328/Issue%2328.md)
-	* 
+	* [The making of Prixing #1: Fly-in app menu](http://cyrilmottier.com/2012/05/22/the-making-of-prixing-fly-in-app-menu-part-1/)
+	* [31 Days of Android: Day 6](http://chrisrisner.com/31-Days-of-Android--Day-6–Options-Menus-and-Base-Activities?utm_source=androidweekly)
+	
 * [Issue #27](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2327/Issue%2327.md)
-	* 
+	* [Using DialogFragments](http://android-developers.blogspot.de/2012/05/using-dialogfragments.html)
+	* [31 Days Android: Day 6](http://chrisrisner.com/31-Days-of-Android--Day-6–Options-Menus-and-Base-Activities)
+	* [StrictMode](https://developer.android.com/reference/android/os/StrictMode.html)
+	
 * [Issue #26](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2326/Issue%2326.md)
 	* [Selecting the adb device](http://dtmilano.blogspot.de/2012/03/selecting-adb-device.html)
 	* [iPhone style tabbar in Android](http://www.androidcookers.co.cc/2011/12/i-phone-style-tabbar-in-android.html#more)
