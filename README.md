@@ -260,7 +260,8 @@
 * [Issue #17](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2317/Issue%2317.md)
 	* 
 * [Issue #16](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2316/Issue%2316.md)
-	* 
+	* [Replica Island](http://www.replicaisland.net/)
+	
 * [Issue #15](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2315/Issue%2315.md)
 	* [Drag & Drop in Android 4.0](http://www.vogella.com/tutorials/AndroidDragAndDrop/article.html)
 	* [Working With Fragments](http://code.tutsplus.com/tutorials/android-sdk_fragments--mobile-5367)
