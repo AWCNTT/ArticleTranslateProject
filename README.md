@@ -268,7 +268,10 @@
 * [Issue #13](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2313/Issue%2313.md)
 	* 
 * [Issue #12](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2312/Issu122312.md)
-	* 
+	* [Using Intents in Android](http://www.vogella.com/tutorials/AndroidIntent/article.html)
+	* [Goodbye Menu Button](http://android-developers.blogspot.com/2012/01/say-goodbye-to-menu-button.html)
+	* [Curved Motion in Android](http://graphics-geek.blogspot.com/2012/01/curved-motion-in-android.html)
+	
 * [Issue #11](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2311/Issue%2311.md)
 	* [Create Widgets](http://www.vogella.com/tutorials/AndroidWidgets/article.html)
 	* [How to Update the UI in an Android Activity Using Data from a Background Service](https://www.websmithing.com/2011/02/01/how-to-update-the-ui-in-an-android-activity-using-data-from-a-background-service/)
