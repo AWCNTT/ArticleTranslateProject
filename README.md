@@ -208,7 +208,11 @@
 * [Issue #27](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2327/Issue%2327.md)
 	* 
 * [Issue #26](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2326/Issue%2326.md)
-	* 
+	* [Selecting the adb device](http://dtmilano.blogspot.de/2012/03/selecting-adb-device.html)
+	* [iPhone style tabbar in Android](http://www.androidcookers.co.cc/2011/12/i-phone-style-tabbar-in-android.html#more)
+	* [Keyboard shortcut for code completion in Eclipse on Mac OS X](http://stefaanlippens.net/code_completion_shortcut_eclipse_osx)
+	* [Writing splash screens the right way](http://blogactivity.wordpress.com/2012/02/24/writing-splash-screens-the-right-way/)
+	
 * [Issue #25](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2325/Issue%2325.md)
 	* [Restlet API](http://restlet.com/learn/tutorial/2.2/)
 	* [Hire Android App Developer](http://ezinemark.com/a/hire-android-app-developer-5-non-technical-skills-to-look-forward-to/)
