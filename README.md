@@ -202,7 +202,10 @@
 * [Issue #30](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2330/Issue%2330.md)
 	* 
 * [Issue #29](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2329/Issue%2329.md)
-	* 
+	* [HowTo: ActionBarSherlock + MapFragment + ListFragment](http://xrigau.wordpress.com/2012/03/22/howto-actionbarsherlock-mapfragment-listfragment/?utm_source=androidweekly)
+	* [Modifying the Android logcat stream for full-color debugging](http://jsharkey.org/blog/2009/04/22/modifying-the-android-logcat-stream-for-full-color-debugging/?utm_source=androidweekly)
+	* [Emerging UI Pattern - Side Navigation](http://www.androiduipatterns.com/2012/06/emerging-ui-pattern-side-navigation.html)
+	
 * [Issue #28](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2328/Issue%2328.md)
 	* [The making of Prixing #1: Fly-in app menu](http://cyrilmottier.com/2012/05/22/the-making-of-prixing-fly-in-app-menu-part-1/)
 	* [31 Days of Android: Day 6](http://chrisrisner.com/31-Days-of-Android--Day-6–Options-Menus-and-Base-Activities?utm_source=androidweekly)
