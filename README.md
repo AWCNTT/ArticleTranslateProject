@@ -186,7 +186,10 @@
 * [Issue #38](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2338/Issue%2338.md)
 	* 
 * [Issue #37](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2337/Issue%2337.md)
-	* 
+	* [Basic ActionBar – Part 5](http://blog.stylingandroid.com/archives/1203#)
+	* [ActionMode](http://blog.stylingandroid.com/archives/1212)
+	* ['Chips' in Recipient Text Fields](https://plus.google.com/+RomanNurik/posts/WUd7GrfZfiZ)
+	
 * [Issue #36](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2336/Issue%2336.md)
 	* [App Monetization as a Case Study : Omnidesk!](http://mssoni.blogspot.in/2012/08/app-monetization-as-case-study-omnidesk.html)
 	* [Handling Binary Data with ContentProviders](http://www.grokkingandroid.com/handling-binary-data-with-contentproviders/)
