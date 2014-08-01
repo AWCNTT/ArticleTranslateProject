@@ -188,7 +188,10 @@
 * [Issue #37](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2337/Issue%2337.md)
 	* 
 * [Issue #36](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2336/Issue%2336.md)
-	* 
+	* [App Monetization as a Case Study : Omnidesk!](http://mssoni.blogspot.in/2012/08/app-monetization-as-case-study-omnidesk.html)
+	* [Handling Binary Data with ContentProviders](http://www.grokkingandroid.com/handling-binary-data-with-contentproviders/)
+	* [Android Tutorial: Adding Search Suggestions](http://www.grokkingandroid.com/android-tutorial-adding-suggestions-to-search/)
+	
 * [Issue #35](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/Issue%2335.md)
 	* [Android Quick Tip: Formatting Text with Html.fromHtml()](http://www.grokkingandroid.com/android-quick-tip-formatting-text-with-html-fromhtml/)
 	* [Android tips and tricks: synchronized scrolling](http://www.pushing-pixels.org/2011/07/18/android-tips-and-tricks-synchronized-scrolling.html)
