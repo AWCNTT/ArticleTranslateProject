@@ -270,7 +270,10 @@
 * [Issue #12](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2312/Issu122312.md)
 	* 
 * [Issue #11](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2311/Issue%2311.md)
-	* 
+	* [Create Widgets](http://www.vogella.com/tutorials/AndroidWidgets/article.html)
+	* [How to Update the UI in an Android Activity Using Data from a Background Service](https://www.websmithing.com/2011/02/01/how-to-update-the-ui-in-an-android-activity-using-data-from-a-background-service/)
+	* [Hands on Open Source Android UI Libraries](http://www.androiduipatterns.com/2012/01/hands-on-open-source-android-ui.html)
+	
 * [Issue #10](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2310/Issue%2310.md)
 	* [Android Notifications - Tutorial](http://www.vogella.com/tutorials/AndroidNotifications/article.html)
 	* [Speed up your Android Emulator](http://www.bobbychanblog.com/2011/07/faster-android-emulator-alternative-using-virtualbox/)
