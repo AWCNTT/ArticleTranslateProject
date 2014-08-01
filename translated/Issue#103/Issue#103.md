@@ -9,7 +9,7 @@ categories: Issue#103
 
 ###文章 & 教程
  
- ![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.41.30.png) [**Android 用自定义Shapes实现阴影效果**](http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/) 
+[**Android 用自定义Shapes实现阴影效果**](http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/) 
  
 这篇文章展示了如何使用自定义的Shapes为你的View创建一个简单的阴影效果。
  
@@ -20,8 +20,8 @@ categories: Issue#103
 [**在移动设备上进行测试时模拟一个慢速网络连接**](http://kevin-read.com/post/86601925386/simulating-a-slow-network-connection-when-testing-on) (kevin-read.com)
 
 如果你想要在一个设备上模拟缓慢和参差不齐的网络连接，可以做到这一点的方法之一是通过在路由器上配置OpenWRT。
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.52.01.png)	 [**Android 小贴士: 使用Renderscript进行高效率的图片模糊处理**]()
+
+[**Android 小贴士: 使用Renderscript进行高效率的图片模糊处理**]()
 
 图片模糊效果是许多开发者需要实现的效果，然而实现它需要一番时间和功夫。还有，由于需要对图像做很多处理，从CUP和内存使用方面看，如果没有合适的编码是非常痛苦的。
  
@@ -44,7 +44,7 @@ Cyril Mottier发表了一篇“behind the scene”的博客，博客描述了他
 
 ###开源库 & 代码
  
- ![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-25_um_15.54.07.png) [**Mizuu**](https://github.com/MizzleDK/Mizuu) (github.com)
+[**Mizuu**](https://github.com/MizzleDK/Mizuu) (github.com)
  
 Mizuu是一个Android平板电脑和智能手机上的用户友好的媒体中心应用程序。应用程序帮助管理你所有的电影和电视节目视频文件,自动对视频内容获取有用的信息,包括标题、情节、封面和演员。
  
@@ -82,7 +82,7 @@ Juan Gomez总结出了在Android平台上如何使用可用的协议。
  
 ###本周推荐App
  
-![ link image](http://awcntt-article-image.qiniudn.com/issue103_square_Bildschirmfoto_2014-05-22_um_00.35.14.png)	 [**App Dialer**](https://play.google.com/store/apps/details?id=name.pilgr.appdialer&hl=en)  (play.google.com)
+[**App Dialer**](https://play.google.com/store/apps/details?id=name.pilgr.appdialer&hl=en)  (play.google.com)
 
 App拨号器提供了一个革命性的App搜索方式。只需要在T9键盘上按下几个键就可以启动任何App。当你需要快速找到并启动应用程序时节省了很多时间。
 

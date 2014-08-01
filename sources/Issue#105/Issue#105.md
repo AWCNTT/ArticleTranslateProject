@@ -8,14 +8,13 @@ categories: Issue#105
 
 #Issue #105
 
+
 ###ARTICLES & TUTORIALS
 ----
  
 [How to Test Android’s Parcelable Interface](http://tech.gilt.com/post/87599117269/how-to-test-androids-parcelable-interface)(tech.gilt.com)
 
 The author recently ran into a huge pitfall with Parcelable objects, and writes about how to create proper unit tests for them.
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue105_square_Bildschirmfoto_2014-06-08_um_18.15.16.png)
  
 [App UI / UX – Part 3 ](http://blog.stylingandroid.com/archives/2591)(blog.stylingandroid.com)
  
@@ -28,8 +27,6 @@ When it comes to networking, there are tons of ways to do the requests. Most of 
 [Adding attributes to a custom view](http://droidista.blogspot.com/2014/06/adding-attributes-to-custom-view.html)(droidista.blogspot.com)
 
 There are times when using default Android views just don't cut it and you need to create your own View. So how exactly do you do that? Zarah Dominguez show you how.
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue105_square_Bildschirmfoto_2014-06-08_um_18.16.49.png) 
 
 [Creating a Cards UI on Android](http://www.technology-ebay.de/the-teams/ebay-kleinanzeigen/blog/creating-a-cards-ui-on-android.html) (www.technology-ebay.de)
  
@@ -55,19 +52,8 @@ In his continuing quest to get code out of Android Activities, Matt Swanson has 
 
 With Apple introducing Swift, a new and easier to learn programming language, the Android ecosystem needs to even up. Cédric Champeau's explains in his blog post how to develop Android application using Groovy, a programming language similar to Ruby.
  
-###SPONSORED
-----
-
-![link image](http://awcntt-article-image.qiniudn.com/issue105_square_podio_85x85.png)	
-[SDKs extend Podio’s customization potential](https://developers.podio.com/clients?utm_source=newsletter&utm_medium=email&utm_content=client&utm_campaign=androidweekly) (developers.podio.com)
- 
-Thanks to its API, Podio is an easily extendable work tool that helps teams organize the work they do everyday. Now it is expanding its customization capabilities with beta mobile SDKs for iOS and Android. Learn more at developers.podio.com.
- 
 ###DESIGN
 ----
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue105_square_Bildschirmfoto_2014-06-08_um_18.01.43.png)
-
 [Awesome Android Design by Nick Butcher ](http://parleys.com/play/52adb157e4b04354fb7e7abb/chapter0/about)(parleys.com)
  
 A deep dive on the tools and techniques for building Android applications that follow the Android Design guidelines. This talk presents patterns and protips for implementing the Holo visual language with it's content first philosophy and responsive design approach.
@@ -81,9 +67,7 @@ A few weeks ago, Roman Nurik and Timothy Jordan were chatting about designing ap
  
 [Holoaccent](https://github.com/negusoft/holoaccent) (github.com)
 
-Android library to customize the Holo theme with a custom accent color. The color can even be set programmatically, allowing the UI to change dynamically.
- 
-![link image](http://awcntt-article-image.qiniudn.com/issue105_square_Bildschirmfoto_2014-06-08_um_18.17.49.png)	
+Android library to customize the Holo theme with a custom accent color. The color can even be set programmatically, allowing the UI to change dynamically.	
 [Dynamicbox](https://github.com/medyo/dynamicbox) (github.com)
  
 DynamicBox is a library which inflates custom layouts to indicate loading content, show an error message or even a custom view. Supports ListView, GridView, ExpandableListView, Activity, FragmentActivity, Fragment, LinearLayout, RelativeLayout, ScrollView
@@ -128,7 +112,7 @@ For all of you who have missed the Android Developer Days in Ankara, here are th
 ---
 
 
-原文地址：[https://github.com/AWCNTT/ArticleTranslateProject](https://github.com/AWCNTT/ArticleTranslateProject)
+原文地址：[http://androidweekly.net/issues/issue-105](http://androidweekly.net/issues/issue-105)
 
 译者：[译者ID](https://github.com/译者ID) 校对：[校对者ID](https://github.com/校对者ID)
 
