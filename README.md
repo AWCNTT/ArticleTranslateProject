@@ -266,7 +266,9 @@
 * [Issue #14](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2314/Issue%2314.md)
 	* 
 * [Issue #13](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2313/Issue%2313.md)
-	* 
+	* [New Social APIs](http://android-developers.blogspot.com/2012/02/new-social-apis-in-android-ics.html)
+	* [Low level image manipulation](http://android-developers.blogspot.com/2012/01/levels-in-renderscript.html)
+	
 * [Issue #12](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2312/Issu122312.md)
 	* [Using Intents in Android](http://www.vogella.com/tutorials/AndroidIntent/article.html)
 	* [Goodbye Menu Button](http://android-developers.blogspot.com/2012/01/say-goodbye-to-menu-button.html)
