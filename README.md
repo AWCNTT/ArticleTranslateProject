@@ -200,7 +200,9 @@
 * [Issue #31](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2331/Issue%2331.md)
 	* 
 * [Issue #30](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2330/Issue%2330.md)
-	* 
+	* [Maven and Android – Part 1](http://blog.stylingandroid.com/archives/1067?utm_campaign=1067)
+	* [Managing Background Tasks on Android using the Alarm Manager](http://www.hascode.com/2011/11/managing-background-tasks-on-android-using-the-alarm-manager/)
+	
 * [Issue #29](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2329/Issue%2329.md)
 	* [HowTo: ActionBarSherlock + MapFragment + ListFragment](http://xrigau.wordpress.com/2012/03/22/howto-actionbarsherlock-mapfragment-listfragment/?utm_source=androidweekly)
 	* [Modifying the Android logcat stream for full-color debugging](http://jsharkey.org/blog/2009/04/22/modifying-the-android-logcat-stream-for-full-color-debugging/?utm_source=androidweekly)
