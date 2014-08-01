@@ -256,7 +256,10 @@
 * [Issue #19](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2319/Issue%2319.md)
 	* 
 * [Issue #18](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2318/Issue%2318.md)
-	* 
+	* [Creating Live Wallpapers on Android](http://mobile.tutsplus.com/tutorials/android/creating-live-wallpapers-on-android/)
+	* [Android Design V2: Now with stencils](http://android-developers.blogspot.com/2012/02/android-design-v2-now-with-stencils.html)
+	* [How to make an Android game](http://caseyrichard.com/?p=195)
+	
 * [Issue #17](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2317/Issue%2317.md)
 	* [Getting Started in Android Game Development with libgdx](http://obviam.net/index.php/getting-started-in-android-game-development-with-libgdx-create-a-working-prototype-in-a-day-tutorial-part-1/)
 	* [Android development with C#](http://www.programmerprogramming.com/mobile-development-tutorials/android-app-csharp-1.php)
