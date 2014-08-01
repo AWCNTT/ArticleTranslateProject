@@ -198,7 +198,8 @@
 * [Issue #32](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/Issue%2332.md)
 	* 
 * [Issue #31](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2331/Issue%2331.md)
-	* 
+	* [Creating Custom Layouts for Android](http://arpitonline.com/blog/2012/07/01/creating-custom-layouts-for-android/?utm_source=androidweekly)
+	
 * [Issue #30](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2330/Issue%2330.md)
 	* [Maven and Android – Part 1](http://blog.stylingandroid.com/archives/1067?utm_campaign=1067)
 	* [Managing Background Tasks on Android using the Alarm Manager](http://www.hascode.com/2011/11/managing-background-tasks-on-android-using-the-alarm-manager/)
