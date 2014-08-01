@@ -264,7 +264,10 @@
 * [Issue #15](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2315/Issue%2315.md)
 	* 
 * [Issue #14](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2314/Issue%2314.md)
-	* 
+	* [Share With Intents](http://android-developers.blogspot.com/2012/02/share-with-intents.html)
+	* [Android X86 Emulator VirtualBox](http://translate.google.de/translate?u=http%3A%2F%2Fib-edelmann.de%2Fandroid-x86-icecreamsandwich-emulator-virtualbox&sl=de&tl=en&hl=&ie=UTF-8)
+	* [The principles of game monetization](http://altdevblogaday.com/2012/02/09/the-principles-of-game-monetization/)
+	
 * [Issue #13](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2313/Issue%2313.md)
 	* [New Social APIs](http://android-developers.blogspot.com/2012/02/new-social-apis-in-android-ics.html)
 	* [Low level image manipulation](http://android-developers.blogspot.com/2012/01/levels-in-renderscript.html)
