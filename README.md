@@ -258,7 +258,10 @@
 * [Issue #18](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2318/Issue%2318.md)
 	* 
 * [Issue #17](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2317/Issue%2317.md)
-	* 
+	* [Getting Started in Android Game Development with libgdx](http://obviam.net/index.php/getting-started-in-android-game-development-with-libgdx-create-a-working-prototype-in-a-day-tutorial-part-1/)
+	* [Android development with C#](http://www.programmerprogramming.com/mobile-development-tutorials/android-app-csharp-1.php)
+	* [Android Measuring Stick](http://pxldot.com/18281312362)
+	
 * [Issue #16](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2316/Issue%2316.md)
 	* [Replica Island](http://www.replicaisland.net/)
 	
