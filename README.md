@@ -262,7 +262,10 @@
 * [Issue #16](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2316/Issue%2316.md)
 	* 
 * [Issue #15](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2315/Issue%2315.md)
-	* 
+	* [Drag & Drop in Android 4.0](http://www.vogella.com/tutorials/AndroidDragAndDrop/article.html)
+	* [Working With Fragments](http://code.tutsplus.com/tutorials/android-sdk_fragments--mobile-5367)
+	* [Augmented Reality basics: Accessing camera & compass](http://www.devx.com/wireless/Article/42482/1954)
+	
 * [Issue #14](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2314/Issue%2314.md)
 	* [Share With Intents](http://android-developers.blogspot.com/2012/02/share-with-intents.html)
 	* [Android X86 Emulator VirtualBox](http://translate.google.de/translate?u=http%3A%2F%2Fib-edelmann.de%2Fandroid-x86-icecreamsandwich-emulator-virtualbox&sl=de&tl=en&hl=&ie=UTF-8)
