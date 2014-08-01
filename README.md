@@ -177,7 +177,12 @@
 	* [Views saving instance state in Android](http://www.charlesharley.com/2012/programming/views-saving-instance-state-in-android/)
 	
 * [Issue #43](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2343.md)
-	* 
+	* [Mockito on Android](http://corner.squareup.com/2012/10/mockito-android.html)
+	* [Android compatibility made easy](http://sparkledog.net/2012/10/15/backwards-compatibility.html)
+	* [Speed up your productivity on Android : Android Annotations Introduction](http://aerilys.fr/blog/?p=1136)
+	* [Why do users uninstall apps?](http://testdroid.com/testdroid/3040/why-do-users-uninstall-apps)
+	* [Android Notifications - Tutorial](http://www.vogella.com/tutorials/AndroidNotifications/article.html)
+	* [Styling the ActionBar – Part 6](http://blog.stylingandroid.com/archives/1329)
 	
 * [Issue #42](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2342.md)
 	* [Styling the ActionBar – Part 5](http://blog.stylingandroid.com/archives/1310)
