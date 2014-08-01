@@ -182,7 +182,9 @@
 * [Issue #40](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2340/Issue%2340.md)
 	* 
 * [Issue #39](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2339/Issue%2339.md)
-	* 
+	* [Styling the ActionBar – Part 2](http://blog.stylingandroid.com/archives/1249)
+	* [Open Source Mobile Test Automation Frameworks](http://dary.de/2012/03/open-source-mobile-test-automation-frameworks/)
+	
 * [Issue #38](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2338/Issue%2338.md)
 	* [Styling the ActionBar – Part 1](http://blog.stylingandroid.com/archives/1240)
 	* [Android Testing MindMap – there’s a lot to consider!](http://blog.apkudo.com/2012/09/17/android-testing-mindmap-theres-a-lot-to-consider/)
