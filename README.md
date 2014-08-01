@@ -214,7 +214,10 @@
 * [Issue #24](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%224/Issue%2324.md)
 	* 
 * [Issue #23](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2323/Issue%2323.md)
-	* 
+	* [Cloud to Device Messaging](http://www.vogella.com/tutorials/AndroidCloudToDeviceMessaging/article.html)
+	* [Creating Android Virtual Devices (AVDs)](http://chrisrisner.com/31-Days-of-Android--Day-2---Creating-Android-Virtual-Devices-(AVDs))
+	* [Parcel data to pass between Activities using Parcelable classes](http://shri.blog.kraya.co.uk/2010/04/26/android-parcel-data-to-pass-between-activities-using-parcelable-classes/)
+	
 * [Issue #22](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2322/Issue%2322.md)
 	* [Zipping Files with Android](http://www.jondev.net/articles/Zipping_Files_with_Android_%28Programmatically%29)
 	* [Unzipping Files with Android](http://jondev.net/articles/Unzipping_Files_with_Android_(Programmatically))
