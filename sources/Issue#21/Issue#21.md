@@ -10,11 +10,6 @@ categories: Issue#21
 #Issue #21
 
 ###ARTICLES & TUTORIALS
-
-[**Android Development with Maven**](http://www.wakaleo.com/blog/302-android-development-with-maven)(wakaleo.com)
-
-This article is about integrating an Android process into the broader automated build infrastructure.
-
  
 [**Message-based MVC**](http://mindtherobot.com/blog/675/android-architecture-message-based-mvc/)(mindtherobot.com)
 
