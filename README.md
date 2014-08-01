@@ -216,7 +216,10 @@
 * [Issue #23](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2323/Issue%2323.md)
 	* 
 * [Issue #22](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2322/Issue%2322.md)
-	* 
+	* [Zipping Files with Android](http://www.jondev.net/articles/Zipping_Files_with_Android_%28Programmatically%29)
+	* [Unzipping Files with Android](http://jondev.net/articles/Unzipping_Files_with_Android_(Programmatically))
+	* [31 Days of Android: Day 1 - Getting Set Up for Development](http://chrisrisner.com/31-Days-of-Android--Day-1---Getting-Set-Up-for-Development)
+	
 * [Issue #21](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2321/Issue%2321.md)
 	* [Android Architecture: Message-based MVC](http://mindtherobot.com/blog/675/android-architecture-message-based-mvc/)
 	* [Android Guts: Intro to Loopers and Handlers](http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/)
