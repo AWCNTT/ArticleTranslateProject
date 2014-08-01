@@ -150,9 +150,15 @@
 	* 
 * Issue #53
 	* 
-* Issue #52
-	* 
-* Issue #51
+* [Issue #52](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2352/Issue%2352.md)
+	* [PreferenceActivity , PreferenceFragment and headers (Part 1)](http://gmariotti.blogspot.it/2013/01/preferenceactivity-preferencefragment.html)
+	* [PreferenceActivity , PreferenceFragment and headers (Part 2)](http://gmariotti.blogspot.it/2013/01/preferenceactivity-preferencefragment_28.html)
+	* [PreferenceActivity , PreferenceFragment and headers (Part 3)](http://gmariotti.blogspot.de/2013/02/preferenceactivity-preferencefragment.html)
+	* [Android: is onDestroy the new onStop?](http://curioustechizen.blogspot.de/2013/01/android-ondestroy-is-new-onstop.html)
+	* [How accurate is Android GPS?](http://www.andygup.net/how-accurate-is-android-gps-part-1-understanding-location-data/)
+	* [Core App Quality Guidelines](http://developer.android.com/intl/zh-cn/distribute/essentials/quality/core.html)
+	
+* [Issue #51](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2351/Issue%2351.md)
 	* [Transparency with JPEGs](http://corner.squareup.com/2013/01/transparent-jpegs.html)
 	* [Android Google Play Service: Authorization**](http://www.kpbird.com/2013/01/android-google-play-service.html)
 	* ["a Nexus 10 is all you need"](https://plus.google.com/+AdamWPowell/posts/cz5TxuoNDfG)

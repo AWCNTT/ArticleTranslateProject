@@ -18,7 +18,7 @@ This series of blog posts by Gabriele Mariotti explains how to create proper pre
  
 [**PreferenceActivity , PreferenceFragment and headers (Part 2)**](http://gmariotti.blogspot.it/2013/01/preferenceactivity-preferencefragment_28.html)(gmariotti.blogspot.it)
 
-[P**referenceActivity , PreferenceFragment and headers (Part 3)**](http://gmariotti.blogspot.de/2013/02/preferenceactivity-preferencefragment.html)(gmariotti.blogspot.de)
+[**PreferenceActivity , PreferenceFragment and headers (Part 3)**](http://gmariotti.blogspot.de/2013/02/preferenceactivity-preferencefragment.html)(gmariotti.blogspot.de)
 
 [**Android: is onDestroy the new onStop?**](http://curioustechizen.blogspot.de/2013/01/android-ondestroy-is-new-onstop.html)(curioustechizen.blogspot.de)
 
