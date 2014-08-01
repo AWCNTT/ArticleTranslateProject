@@ -190,7 +190,11 @@
 * [Issue #36](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2336/Issue%2336.md)
 	* 
 * [Issue #35](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/Issue%2335.md)
-	* 
+	* [Android Quick Tip: Formatting Text with Html.fromHtml()](http://www.grokkingandroid.com/android-quick-tip-formatting-text-with-html-fromhtml/)
+	* [Android tips and tricks: synchronized scrolling](http://www.pushing-pixels.org/2011/07/18/android-tips-and-tricks-synchronized-scrolling.html)
+	* [Android Development – Using Custom Fonts](http://www.barebonescoder.com/2010/05/android-development-using-custom-fonts/)
+	* [Android, LinearLayout Distribution Explained (weight and sizes)](http://ugiagonzalez.com/2012/01/19/android-linearlayout-distribution-explained-weight-and-sizes/)
+	* [Tutorial on customization of Android Activity Animation](http://code4reference.com/2012/08/customization-android-activity-animation/)	
 * [Issue #34](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2334.md)
 	* [Plurals](http://blog.stylingandroid.com/archives/1136)
 	* [Android Sliding Drawer Tutorial](http://www.androidpeople.com/android-sliding-drawer-tutorial)
