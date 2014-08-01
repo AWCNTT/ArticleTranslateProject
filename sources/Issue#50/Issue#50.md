@@ -1,6 +1,6 @@
-50---
+---
 layout: post
-title: "Issue#"
+title: "Issue#50"
 date: 2014-08-01 22:01
 
 comments: true
