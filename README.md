@@ -159,7 +159,12 @@
 * Issue #49
 	* 
 * Issue #48
-	* 
+	* [Android Performance Case Study](http://www.curious-creature.org/2012/12/01/android-performance-case-study/)
+	* [Android Recipe #1, image with rounded corners](http://www.curious-creature.org/2012/12/11/android-recipe-1-image-with-rounded-corners/)
+	* [Multiple Displays – Part 1](http://blog.stylingandroid.com/archives/1394)
+	* [And multiple displays part 2](http://blog.stylingandroid.com/archives/1413)
+	* [Mind the gap: String.isEmpty()](http://www.androidzeitgeist.com/2012/12/string-is-empty.html)
+	
 * [Issue #47](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2347/Issue%2347.md)
 	* [Fragments and the Support Library](http://www.grokkingandroid.com/getting-started-with-fragments-and-the-support-library/)
 	* [ViewPager Redux - Part 2](http://blog.stylingandroid.com/archives/1366)
