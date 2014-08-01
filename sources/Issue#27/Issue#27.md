@@ -16,11 +16,6 @@ categories: Issue#27
 
 Fragments are a great way to split up Activities into smaller and better reusable pieces. Originally they were introduced with Honeycomb, but with the v4 Compat library they are also available for older devices. In this tutorial you'll learn how to create a basic input dialog with fragments.
 
- 
-[**Android CookBook**](http://androidcookbook.com/)(androidcookbook.com)
-
-All roads lead to Rome. But sometimes you need the best road - Android Cookbook is a crowd-sourced collection of tutorials that explain how to do specific tasks like how to deal with the GUI or how to do inter and intra process communication.
-
 [**31 Days Android: Day 6**](http://chrisrisner.com/31-Days-of-Android--Day-6–Options-Menus-and-Base-Activities)(chrisrisner.com)
 
 31 Days of Android: Day 6–Options Menus and Base Activities
