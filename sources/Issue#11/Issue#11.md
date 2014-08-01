@@ -23,9 +23,8 @@ This article will show you how to update the UI in an Android activity using dat
 
 [**Hands on Open Source Android UI Libraries**](http://www.androiduipatterns.com/2012/01/hands-on-open-source-android-ui.html)(androiduipatterns.com)
 
-[**The Photoshop PSDs Google forgot**](http://www.androiddesign.info/)(androiddesign.info)
-
-LIBRARIES AND CODE
+###LIBRARIES AND CODE
+---
 
 [**Using the Animation API**](http://nineoldandroids.com/)(nineoldandroids.com)
 
@@ -37,17 +36,6 @@ animation API on all versions of the platform back to 1.0!
 This is what you need if you want to show an alert message (text notification) to the user of an application.
 
 [**Custom Toast notification**](http://www.technotalkative.com/android-custom-toast-notification/)(technotalkative.com)
-
-###HEADLINES
----
-
-[**Global Android DevCamp**](http://android-dev-camp-2012.blogspot.com/)(android-dev-camp-2012.blogspot.com)
-Don't miss the Global Android DevCamp 2012 / 17th - 19th February.
-
- 
-[**Over 250 Million Androids !**](http://phandroid.com/2012/01/19/over-250-million-people-using-android-phones-and-11-billion-market-downloads-says-google/)(phandroid.com)
-Over 250 Million People Using Android Phones and 11 Billion Market Downloads.
-
  
 ###SCREENCASTS
 ---
