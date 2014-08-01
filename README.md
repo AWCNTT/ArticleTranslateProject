@@ -174,7 +174,11 @@
 * [Issue #44](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2345/Issue%2344.md)
 	* 
 * [Issue #43](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2343.md)
+	* [Pull to Refresh – Part 1](http://blog.stylingandroid.com/archives/1341)
+	* [Android Scripts](http://udinic.wordpress.com/2012/10/24/android-scripts/)
+	* [Views saving instance state in Android](http://www.charlesharley.com/2012/programming/views-saving-instance-state-in-android/)
 	* 
+	
 * [Issue #42](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2343/Issue%2342.md)
 	* [Styling the ActionBar – Part 5](http://blog.stylingandroid.com/archives/1310)
 	* [Android units – pixels, density, dpi, dip, dp, dps, sp, sip](http://blog.edwinevans.me/?p=131)
