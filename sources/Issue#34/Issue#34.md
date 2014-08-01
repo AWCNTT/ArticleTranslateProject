@@ -18,7 +18,7 @@ In this blog post Javier Manzano talks about his experience when he integrated d
 
 Mark Allison shows us a great approach what to do when you have to pluralize strings that can also be internationalized.
 
-[Android Sliding Drawer Tutorial](http://www.androidpeople.com/android-sliding-drawer-tutorial)(androidpeople.com)
+[**Android Sliding Drawer Tutorial**](http://www.androidpeople.com/android-sliding-drawer-tutorial)(androidpeople.com)
 
 In this tutorial you'll learn how to implement a sliding drawer tutorial.
 
