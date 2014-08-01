@@ -210,7 +210,12 @@
 * [Issue #26](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2326/Issue%2326.md)
 	* 
 * [Issue #25](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2325/Issue%2325.md)
-	* 
+	* [Restlet API](http://restlet.com/learn/tutorial/2.2/)
+	* [Hire Android App Developer](http://ezinemark.com/a/hire-android-app-developer-5-non-technical-skills-to-look-forward-to/)
+	* [How to use intents to launch several activities](http://mobileorchard.com/android-app-development-using-intents-to-pass-data-and-return-results-between-activities/)
+	* [Why is my list black?](http://www.curious-creature.org/2008/12/22/why-is-my-list-black-an-android-optimization/)
+	* [31 Days of Android: Day 4](http://chrisrisner.com/31-Days-of-Android--Day-4–Our-First-App)
+	
 * [Issue #24](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%224/Issue%2324.md)
 	* [Using Bitmap Fonts in Android](http://obviam.net/index.php/using-bitmap-fonts-in-android/)
 	* [What API level should I target?](http://simonvt.net/2012/02/07/what-api-level-should-i-target/)
