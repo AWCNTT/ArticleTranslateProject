@@ -155,7 +155,14 @@
 * Issue #51
 	* 
 * Issue #50
-	* 
+	* [**Android external storage helpers**](http://toastmo.com/blog/2013/01/09/android-external-storage-helper/)
+	* [**Android (Homescreen) Widgets - Tutorial**](http://www.vogella.com/tutorials/AndroidWidgets/article.html)
+	* [**Android Instagram Integration**](http://www.kpbird.com/2013/01/android-instagram-integration.html)
+	* [**stORM: a lightweight DAO generator for Android SQLite**](http://turbomanage.wordpress.com/2012/12/11/storm-preview/)
+	* [**Snippet: DateUtils**](http://chris.banes.me/2013/01/15/snippet-dateutils/)
+	* [**Getting Started developing for Google TV**](http://www.isharecodes.com/2013/01/android-getting-started-developing-for.html?m=1)
+	* [**Multiple Displays – Part 5**](http://blog.stylingandroid.com/archives/1456)
+	
 * Issue #49
 	* [YouTube Android Player API Tutorial](http://www.kpbird.com/2012/12/youtube-android-player-api-tutorial.html)
 	* [Multiple Displays – Part 3](http://blog.stylingandroid.com/archives/1435)
