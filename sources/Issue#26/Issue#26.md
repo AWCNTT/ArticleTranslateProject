@@ -11,11 +11,6 @@ categories: Issue#26
 
 ###ARTICLES & TUTORIALS
 
-[**Getting started with NFC on Android**](http://www.netmagazine.com/tutorials/getting-started-nfc-android)(netmagazine.com)
-
-NFC gonna be huge. Take a look at that tutorial and see how easy it is on the Android Platform.
-
- 
 [**Selecting the adb device**](http://dtmilano.blogspot.de/2012/03/selecting-adb-device.html)(dtmilano.blogspot.de)
 
 Connecting with your adb to multiple devices throws that annoying error "error: more than one device and emulator". Diego Torres hat found a nifty way to enhance the adb command with a device chooser.
