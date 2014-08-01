@@ -32,15 +32,15 @@ Sebastian Kaspari gives us a little inside about checking if a string is empty. 
 
 ###LIBRARIES & CODE
 
-IconicTextView(github.com)
+[**IconicTextView**](https://github.com/atermenji/IconicTextView)(github.com)
 
 IconicTextView, by Artur Termenji, is an extension of Android TextView class which provides support for some iconic fonts like Entypo.
 
-Transfuse(androidtransfuse.org)
+[**Transfuse**](http://androidtransfuse.org/)(androidtransfuse.org)
 
 Transfuse is a Java Dependency Injection and integration library geared specifically for the Google Android API. It would be interesting in what ways it differs from Roboguice.
 
-White House(github.com)
+[**White House**](https://github.com/WhiteHouse/wh-app-android)(github.com)
 
 Do you start Android development and do you want to know who things are done? Checkout the open source White House app. Lot's of best practices inside.
 
