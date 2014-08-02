@@ -146,8 +146,10 @@
 	* 
 * Issue #55
 	* 
-* Issue #54
-	* 
+* [**Issue #54**](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2354/Issue%2354.md)
+	* [Using Cryptography to Store Credentials Safely](http://android-developers.blogspot.co.uk/2013/02/using-cryptography-to-store-credentials.html)
+	* [WMS On Android](http://www.azavea.com/blogs/labs/2013/01/wms-on-android/)
+	
 * [Issue #53](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2353/Issue%2353.md)
 	* [Adding ActionViews to Your ActionBar](http://www.grokkingandroid.com/adding-actionviews-to-your-actionbar/)
 	* [Text Clock – Part 4](http://blog.stylingandroid.com/archives/1531)
