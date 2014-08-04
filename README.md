@@ -514,8 +514,15 @@
 	* [Edit Mode And why using a Contextual ActionBar is a bad idea](http://dazcorp.blogspot.de/2013/04/edit-mode-and-why-using-contextual.html)
 	* [Adapters – Part 3](http://blog.stylingandroid.com/archives/1710)
 	
-* Issue #59
-	* 
+* [Issue #59](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2359/Issue%2359.md)
+	* [Detect Global Touch Event](http://www.kpbird.com/2013/03/android-detect-global-touch-event.html)
+	* [Android app to the Challenge](http://udinic.wordpress.com/2013/03/04/android-app-to-the-challenge/)
+	* [Prime Guide: Lessons learnt - Android App Development](http://de.slideshare.net/greenrobot/prime-guide-lessons-learnt-android-app-development-18474518)
+	* [Adapters – Part 1](http://blog.stylingandroid.com/archives/1679)
+	* [Adapters – Part 2](http://blog.stylingandroid.com/archives/1702)
+	* [ResultReceiver - Receive results from a service](http://ramdroid.github.io/androiddev/ResultReceiverDemo.html)
+	* [Building clean RPN part one – Toggling the device and built in keypad](http://lukesleeman.com.au/building-clean-rpn-part-one-toggling-the-device-and-built-in-keypad/)
+	* [Hijacking airplanes with an Android phone](http://net-security.org/secworld.php?id=14733)
 * Issue #58
 	* 
 * Issue #57
