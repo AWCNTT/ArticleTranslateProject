@@ -237,7 +237,7 @@
 	* [Blurring Images – Part 4](http://blog.stylingandroid.com/archives/2341) 
 	* [Lets try Android Game Development with AndEngine](http://pathofacoder.com/2014/03/04/lets-try-android-game-development-with-andengine/)  
 	
-* Issue #91
+* [Issue #91](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2391/Issue%2391.md)
 	* [Protip: Use textAllCaps on API14 via AppCompat](https://plus.google.com/+MichaelBarany/posts/XomDmWkcwf8) 
 	* [Rest interaction in Android](http://mytechaddiction.blogspot.com/2014/02/rest-interaction-in-android.html)
 	* [Slides: Functional Reactive Programming on Android](http://slides.com/yaroslavheriatovych/frponandroid/#/) 
