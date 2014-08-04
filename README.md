@@ -159,7 +159,13 @@
 	* [Custom Layouts on Android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)
 	
 * Issue #100
-	* 
+	* [adb scripting](http://engineering.meetme.com/2014/04/android-debug-bridge-adb-command-scripting/) 
+	* [How to Make a Paper Folding Animation in Android](http://cases.azoft.com/creating-paper-folding-animation-in-android/)
+	* [Deep dive into Android's system-level graphics architecture](https://plus.google.com/+AndroidDevelopers/posts/2iETZVQwRdt)
+	* [Bluetooth LE – Part 4](http://blog.stylingandroid.com/archives/2436) 
+	* [Efficiently filtering Android intents with android:ssp](https://chris.orr.me.uk/android-ssp-data-intent-filter/)
+	* [Layout Inflation as Intended](http://www.doubleencore.com/2013/05/layout-inflation-as-intended/)
+	
 * Issue #99
 	* 
 * Issue #98
