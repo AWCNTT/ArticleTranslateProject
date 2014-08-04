@@ -523,8 +523,10 @@
 	* [ResultReceiver - Receive results from a service](http://ramdroid.github.io/androiddev/ResultReceiverDemo.html)
 	* [Building clean RPN part one – Toggling the device and built in keypad](http://lukesleeman.com.au/building-clean-rpn-part-one-toggling-the-device-and-built-in-keypad/)
 	* [Hijacking airplanes with an Android phone](http://net-security.org/secworld.php?id=14733)
-* Issue #58
-	* 
+* [Issue #58](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2358/Issue%2358.md)
+	* [The Resurrection of Testing for Android](http://corner.squareup.com/2013/04/the-resurrection-of-testing-for-android.html)
+	* [Gradient Text](http://blog.stylingandroid.com/archives/1671)
+
 * Issue #57
 	* 
 * Issue #56
