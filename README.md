@@ -336,8 +336,14 @@
 	* [Changes to the SecretKeyFactory API in Android 4.4](http://android-developers.blogspot.com/2013/12/changes-to-secretkeyfactory-api-in.html)
 	* [New Tools to Take Your Games to the Next Level](http://android-developers.blogspot.com/2013/12/new-tools-to-take-your-games-to-next.html) 
 
-* Issue #80
-	* 
+* [Issue #80](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2380/Issue%2380.md)
+	* [Protip: Un-jank Your Android ListView](http://nickbradbury.com/2013/12/05/un-jank-your-android-listview/)
+	* [Cross-Compiling Android Apps to HTML5](https://air.mozilla.org/cross-compiling-android-apps/)
+	* [Enterprise scale live device test automation](http://everybodytests.blogspot.com/2013/11/enterprise-scale-live-device-test.html)
+	* [Old Webview vs. Chromium Webview](https://www.timroes.de/2013/11/23/old-webview-vs-chromium-webview/)
+	* [Transition Animations – Part 4](http://blog.stylingandroid.com/archives/2191)
+	* [RxJava on Android with Scala => AWESOME](http://pommedeterresautee.blogspot.com/2013/11/rxjava-on-android-with-scala-awesome.html)
+	
 * Issue #79
 	* 
 * Issue #78
