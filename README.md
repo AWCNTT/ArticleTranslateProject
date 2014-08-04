@@ -16,6 +16,19 @@
 
 翻译进度
 -------------------------------
+* [Issue #113](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23113/Issue%23113.md)
+	* [Creating a Media App for AndroidTV](http://ptrprograms.blogspot.com/2014/07/creating-media-app-for-androidtv.html)
+	* [Gradle Tutorial : Part 1 : Installation + Setup](http://rominirani.com/2014/07/28/gradle-tutorial-part-1-installation-setup/)
+	* [Gradle Tutorial : Part 2 : Java Projects](http://rominirani.com/2014/07/28/gradle-tutorial-part-2-java-projects/)
+	* [Gradle Tutorial : Part 3 : Multiple Java Projects](http://rominirani.com/2014/07/29/gradle-tutorial-part-3-multiple-java-projects/)
+	* [How templates can save your time?](http://dmytrodanylyk.com/pages/blog/templates.html)
+	* [A Beginners Guide to Android Wear](http://goo.gl/gfcRxC)
+	* [Loosely coupled In-app communication in Android](http://magicmicky.github.io/android_development/loose_coupling_using_otto/)
+	* [Ripples – Part 1](http://blog.stylingandroid.com/archives/2717)
+	* [Everybody Tests: Why is the Android Monkey so Naughty?](http://everybodytests.blogspot.com/2014/08/why-is-android-monkey-so-naughty.html)
+	* [AOSP Part 3: Developing Efficiently](http://udinic.wordpress.com/2014/07/24/aosp-part-3-developing-efficiently/)
+	* [Google I/O 2014 App Source Code Now Available](http://android-developers.blogspot.com/2014/07/google-io-2014-app-source-code-now.html) 	
+	
 * [Issue #112](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23112/Issue%23112.md)
 * [Issue #111](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23111/Issue%23111.md)
 * [Issue #110](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23110/Issue%23110.md)
@@ -146,7 +159,7 @@
 	* 
 * Issue #55
 	* 
-* [**Issue #54**](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2354/Issue%2354.md)
+* [Issue #54](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2354/Issue%2354.md)
 	* [Using Cryptography to Store Credentials Safely](http://android-developers.blogspot.co.uk/2013/02/using-cryptography-to-store-credentials.html)
 	* [WMS On Android](http://www.azavea.com/blogs/labs/2013/01/wms-on-android/)
 	
