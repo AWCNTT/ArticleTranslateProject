@@ -233,7 +233,10 @@
 	* [The Ultimate Android Camera Development Guide](http://www.airpair.com/android/android-camera-development)
 	
 * Issue #92
-	* 
+	* [Testing Asynchronous Tasks on Android](http://codetalk.de/?p=43)
+	* [Blurring Images – Part 4](http://blog.stylingandroid.com/archives/2341) 
+	* [Lets try Android Game Development with AndEngine](http://pathofacoder.com/2014/03/04/lets-try-android-game-development-with-andengine/)  
+	
 * Issue #91
 	* 
 * Issue #90
