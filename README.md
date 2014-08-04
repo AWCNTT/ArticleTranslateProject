@@ -305,8 +305,16 @@
 	* [Testing on Android (Part 2): Functional Tests](http://daniel-codes.blogspot.com/2014/01/testing-on-android-part-2-functional.html) 
 	* [TextClock Version 2 – Part 2](http://blog.stylingandroid.com/archives/2256)
 	
-* Issue #83
-	* 
+* [Issue #83](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2383/Issue%2383.md)
+	* [Android Recipe #4, path tracing](http://www.curious-creature.org/2013/12/21/android-recipe-4-path-tracing/)
+	* [A journey on the Android Main Thread](http://corner.squareup.com/2013/12/android-main-thread-2.html)
+	* [Smart Watch – Part 3](http://blog.stylingandroid.com/archives/2214) 
+	* [TextClock Version 2 – Part 1](http://blog.stylingandroid.com/archives/2242)
+	* [Using the new Gradle-based Android build system](https://plus.google.com/+CyrilMottier/posts/WRgB2shaeuu)
+	* [A Recipe for writing responsive REST clients on Android](http://birbit.com/a-recipe-for-writing-responsive-rest-clients-on-android/)
+	* [ProTip: Troubleshooting app bugs related to scheduled tasks](https://plus.google.com/+RomanNurik/posts/5w3Mi9EoniT)
+	* [RxJava and Android: working with subjects](http://howrobotswork.wordpress.com/2013/12/23/rxjava-and-android-working-with-subjects/)
+
 * Issue #82
 	* 
 * Issue #81
