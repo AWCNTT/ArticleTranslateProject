@@ -30,6 +30,16 @@
 	* [Google I/O 2014 App Source Code Now Available](http://android-developers.blogspot.com/2014/07/google-io-2014-app-source-code-now.html) 	
 	
 * [Issue #112](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23112/Issue%23112.md)
+	* [KNOX Contribution to Android: Accelerating Android in the Workplace](http://android-developers.blogspot.de/2014/07/knox-contribution-to-android.html)
+	* [Simple Ripple + Reveal + Elevation tutorial](http://trickyandroid.com/simple-ripple-reveal-elevation-tutorial/)
+	* [How templates can save your time?](http://dmytrodanylyk.com/pages/blog/templates.html)
+	* [Floating Action Button](http://prolificinteractive.com/blog/2014/07/24/android-floating-action-button-aka-fab/)
+	* [Android AutoCompleteTextView With Suggestions From a Web Service](http://makovkastar.github.io/blog/2014/04/12/android-autocompletetextview-with-suggestions-from-a-web-service/)
+	* [Irregular Shapes – Part 4](http://blog.stylingandroid.com/archives/2692) 
+	* [Migrating to the new project structure ](http://engineering.meetme.com/2014/07/android-and-gradle-migrating-to-the-new-project-structure/)
+	* [Why we love parcable](http://prolificinteractive.com/blog/2014/07/18/why-we-love-parcelable/)
+	* [[]Developing Watchfaces for Android Wear](http://toastdroid.com/2014/07/18/developing-watchfaces-for-android-wear/)
+	
 * [Issue #111](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23111/Issue%23111.md)
 * [Issue #110](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23110/Issue%23110.md)
 * [Issue #109](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23109/Issue%23109.md)
