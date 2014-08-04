@@ -121,11 +121,12 @@
 	
 * [Issue #104](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23104/Issue%23104.md)
 	* [GPlayServices 1：保存到Google Drive](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23104/2014-06-17-GPlayServices-1-Save-to-Google-Drive.md) - @[whosea](https://github.com/whosea)
-	* Learn from the biggest fails in the Play store
-	* Defining Custom Pre and Post-Processing Tasks in Gradl
-	* How to develop an Android Weather app using Weatherlib
-	* How Dropbox Uses C++ for Cross-Platform iOS and Android Development
-	* Ford Sync AppLink Android Demo - Playing Online Audio
+	* [Learn from the biggest fails in the Play store](http://bit.ly/andbigfails)
+	* [Defining Custom Pre and Post-Processing Tasks in Gradle](http://www.crashlytics.com/blog/defining-custom-pre-and-post-processing-tasks-in-gradle/)
+	* [How to develop an Android Weather app using Weatherlib](http://www.survivingwithandroid.com/2014/05/how-to-develop-android-weather-app.html)
+	* [How Dropbox Uses C++ for Cross-Platform iOS and Android Development](http://oleb.net/blog/2014/05/how-dropbox-uses-cplusplus-cross-platform-development/)
+	* [Ford Sync AppLink Android Demo - Playing Online Audio](http://ptrprograms.blogspot.com/2014/05/ford-sync-applink-android-demo-playing.html)
+	
 * [Issue #103](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23103/Issue%23103.md) - @[inferjay](http://github/inferjay)
 	* [Android用自定义Shapes实现阴影效果](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23103/2014-5-29-Shadow-effect-with-custom-shapes.md) - @[whosea](https://github.com/whosea)
 	* AOSP Part 1: Get the code using the Manifest and Repo tool
