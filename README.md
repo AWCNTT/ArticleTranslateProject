@@ -94,6 +94,19 @@
 	* [New ways to connect your app to the Cloud](http://android-developers.blogspot.com/2014/06/new-ways-to-connect-your-app-to-the-cloud-android-studio.html)
 	
 * [Issue #106](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23106/Issue%23106.md)
+	* [Android Tips Round-Up](http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/)
+	* [Android Bluetooth Support: Overview](http://blog.moritzhaarmann.de/blog/2014/06/11/android-bluetooth/) 
+	* [Bright, but not bright enough](https://medium.com/@alexfu914/bright-but-not-bright-enough-ae975dd2c7aa)
+	* [Top 5 Android libraries every Android developer should know about](https://www.infinum.co/the-capsized-eight/articles/top-5-android-libraries-every-android-developer-should-know-about) 
+	* [Effects of Android Application Termination](http://www.doubleencore.com/2014/06/effects-android-application-termination/)
+	* [NXP Releases Free Android Dev Kit for MiFare & NTAG](http://www.eetimes.com/author.asp?section_id=36&doc_id=1322730)
+	* [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) 
+	* [Wait for it...a deep dive into Espresso's Idling Resources](http://dev.jimdo.com/2014/05/09/wait-for-it-a-deep-dive-into-espresso-s-idling-resources)
+	* [Dagger: dependency injection on Android (Part 2)](http://antonioleiva.com/dagger-android-part-2/) 
+	* [Theming ActionBar and the SearchView within it](http://www.jayway.com/2014/06/02/android-theming-the-actionbar/)
+	* [Android Version Distribution](http://robux4.blogspot.fr/2014/06/android-version-distribution.html)
+	* [App UI / UX – Part 4 ](http://blog.stylingandroid.com/archives/2637)
+	
 * [Issue #105](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23105/Issue%23105.md)
  	* [如何测试Android的Parcelable接口](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23105/2014-06-16-How-to-Test-Android’s-Parcelable-Interface.md) - @[whosea](https://github.com/whosea)
 	* App UI / UX – Part 3
