@@ -181,7 +181,15 @@
 	* [A Performance Comparison Between Java and C on Nexus 5](http://www.learnopengles.com/a-performance-comparison-between-java-and-c-on-the-nexus-5/)
 	
 * Issue #97
-	* 
+	* [Bluetooth LE – Part 1](http://blog.stylingandroid.com/archives/2394)
+	* [Handling bundles in activities and fragments](http://blog.petrnohejl.cz/handling-bundles-in-activities-and-fragments)
+	* [Wait for It…a Deep Dive in Espresso's Idling Resources](http://stefanodacchille.github.io/blog/2014/04/05/wait-for-it/)
+	* [Generating preloaded sqlite data](http://mytechaddiction.blogspot.com/2014/04/preloading-localized-data-in-sqllte.html)
+	* [Integrating an Android Github repo with Travis CI](http://gmariotti.blogspot.com/2014/04/integrating-android-github-repo-with.html)
+	* [Better VideoView loading indicator](https://plus.google.com/+ArneStockmans/posts/FFE8PrWiPyq) 
+	* [Handling bundles in activities and fragments ](http://blog.petrnohejl.cz/handling-bundles-in-activities-and-fragments)
+	* [Protip: Syntax highlighting everyw](https://plus.google.com/106183159594179737258/posts/3qnJm8fYFVP)
+	
 * Issue #96
 	* 
 * Issue #95
