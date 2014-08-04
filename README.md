@@ -41,6 +41,13 @@
 	* [[]Developing Watchfaces for Android Wear](http://toastdroid.com/2014/07/18/developing-watchfaces-for-android-wear/)
 	
 * [Issue #111](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23111/Issue%23111.md)
+	* [Irregular Shapes – Part 3](http://blog.stylingandroid.com/archives/2686) 
+	* [Creating GIF from video screen captures of your Android device](http://blog.blundell-apps.com/creating-gif-images-from-your-android-device/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=creating-gif-images-from-your-android-device)
+	* [Android Gradle App with Robolectric JUnit tests](http://blog.blundell-apps.com/android-gradle-app-with-robolectric-junit-tests/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=android-gradle-app-with-robolectric-junit-tests) 
+	* [Simple server-client syncing for mobile apps using Couchbase Mobile](https://www.infinum.co/the-capsized-eight/articles/server-client-syncing-for-mobile-apps-using-couchbase-mobile)
+	* [View inflation vs visibility:"GONE": a battle fought with DDMS](http://magicmicky.github.io/android_development/benchmark-using-traceview/) 
+	* [Porting Android Wear Developer Preview Code](http://android-developers.blogspot.com/2014/07/porting-your-wear-developer-preview.html) 
+	
 * [Issue #110](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23110/Issue%23110.md)
 * [Issue #109](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23109/Issue%23109.md)
 * [Issue #108](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23108/Issue%23108.md)
