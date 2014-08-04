@@ -344,8 +344,16 @@
 	* [Transition Animations – Part 4](http://blog.stylingandroid.com/archives/2191)
 	* [RxJava on Android with Scala => AWESOME](http://pommedeterresautee.blogspot.com/2013/11/rxjava-on-android-with-scala-awesome.html)
 	
-* Issue #79
-	* 
+* [Issue #79](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2379/Issue%2379.md)
+	* [Old WebView vs. Chromium backed WebView](https://www.timroes.de/2013/11/23/old-webview-vs-chromium-webview/)
+	* [Using RxJava with Android](http://howrobotswork.wordpress.com/2013/10/28/using-rxjava-in-android/)
+	* [NotificationListenerService and KitKat](http://gmariotti.blogspot.de/2013/11/notificationlistenerservice-and-kitkat.html) 
+	* [Transition Animations – Part 3](http://blog.stylingandroid.com/archives/2168) 
+	* [Android Property Animations: Introduction](http://cogitolearning.co.uk/?p=1290) 
+	* [Make Your ProgressBar Smoother](http://antoine-merle.com/blog/2013/11/12/make-your-progressbar-more-smooth/)
+	* [Protip: The power of drawables](https://plus.google.com/+FlavienLaurent/posts/a9YPAyeyXd4) 
+	* [Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android)
+
 * Issue #78
 	* 
 * Issue #77
