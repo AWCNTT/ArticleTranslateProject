@@ -493,8 +493,15 @@
 	* [Navigation drawer with account picker](http://www.survivingwithandroid.com/2013/06/navigation-drawer-with-account-picker.html) 
 	* [Google Play Developer 8-Step Checkup](http://android-developers.blogspot.de/2013/06/google-play-developer-8-step-checkup.html?utm_source=feedly&utm_medium=feed&utm_campaign=Feed:+PlanetAndroidCom+(Planet+Android)) 
 	
-* Issue #62
-	* 
+* [Issue #62](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2362/Issue%2362.md)
+	* [Getting Started with Android Studio](http://developer.android.com/intl/zh-cn/sdk/installing/studio.html)
+	* [Google I/O 13 - The Android Sessions](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9WGUwq2gQ-coU3fSyexgOx)
+	* [Write your own Android Authenticator](http://udinic.wordpress.com/2013/04/24/write-your-own-android-authenticator/)
+	* [Useful Android resources](http://www.sapandiwakar.in/useful-android-resources/) 
+	* [Volley: Easy, Fast Networking for Android - Example](http://www.kpbird.com/2013/05/volley-easy-fast-networking-for-android.html)
+	* [Navigation Drawer – Part 1](http://blog.stylingandroid.com/archives/1793) 
+	* [Navigation Drawer – Part 2 + 3](http://blog.stylingandroid.com/archives/1814)
+
 * Issue #61
 	* 
 * Issue #60
