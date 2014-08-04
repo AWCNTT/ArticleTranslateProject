@@ -405,8 +405,11 @@
 	* [Interview with Android indie developer interview: Veaceslav Grec](http://androiddreamrevised.blogspot.com/2013/10/android-indie-developer-interview_24.html) 
 	* [Setting up the Android Google Volley ImageLoader for NetworkImageView](http://cypressnorth.com/mobile-application-development/setting-android-google-volley-imageloader-networkimageview/) 
 	
-* Issue #73
-	* 
+* [Issue #73](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2373/Issue%2373.md)
+	* [Lead your Android App to success with Analytics](http://antonioleiva.com/lead-your-android-app-to-success-with-google-analytics-part-2/)  
+	* [Android Studio Tips & Tricks: Moving Around](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
+	* [Android SlidingPaneLayout: Tutorial](http://www.survivingwithandroid.com/2013/10/android-slidingpanelayout-tutorial.html)
+
 * Issue #72
 	* 
 * Issue #71
