@@ -456,8 +456,17 @@
 	* [Android Gradle - Building Unique Build Variants](http://brad-android.blogspot.com/2013/08/android-gradle-building-unique-build.html)
 	* [Getting Started in Android Game Dev - Part 4](http://obviam.net/index.php/getting-started-in-android-game-development-with-libgdx-tutorial-part-4-collision-detection/)
 
-* Issue #66
-	* 
+* [Issue #66](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2366/Issue%2366.md)
+	* [Generating Android apklibs with Gradle](https://plus.google.com/+ChristopherBroadfoot/posts/7uyipf8DTau)
+	* [OpenGL ES Tutorials](http://www.learnopengles.com/category/android-tutorials/) 
+	* [The making of Icepick: The Good, The Bad and The Ugly](http://novoda.com/blog/the-making-of-icepick) 
+	* [Android Custom Loader to Load Data Directly from SQLite Database for Android Donut (Version 1.6) and Later](http://www.phloxblog.in/android-custom-loader-load-data-sqlite-database-android-version-1-6/#.U9yoiFaaIeY)
+	* [Life Before Loaders (part 1)](http://www.androiddesignpatterns.com/2012/07/loaders-and-loadermanager-background.html) 
+	* [The emulator is dead, long live the emulator!](http://www.delyan.me/08-11-2013/the-emulator-is-dead-long-live-the-emulator/) 
+	* [Android Shutdown Sequence](http://www.kpbird.com/2013/08/in-depth-android-shutdown-sequence.html) 
+	* [ViewOverlay explained](http://lafosca.cat/viewoverlay-in-android/)
+	* [Suggestion For The Organizing Of Android Resources](http://www.sage42.org/2013/08/19/suggestion-for-the-organisation-of-android-resources/)
+
 * Issue #65
 	* 
 * Issue #64
