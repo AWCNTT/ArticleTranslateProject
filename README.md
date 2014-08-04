@@ -448,8 +448,14 @@
 	* [10 Tips for More Efficient Apps](http://blog.azoft.com/android-application-development-tips/)
 	* [ActionBarCompat](http://blog.stylingandroid.com/archives/2020)
 
-* Issue #67
-	* 
+* [Issue #67](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2367/Issue%2367.md)
+	* [FragmentTransactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html) 
+	* [What to Expect When Being Featured on Google Play](http://ryanharter.com/blog/2013/08/20/what-to-expect-when-being-featured-on-google-play/) 
+	* [Respecting Audio Focus](http://android-developers.blogspot.com/2013/08/respecting-audio-focus.html)
+	* [Read the code: IntentService](http://www.androidzeitgeist.com/2013/08/read-code-intentservice.html)
+	* [Android Gradle - Building Unique Build Variants](http://brad-android.blogspot.com/2013/08/android-gradle-building-unique-build.html)
+	* [Getting Started in Android Game Dev - Part 4](http://obviam.net/index.php/getting-started-in-android-game-development-with-libgdx-tutorial-part-4-collision-detection/)
+
 * Issue #66
 	* 
 * Issue #65
