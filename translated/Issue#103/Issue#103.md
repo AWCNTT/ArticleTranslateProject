@@ -9,7 +9,7 @@ categories: Issue#103
 
 ###文章 & 教程
  
-[**Android 用自定义Shapes实现阴影效果**](http://slothdevelopers.wordpress.com/2014/05/22/shadow-effect-with-custom-shapes/) 
+[**Android 用自定义Shapes实现阴影效果**](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23103/2014-5-29-Shadow-effect-with-custom-shapes.md) 
  
 这篇文章展示了如何使用自定义的Shapes为你的View创建一个简单的阴影效果。
  
@@ -21,7 +21,7 @@ categories: Issue#103
 
 如果你想要在一个设备上模拟缓慢和参差不齐的网络连接，可以做到这一点的方法之一是通过在路由器上配置OpenWRT。
 
-[**Android 小贴士: 使用Renderscript进行高效率的图片模糊处理**]()
+[**Android 小贴士: 使用Renderscript进行高效率的图片模糊处理**](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23103/2014-5-29-ProTip-Blur-Images-Efficiently-using-Renderscript.md)
 
 图片模糊效果是许多开发者需要实现的效果，然而实现它需要一番时间和功夫。还有，由于需要对图像做很多处理，从CUP和内存使用方面看，如果没有合适的编码是非常痛苦的。
  

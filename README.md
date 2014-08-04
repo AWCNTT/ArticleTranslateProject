@@ -129,13 +129,13 @@
 	
 * [Issue #103](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23103/Issue%23103.md) - @[inferjay](http://github/inferjay)
 	* [Android用自定义Shapes实现阴影效果](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23103/2014-5-29-Shadow-effect-with-custom-shapes.md) - @[whosea](https://github.com/whosea)
-	* AOSP Part 1: Get the code using the Manifest and Repo tool
-	* Simulate a slow network connection when testing on mobile devices 
+	* [AOSP Part 1: Get the code using the Manifest and Repo tool](http://udinic.wordpress.com/2014/05/24/aosp-part-1-get-the-code-using-the-manifest-and-repo/)
+	* [Simulate a slow network connection when testing on mobile devices ](http://kevin-read.com/post/86601925386/simulating-a-slow-network-connection-when-testing-on)
 	* [Android 小贴士: 使用Renderscript方法来模糊图片效率高](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23103/2014-5-29-ProTip-Blur-Images-Efficiently-using-Renderscript.md) - @[whosea](https://github.com/whosea)
-	* Navigation Drawer Done Right
-	* App UI / UX – Part 1
-	* Custom Animations with Fragments - @[inferjay](http://github/inferjay)
-	* Lazy Android Developers - Be Productive
+	* [Navigation Drawer Done Right](http://androiduiux.com/2014/05/20/navigation-drawer-done-right/)
+	* [App UI / UX – Part 1](http://blog.stylingandroid.com/archives/2571)
+	* [Custom Animations with Fragments](http://cyrilmottier.com/2014/05/20/custom-animations-with-fragments/) - @[inferjay](http://github/inferjay)
+	* [Lazy Android Developers - Be Productive](https://speakerdeck.com/pareshmayani/lazy-android-developers-be-productive)
 * Issue #102
 	* 
 * Issue #101
