@@ -315,8 +315,16 @@
 	* [ProTip: Troubleshooting app bugs related to scheduled tasks](https://plus.google.com/+RomanNurik/posts/5w3Mi9EoniT)
 	* [RxJava and Android: working with subjects](http://howrobotswork.wordpress.com/2013/12/23/rxjava-and-android-working-with-subjects/)
 
-* Issue #82
-	* 
+* [Issue #82](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2382/Issue%2382.md)
+	* [High Performance / Low Latency Audio on Android](http://heatvst.com/wp/2013/11/30/high-performance-low-latency-audio-on-android-why-it-still-doesnt-work/)
+	* [Reliable API testing for Android with Retrofit and Mockito ](http://www.mdswanson.com/blog/2013/12/16/reliable-android-http-testing-with-retrofit-and-mockito.html)
+	* [Protip: WebView in a scrolling view (link Email app)](https://plus.google.com/+PedroLoureiro/posts/FqU9Adzhtrv)
+	* [AT of the ART runtime](https://plus.google.com/+MatthiasSchaff/posts/WGXSXv2Aukr)
+	* [Mirror API and GDK - Developing for Google Glass #1](http://www.androidzeitgeist.com/2013/12/mirror-api-gdk-developing-google-glass.html) 
+	* [Migrating from ActionBarSherlock to ActionBarCompat](http://www.grokkingandroid.com/migrating-actionbarsherlock-actionbarcompat/) 
+	* [Android Out of Memory Error: Causes, Solution and Best practices](http://blogs.innovationm.com/android-out-of-memory-error-causes-solution-and-best-practices/)
+	* [Restricted Profiles Settings](http://gmariotti.blogspot.com/2013/12/restricted-profiles-settings.html)
+	* [Smart Watch – Part 2](http://blog.stylingandroid.com/archives/2206)
 * Issue #81
 	* 
 * Issue #80
