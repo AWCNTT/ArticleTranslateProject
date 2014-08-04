@@ -21,7 +21,7 @@ Have you every wondered why there are two serialization mechanisms in Android. P
 
 Antoine Merle has written an introductionary blog post about his FlipImageView library.
 
-[**Edit Mode And why using a Contextual ActionBar is a bad idea**](http://) (dazcorp.blogspot.de) 
+[**Edit Mode And why using a Contextual ActionBar is a bad idea**](http://dazcorp.blogspot.de/2013/04/edit-mode-and-why-using-contextual.html) (dazcorp.blogspot.de) 
 
 In this post Daryl Gent explains why it is a bad idea to use a Contextual ActionBar to archive an edit mode syle forms.
 
