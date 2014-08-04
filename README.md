@@ -273,7 +273,8 @@
 	* [Upstream Messages With Google Cloud Messaging (Part 1)](http://www.grokkingandroid.com/upstream_messages_with_google_cloud_messaging/)
 	
 * [Issue #87](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2387/Issue%2387.md)
-	* [Understanding How Your App Uses RAM](http://android-developers.blogspot.com/2014/01/process-stats-understanding-how-your.html)[**Android internals: ART in practice - Part 3**](http://blog.dominik-helleberg.de/2014/01/28/android-internals-art-in-practice/) 
+	* [Understanding How Your App Uses RAM](http://android-developers.blogspot.com/2014/01/process-stats-understanding-how-your.html)
+	* [Android internals: ART in practice - Part 3](http://blog.dominik-helleberg.de/2014/01/28/android-internals-art-in-practice/) 
 	* [Monads: Your App as a Function](http://mttkay.github.io/blog/2014/01/25/your-app-as-a-function/)
 	* [Nested Fragments and the Back Stack](http://curioustechizen.blogspot.com/2014/01/nested-fragments-and-back-stack.html)
 	* [Simpler Android apps with Flow and Mortar](http://corner.squareup.com/2014/01/mortar-and-flow.html)
@@ -288,8 +289,14 @@
 	* [Simpler Android apps with Flow and Mortar](http://corner.squareup.com/2014/01/mortar-and-flow.html)
 	* [TextClock Version 2 – Part 4](http://blog.stylingandroid.com/archives/2277)
 	
-* Issue #85
-	* 
+* [Issue #85](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2385/Issue%2385.md)
+	* [Tricks to boost performance of ListView](http://optimizationtricks.blogspot.in)
+	* [Handy adb commands for Android](http://www.growingwiththeweb.com/2014/01/handy-adb-commands-for-android.html)
+	* [Building Complex Animations](http://cogitolearning.co.uk/?p=1404)
+	* [TextClock Version 2 – Part 3](http://blog.stylingandroid.com/archives/2266) 
+	* [Preserve Your Launchers: Use Activity Aliases](http://blog.danlew.net/2014/01/16/preserve-your-launchers-use-activity-alias/)
+	* [Introducing the Google Drive Android API](http://googledevelopers.blogspot.com/2014/01/introducing-google-drive-android-api.html)
+
 * Issue #84
 	* 
 * Issue #83
