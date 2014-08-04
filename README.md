@@ -442,8 +442,12 @@
 	* [ActionBarCompat – Part 2](http://blog.stylingandroid.com/archives/2026) 
 	* [AndroidSerialSQL - solving some problems with SQLite in Android](http://www.recursiverobot.com/post/60276620485/androidserialsql-solving-some-problems-with-sqlite-in) 
 	
-* Issue #68
-	* 
+* [Issue #68](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2368/Issue%2368.md)
+	* [Extracting more useful data from Developer Console](https://plus.google.com/+AndroidDevelopers/posts/RwCDKm1ohPz)
+	* [NotificationListenerService and a Whatsapp extension for Dashclock](http://gmariotti.blogspot.de/2013/08/notificationlistenerservice-and.html) 
+	* [10 Tips for More Efficient Apps](http://blog.azoft.com/android-application-development-tips/)
+	* [ActionBarCompat](http://blog.stylingandroid.com/archives/2020)
+
 * Issue #67
 	* 
 * Issue #66
