@@ -191,7 +191,11 @@
 	* [Protip: Syntax highlighting everyw](https://plus.google.com/106183159594179737258/posts/3qnJm8fYFVP)
 	
 * Issue #96
-	* 
+	* [3 Ways to Boost Android Support Library Stability](http://www.crashlytics.com/blog/3-key-ways-to-increase-android-support-library-stability/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_4.6.2014&utm_content=article_link)
+	* [Android for iOS Developers 101](http://www.objc.io/issue-11/)
+	* [How to Implement a Floating Activity in an Android App](http://cases.azoft.com/android-tutorial-floating-activity/)
+	* [Android App Polishing: Adding Subtle Attention Seekers](https://plus.google.com/+CyrilMottier/posts/FABaJhRMCuy)
+	
 * Issue #95
 	* 
 * Issue #94
