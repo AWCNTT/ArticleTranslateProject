@@ -508,8 +508,12 @@
 	* [Clustering on Google Map V2 Part-1](http://karnshah8890.blogspot.in/2013/04/clustering-on-google-map-v2.html)
 	* [Calabash Android Automation Setup](http://sriram-iyengar.blogspot.in/2013/04/android-setting-up-calabash-android-for.html)
 
-* Issue #60
-	* 
+* [Issue #60](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2360/Issue%2360.md)
+	* [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
+	* [Flip Your ImageViews](http://castorflex.github.io/blog/2013/04/16/flip-your-imageviews/)
+	* [Edit Mode And why using a Contextual ActionBar is a bad idea](http://dazcorp.blogspot.de/2013/04/edit-mode-and-why-using-contextual.html)
+	* [Adapters – Part 3](http://blog.stylingandroid.com/archives/1710)
+	
 * Issue #59
 	* 
 * Issue #58
