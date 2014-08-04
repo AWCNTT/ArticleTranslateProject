@@ -467,8 +467,16 @@
 	* [ViewOverlay explained](http://lafosca.cat/viewoverlay-in-android/)
 	* [Suggestion For The Organizing Of Android Resources](http://www.sage42.org/2013/08/19/suggestion-for-the-organisation-of-android-resources/)
 
-* Issue #65
-	* 
+* [Issue #65](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2365/Issue%2365.md)
+	* [Write your own Android Sync Adapter](http://udinic.wordpress.com/2013/07/24/write-your-own-android-sync-adapter/)
+	* [New Android 4.3 APIs](https://developer.android.com/intl/zh-cn/about/versions/android-4.3.html)
+	* [Bust the Android Fragmentation Myth](http://www.slideshare.net/chiuki/bust-the-android-fragmentation-myth)
+	* [Gradle Build – Part 6](https://blog.stylingandroid.com/archives/1948) 
+	* [Android – Volley Library Example](http://java.dzone.com/articles/android-–-volley-library) 
+	* [Rounded Avatars with Android](http://evel.io/2013/07/21/rounded-avatars-in-android/)
+	* [ActionBarCompat (Part 1): How to use](http://antonioleiva.com/actionbarcompat-how-to-use/)
+	* [Binders & Window Tokens](http://www.androiddesignpatterns.com/2013/07/binders-window-tokens.html) 
+	
 * Issue #64
 	* 
 * Issue #63
