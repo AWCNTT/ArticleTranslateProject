@@ -502,8 +502,12 @@
 	* [Navigation Drawer – Part 1](http://blog.stylingandroid.com/archives/1793) 
 	* [Navigation Drawer – Part 2 + 3](http://blog.stylingandroid.com/archives/1814)
 
-* Issue #61
-	* 
+* [Issue #61](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2361/Issue%2361.md)
+	* [Google Plus Integration in Android](http://ankitthakkar90.blogspot.in/2013/05/google-plus-integration-in-android.html) 
+	* [Don’t Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/)
+	* [Clustering on Google Map V2 Part-1](http://karnshah8890.blogspot.in/2013/04/clustering-on-google-map-v2.html)
+	* [Calabash Android Automation Setup](http://sriram-iyengar.blogspot.in/2013/04/android-setting-up-calabash-android-for.html)
+
 * Issue #60
 	* 
 * Issue #59
