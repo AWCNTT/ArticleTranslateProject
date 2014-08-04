@@ -136,7 +136,7 @@
 	* [App UI / UX – Part 1](http://blog.stylingandroid.com/archives/2571)
 	* [Custom Animations with Fragments](http://cyrilmottier.com/2014/05/20/custom-animations-with-fragments/) - @[inferjay](http://github/inferjay)
 	* [Lazy Android Developers - Be Productive](https://speakerdeck.com/pareshmayani/lazy-android-developers-be-productive)
-* Issue #102
+* [Issue #102](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23102/Issue%23102.md)
 	* [Android’s Font Renderer](https://medium.com/p/c368bbde87d9)
 	* [Publishing with Gradle](http://meedamian.com/post/publishing-with-gradle) 
 	* [Play Store Compatibility Across Various Versions](https://plus.google.com/+KirillGrouchnikov/posts/XhbAe9z4hru)
@@ -148,7 +148,7 @@
 	* [Using Custom Compound Views in Android](http://ryanharter.com/blog/2014/05/14/using-custom-compound-views-in-android/)
 	* [Working with Google Analytics API v4 for Android](http://benwilcock.wordpress.com/2014/04/11/working-with-google-analytics-api-v4-for-android/)
 	
-* Issue #101
+* [Issue #101](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23101/Issue%23101.md)
 	* [git Parallax background effect for the ViewPager](http://howrobotswork.wordpress.com/2014/05/09/parallaxviewpager-parallax-background-effect-for-the-viewpager/)
 	* [Using GreenDao with Android Studio](http://blog.surecase.eu/using-greendao-with-android-studio-ide/)
 	* [Best resources for Android development](http://www.androidauthority.com/best-resources-android-development-372414/) 
@@ -158,7 +158,7 @@
 	* [Android App Polishing: Reducing User Frustration with Animations](https://plus.google.com/+CyrilMottier/posts/hZcCzmNBFzG)
 	* [Custom Layouts on Android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)
 	
-* Issue #100
+* [Issue #100](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23100/Issue%23100.md)
 	* [adb scripting](http://engineering.meetme.com/2014/04/android-debug-bridge-adb-command-scripting/) 
 	* [How to Make a Paper Folding Animation in Android](http://cases.azoft.com/creating-paper-folding-animation-in-android/)
 	* [Deep dive into Android's system-level graphics architecture](https://plus.google.com/+AndroidDevelopers/posts/2iETZVQwRdt)
@@ -166,13 +166,13 @@
 	* [Efficiently filtering Android intents with android:ssp](https://chris.orr.me.uk/android-ssp-data-intent-filter/)
 	* [Layout Inflation as Intended](http://www.doubleencore.com/2013/05/layout-inflation-as-intended/)
 	
-* Issue #99
+* [Issue #99](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2399/Issue%2399.md)
 	* [Bluetooth LE – Part 3](http://blog.stylingandroid.com/archives/2419)
 	* [First dip into MVP on Android](http://stephenpengilley.blogspot.com.es/2014/04/my-first-dip-into-mvp-on-android.html)
 	* [Robust and readable architecture for an Android App](http://joanzap.ghost.io/robust-architecture-for-an-android-app/)
 	* [Take 10 Minutes for this Developer Survey](http://www.vmob.me/DE3Q14AndroidWeekly)
 	
-* Issue #98
+* [Issue #98](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2398/Issue%2398.md)
 	* [Mastering ProGuard for Building Lightweight Code](http://www.crashlytics.com/blog/mastering-proguard-for-building-lightweight-android-code/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_4.20.2014&utm_content=article_link) 
 	* [Bluetooth LE – Part 2](http://blog.stylingandroid.com/archives/2408)
 	* [Handy adb commands for Android](http://www.growingwiththeweb.com/2014/01/handy-adb-commands-for-android.html)
@@ -180,7 +180,7 @@
 	* [Simulating Activity Configuration Changes](https://plus.google.com/+AlexLockwood/posts/Dx2j7Mr6qqk)
 	* [A Performance Comparison Between Java and C on Nexus 5](http://www.learnopengles.com/a-performance-comparison-between-java-and-c-on-the-nexus-5/)
 	
-* Issue #97
+* [Issue #97](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2397/Issue%2397.md)
 	* [Bluetooth LE – Part 1](http://blog.stylingandroid.com/archives/2394)
 	* [Handling bundles in activities and fragments](http://blog.petrnohejl.cz/handling-bundles-in-activities-and-fragments)
 	* [Wait for It…a Deep Dive in Espresso's Idling Resources](http://stefanodacchille.github.io/blog/2014/04/05/wait-for-it/)
@@ -190,13 +190,13 @@
 	* [Handling bundles in activities and fragments ](http://blog.petrnohejl.cz/handling-bundles-in-activities-and-fragments)
 	* [Protip: Syntax highlighting everyw](https://plus.google.com/106183159594179737258/posts/3qnJm8fYFVP)
 	
-* Issue #96
+* [Issue #96](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2396/Issue%2396.md)
 	* [3 Ways to Boost Android Support Library Stability](http://www.crashlytics.com/blog/3-key-ways-to-increase-android-support-library-stability/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_4.6.2014&utm_content=article_link)
 	* [Android for iOS Developers 101](http://www.objc.io/issue-11/)
 	* [How to Implement a Floating Activity in an Android App](http://cases.azoft.com/android-tutorial-floating-activity/)
 	* [Android App Polishing: Adding Subtle Attention Seekers](https://plus.google.com/+CyrilMottier/posts/FABaJhRMCuy)
 	
-* Issue #95
+* [Issue #95](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2395/Issue%2395.md)
 	* [Best practices for consuming APIs on Android](http://engineering.meetme.com/2014/03/best-practices-for-consuming-apis-on-android/)
 	* [Androids Overblown Fragmentation Problem Revisited](http://nickbradbury.com/2014/03/28/androids-overblown-fragmentation-problem-revisited/)
 	* [Android library projects tutorial](http://www.vogella.com/tutorials/AndroidLibraryProjects/article.html)
@@ -209,7 +209,7 @@
 	* [Slides: How to setup unit testing in Android Studio](http://www.slideshare.net/tobiaspreuss/how-to-setup-unit-testing-in-android-studio)
 	* [Android App Polishing: Customizing Soft Keyboard Action Button](https://plus.google.com/u/0/+CyrilMottier/posts/FBZrVnbUCXZ)
 	
-* Issue #94
+* [Issue #94](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2394/Issue%2395.md)
 	* [Protip: SQLite debugging](https://plus.google.com/+SebastianEngel/posts/jfBGygnDh6R)
 	* [Google Play services 4.3](http://android-developers.blogspot.com/2014/03/google-play-services-43.html)
 	* [On the Edge of the Sandbox: External Storage Permissions](http://www.doubleencore.com/2014/03/android-external-storage/) 
@@ -222,7 +222,7 @@
 	* [Android Wear with Genymotion](http://data-hk.com/rontam/Android_Wear_with_Genymotion/)
 	* [Getting Started Wtih the Android Wear Developer Preview](http://developer.android.com/intl/zh-cn/training/building-wearables.html)
 	
-* Issue #93
+* [Issue #93](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2393/Issue%2393.md)
 	* [How Android transitions work](http://lucasr.org/2014/03/13/how-android-transitions-work/)
 	* [Localize Your Promotional Graphics on Google Play](http://android-developers.blogspot.com/2012/12/localize-your-promotional-graphics-on.html)
 	* [Storing A Pojo Into Shared Preferences](http://engineering.meetme.com/2014/03/android-tricks-and-tips-storing-a-pojo-into-shared-preferences/) 
@@ -232,7 +232,7 @@
 	* [WebView Explorations](http://stefanodacchille.github.io/blog/2014/02/23/webview-explorations/)
 	* [The Ultimate Android Camera Development Guide](http://www.airpair.com/android/android-camera-development)
 	
-* Issue #92
+* [Issue #92](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2392/Issue%2392.md)
 	* [Testing Asynchronous Tasks on Android](http://codetalk.de/?p=43)
 	* [Blurring Images – Part 4](http://blog.stylingandroid.com/archives/2341) 
 	* [Lets try Android Game Development with AndEngine](http://pathofacoder.com/2014/03/04/lets-try-android-game-development-with-andengine/)  
@@ -252,8 +252,15 @@
 	* [Building Animations with the android.transition Framework, Part 2](http://www.bignerdranch.com/blog/building-animations-android-transition-framework-part-2/) 
 	* [Some people can’t find my application in Google Play, now what?](http://www.blogc.at/2014/02/09/some-people-cant-find-my-application-in-google-play-now-what/) 
 
-* Issue #89
-	* 
+* [Issue #89](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2389/Issue%2389.md)
+	* [Protip: A smoother app launch experience](https://plus.google.com/+AndroidDevelopers/posts/VVpjo7KDx4H)		
+	* [Nested Fragments and the Backstack - Part 3](http://curioustechizen.blogspot.com/2014/02/nested-fragments-and-backstack-part-3.html)
+	* [MATCH_PARENT vs FILL_PARENT: The dos and don'ts ](http://randomlytyping.com/blog/2014/2/9/matchparent-vs-fillparent)
+	* [Make Your First Android App: Part 1/3](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
+	* [Keeping Google Cloud Messaging For Android Working Reliably](https://blog.pushbullet.com/2014/02/12/keeping-google-cloud-messaging-for-android-working-reliably-techincal-post/)
+	* [Fast, Effective, Double-Checked Locking in Android and Java Apps](http://blog.newrelic.com/2014/02/03/fast-effective-double-checked-locking-android-java-apps/)
+	* [New sample code, including Play Store-style tabs](https://plus.google.com/+AndroidDevelopers/posts/X8fg63wK6S8)
+	* [Mastering ProGuard for Building Lightweight Android Code](http://www.crashlytics.com/blog/mastering-proguard-for-building-lightweight-android-code/) 
 * Issue #88
 	* 
 * Issue #87
