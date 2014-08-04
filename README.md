@@ -245,8 +245,13 @@
 	* [Protip: Padding and scroll indicators for scrollable containers](https://plus.google.com/+AndroidDevelopers/posts/LpAA7q4jw9M) 
 	* [Android Studio vs. Eclipse: What You Need To Know](http://www.airpair.com/android/android-studio-vs-eclipse) 
 	
-* Issue #90
-	* 
+* [Issue #90](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2390/Issue%2390.md)
+	* [Unit Testing Remote Images With Robolectric](https://engineering.aweber.com/unit-testing-remote-images-on-android-with-picasso-and-robolectric/)
+	* [Slides: Efficient Android Threading](http://www.slideshare.net/andersgoransson/efficient-android-threading)
+	* [Blurring Images – Part 1](http://blog.stylingandroid.com/archives/2304) 
+	* [Building Animations with the android.transition Framework, Part 2](http://www.bignerdranch.com/blog/building-animations-android-transition-framework-part-2/) 
+	* [Some people can’t find my application in Google Play, now what?](http://www.blogc.at/2014/02/09/some-people-cant-find-my-application-in-google-play-now-what/) 
+
 * Issue #89
 	* 
 * Issue #88
