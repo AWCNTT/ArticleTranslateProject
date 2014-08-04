@@ -428,8 +428,11 @@
 	* [Android is almost impenetrable to malware](http://qz.com/131436/contrary-to-what-youve-heard-android-is-almost-impenetrable-to-malware/)
 	* [Android ListView: Endless adapter](http://www.survivingwithandroid.com/2013/10/android-listview-endless-adapter.html)
 	
-* Issue #70
-	* 
+* [Issue #70](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2370/Issue%2370.md)
+	* [Handling signing configs with Gradle](https://www.timroes.de/2013/09/22/handling-signing-configs-with-gradle/)
+	* [Yo Zuck, Fix This!](http://sriramramani.wordpress.com/2013/09/25/yo-zuck-fix-this/)
+	* [Push, Don’t Poll – Using GCM ](http://www.doubleencore.com/2013/09/push-dont-poll-how-to-use-gcm-to-update-app-data/)
+	
 * Issue #69
 	* 
 * Issue #68
