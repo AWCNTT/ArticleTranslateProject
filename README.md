@@ -109,15 +109,16 @@
 	
 * [Issue #105](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23105/Issue%23105.md)
  	* [如何测试Android的Parcelable接口](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23105/2014-06-16-How-to-Test-Android’s-Parcelable-Interface.md) - @[whosea](https://github.com/whosea)
-	* App UI / UX – Part 3
-	* Hands on Retrofit(A Rest Api Client)
-	* Adding attributes to a custom view
-	* Creating a Cards UI on Android
-	* AOSP Part 2: Build variants
-	* Dependency injection on Android: Dagger (Part 1) 
-	* Debugging During Robolectric Test Execution In Android Studio
-	* Extracting Form Models in Android
-	* Groovy on Android
+	* [App UI / UX – Part 3 ](http://blog.stylingandroid.com/archives/2591)
+	* [Hands on Retrofit(A Rest Api Client)](http://s3xy4ngyc.github.io/articles/hands-on-retrofit/)
+	* [Adding attributes to a custom view](http://droidista.blogspot.com/2014/06/adding-attributes-to-custom-view.html)(
+	* [Creating a Cards UI on Android](http://www.technology-ebay.de/the-teams/ebay-kleinanzeigen/blog/creating-a-cards-ui-on-android.html)
+	* [AOSP Part 2: Build variants](http://udinic.wordpress.com/2014/06/04/aosp-part-2-build-variants/)
+	* [Dependency injection on Android: Dagger (Part 1) ](http://antonioleiva.com/dependency-injection-android-dagger-part-1/) 
+	* [Debugging During Robolectric Test Execution In Android Studio](http://www.culmination.org/2014/03/debugging-during-robolectric-test-execution-in-android-studio/)
+	* [Extracting Form Models in Android](http://www.mdswanson.com/blog/2014/06/02/android-form-models.html)
+	* [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html)
+	
 * [Issue #104](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23104/Issue%23104.md)
 	* [GPlayServices 1：保存到Google Drive](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23104/2014-06-17-GPlayServices-1-Save-to-Google-Drive.md) - @[whosea](https://github.com/whosea)
 	* Learn from the biggest fails in the Play store
