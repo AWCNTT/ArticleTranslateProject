@@ -197,7 +197,18 @@
 	* [Android App Polishing: Adding Subtle Attention Seekers](https://plus.google.com/+CyrilMottier/posts/FABaJhRMCuy)
 	
 * Issue #95
-	* 
+	* [Best practices for consuming APIs on Android](http://engineering.meetme.com/2014/03/best-practices-for-consuming-apis-on-android/)
+	* [Androids Overblown Fragmentation Problem Revisited](http://nickbradbury.com/2014/03/28/androids-overblown-fragmentation-problem-revisited/)
+	* [Android library projects tutorial](http://www.vogella.com/tutorials/AndroidLibraryProjects/article.html)
+	* [SwipeRefreshLayout FTW](https://plus.google.com/+ChrisBanes/posts/8wmKAXEGAG2) 
+	* [Blurring Images - Part 7](http://blog.stylingandroid.com/archives/2371)
+	* [How to convert your project to Gradle **](http://cowboyprogrammer.org/2014/03/27/gradle_tips.html)
+	* [Measuring Text](http://chris.banes.me/2014/03/27/measuring-text/)
+	* [Fixing The Android Camera API](http://techblog.bozho.net/?p=1380) 
+	* [Protip: Improving Gradle build performance](https://plus.google.com/+AndroidDevelopers/posts/ECrb9VQW9XP)
+	* [Slides: How to setup unit testing in Android Studio](http://www.slideshare.net/tobiaspreuss/how-to-setup-unit-testing-in-android-studio)
+	* [Android App Polishing: Customizing Soft Keyboard Action Button](https://plus.google.com/u/0/+CyrilMottier/posts/FBZrVnbUCXZ)
+	
 * Issue #94
 	* 
 * Issue #93
