@@ -433,8 +433,15 @@
 	* [Yo Zuck, Fix This!](http://sriramramani.wordpress.com/2013/09/25/yo-zuck-fix-this/)
 	* [Push, Don’t Poll – Using GCM ](http://www.doubleencore.com/2013/09/push-dont-poll-how-to-use-gcm-to-update-app-data/)
 	
-* Issue #69
-	* 
+* [Issue #69](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2369/Issue%2369.md)
+	* [Bild Optimizing Hardware Layers](http://www.curious-creature.org/2013/09/13/optimizing-hardware-layers/)
+	* [ViewPager and Hardware acceleration](http://udinic.wordpress.com/2013/09/16/viewpager-and-hardware-acceleration/)
+	* [RenderScript in the Android Support Library](http://android-developers.blogspot.com/2013/09/renderscript-in-android-support-library.html) 
+	* [Android developer interview: Mariusz Płaskowicki](http://androiddreamrevised.blogspot.com/2013/09/android-developer-interview-mariusz.html) 
+	* [A case for XXHDPI and UHDPI Android resources](http://radleymarx.com/blog/a-case-for-xxhdpi-and-uhdpi-android-resources/)
+	* [ActionBarCompat – Part 2](http://blog.stylingandroid.com/archives/2026) 
+	* [AndroidSerialSQL - solving some problems with SQLite in Android](http://www.recursiverobot.com/post/60276620485/androidserialsql-solving-some-problems-with-sqlite-in) 
+	
 * Issue #68
 	* 
 * Issue #67
