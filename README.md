@@ -477,8 +477,16 @@
 	* [ActionBarCompat (Part 1): How to use](http://antonioleiva.com/actionbarcompat-how-to-use/)
 	* [Binders & Window Tokens](http://www.androiddesignpatterns.com/2013/07/binders-window-tokens.html) 
 	
-* Issue #64
-	* 
+* [Issue #64](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2364/Issue%2364.md)
+	* [Context, What Context?](http://www.doubleencore.com/2013/06/context/) 
+	* [Cloud Save – Part 2](http://blog.stylingandroid.com/archives/1846) 
+	* [Cloud Save – Part 3](http://blog.stylingandroid.com/archives/1861) 
+	* [Multi-pane development in Android with Fragments - Tutorial](http://www.vogella.com/tutorials/AndroidFragments/article.html)
+	* [Fused location provider example](http://www.kpbird.com/2013/06/fused-location-provider-example.html)
+	* [Android ListViews: "Hybrid" Choice Behaviorr](http://curioustechizen.blogspot.com/2013/06/android-listviews-hybrid-choice-behavior.html) 
+	* [Migrating Your Android App to Android Studio](http://blog.newrelic.com/2013/06/07/migrating-your-android-app-from-eclipse-to-android-studio/) 
+	* [Mobile Backend Starter](https://developers.google.com/cloud/samples/mbs/)
+	
 * Issue #63
 	* 
 * Issue #62
