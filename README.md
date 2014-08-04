@@ -78,6 +78,11 @@
 	* [Irregular Shapes – Part 1](http://blog.stylingandroid.com/archives/2656)	
 	
 * [Issue #108](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23108/Issue%23108.md)
+	* [**Android L Developer Preview**](http://developer.android.com/preview/index.html)
+	* [**How to Implement an Infinitely Scrolling List in Android**](http://www.avocarrot.com/blog/implement-infinitely-scrolling-list-android/) 
+	* [**An animated, circular indeterminate progress bar**](https://plus.google.com/+AntoineMerle/posts/TqUfbZ3Vkt9)
+	* [**Facilitating User Input and Interaction**](https://plus.google.com/+CyrilMottier/posts/D2bLxYDtAsu) 
+	
 * [Issue #107](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23107/Issue%23107.md)
 * [Issue #106](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23106/Issue%23106.md)
 * [Issue #105](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23105/Issue%23105.md)
