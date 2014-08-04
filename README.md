@@ -410,8 +410,16 @@
 	* [Android Studio Tips & Tricks: Moving Around](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
 	* [Android SlidingPaneLayout: Tutorial](http://www.survivingwithandroid.com/2013/10/android-slidingpanelayout-tutorial.html)
 
-* Issue #72
-	* 
+* [Issue #72](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2372/Issue%2372.md)
+	* [New Developer Features in Google Play Games](http://android-developers.blogspot.com/2013/10/new-developer-features-in-google-play.html) 
+	* [Using the new Gradle-based Android build system: an example](https://plus.google.com/+CyrilMottier/posts/Dk65EACXqsh)
+	* [Android for the Busy Developer](http://courses.tutsplus.com/courses/android-for-the-busy-developer)
+	* [Gradle tips](https://plus.google.com/+JakeWharton/posts/6f5TcVPRZij)
+	* [Slides: Practical Security from the Ground Up](https://docs.google.com/presentation/d/1YDYUrD22Xq12nKkhBfwoJBfw2Q-OReMr0BrDfHyfyPw/edit#slide=id.g1202bd8e5_05)
+	* [Android developer interview: Jörg Winterstein](http://androiddreamrevised.blogspot.com/2013/10/android-developer-interview-jorg.html) 
+	* [Using the Hardware Scaler for Performance and Efficiency](http://android-developers.blogspot.com/2013/09/using-hardware-scaler-for-performance.html)
+ 	* [Android Development Resources](http://pragmaticsharif.wordpress.com/2013/10/06/android-resources/)
+	 
 * Issue #71
 	* 
 * Issue #70
