@@ -325,8 +325,17 @@
 	* [Android Out of Memory Error: Causes, Solution and Best practices](http://blogs.innovationm.com/android-out-of-memory-error-causes-solution-and-best-practices/)
 	* [Restricted Profiles Settings](http://gmariotti.blogspot.com/2013/12/restricted-profiles-settings.html)
 	* [Smart Watch – Part 2](http://blog.stylingandroid.com/archives/2206)
-* Issue #81
-	* 
+	
+* [Issue #81](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2381/Issue%2381.md)
+	* [Developing Bluetooth Smart Applications for Android](https://thenewcircle.com/s/post/1553/bluetooth_smart_le_android_tutorial)
+	* [The new runtime: ART](https://plus.google.com/+MatthiasSchaff/posts/U1jhMAv3d7R)
+	* [RxJava and Android: error handling](http://howrobotswork.wordpress.com/2013/11/18/rxjava-and-android-error-handling/)
+	* [Getting Started With Android Testing](http://www.sage42.org/2013/11/25/getting-started-with-android-testing/)
+	* [Smart Watch App Development](http://www.kpbird.com/2013/12/smart-watch-app-development.html)
+	* [Smart Watch – Part 1](http://blog.stylingandroid.com/archives/2205) 
+	* [Changes to the SecretKeyFactory API in Android 4.4](http://android-developers.blogspot.com/2013/12/changes-to-secretkeyfactory-api-in.html)
+	* [New Tools to Take Your Games to the Next Level](http://android-developers.blogspot.com/2013/12/new-tools-to-take-your-games-to-next.html) 
+
 * Issue #80
 	* 
 * Issue #79
