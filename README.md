@@ -420,8 +420,14 @@
 	* [Using the Hardware Scaler for Performance and Efficiency](http://android-developers.blogspot.com/2013/09/using-hardware-scaler-for-performance.html)
  	* [Android Development Resources](http://pragmaticsharif.wordpress.com/2013/10/06/android-resources/)
 	 
-* Issue #71
-	* 
+* [Issue #71](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2371/Issue%2371.md)
+	* [Creating a Navigation Drawer](http://hmkcode.com/android-creating-a-navigation-drawer/) 
+	* [Publish an aar file to Maven Central with Gradle](http://gmariotti.blogspot.com/2013/09/publish-aar-file-to-maven-central-with.html)
+	* [Marketing Your Game In A Rush](http://blog.gambrinous.com/2013/10/03/marketing-your-game-in-a-rush/)
+	* [Improved App Insight by Linking Google Analytics with Google Play](http://android-developers.blogspot.com/2013/10/improved-app-insight-by-linking-google.html)
+	* [Android is almost impenetrable to malware](http://qz.com/131436/contrary-to-what-youve-heard-android-is-almost-impenetrable-to-malware/)
+	* [Android ListView: Endless adapter](http://www.survivingwithandroid.com/2013/10/android-listview-endless-adapter.html)
+	
 * Issue #70
 	* 
 * Issue #69
