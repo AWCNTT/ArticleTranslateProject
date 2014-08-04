@@ -397,8 +397,14 @@
 	* [Making That Google Plus Profile Screen](http://antoine-merle.com/blog/2013/10/04/making-that-google-plus-profile-screen/)
 	* [Android 4.4 & rendering pipeline improvements](https://plus.google.com/+RomainGuy/posts/9QSTyVCSoz3)
 	
-* Issue #74
-	* 
+* [Issue #74](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2374/Issue%2374.md)
+	* [Getting Your SMS Apps Ready for KitKat](http://android-developers.blogspot.com/2013/10/getting-your-sms-apps-ready-for-kitkat.html)
+	* [How I made an Android game in 23 days](http://bigosaur.com/blog/23days)
+	* [ActionBarCompat - Part 3](http://blog.stylingandroid.com/archives/2061)
+	* [Automating our Android App with Gradle and DeployGate](http://www.snap-interactive.com/blog/automating-our-android-app-with-gradle-and-deploygate/)
+	* [Interview with Android indie developer interview: Veaceslav Grec](http://androiddreamrevised.blogspot.com/2013/10/android-indie-developer-interview_24.html) 
+	* [Setting up the Android Google Volley ImageLoader for NetworkImageView](http://cypressnorth.com/mobile-application-development/setting-android-google-volley-imageloader-networkimageview/) 
+	
 * Issue #73
 	* 
 * Issue #72
