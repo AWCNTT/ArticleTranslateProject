@@ -173,7 +173,13 @@
 	* [Take 10 Minutes for this Developer Survey](http://www.vmob.me/DE3Q14AndroidWeekly)
 	
 * Issue #98
-	* 
+	* [Mastering ProGuard for Building Lightweight Code](http://www.crashlytics.com/blog/mastering-proguard-for-building-lightweight-android-code/?utm_source=sponsor&utm_medium=androidweekly&utm_campaign=androidweekly_4.20.2014&utm_content=article_link) 
+	* [Bluetooth LE – Part 2](http://blog.stylingandroid.com/archives/2408)
+	* [Handy adb commands for Android](http://www.growingwiththeweb.com/2014/01/handy-adb-commands-for-android.html)
+	* [The Complete Activity/Fragment Lifecycle Chart](https://plus.google.com/+StevePomeroy/posts/HsthxN21Yp1) 
+	* [Simulating Activity Configuration Changes](https://plus.google.com/+AlexLockwood/posts/Dx2j7Mr6qqk)
+	* [A Performance Comparison Between Java and C on Nexus 5](http://www.learnopengles.com/a-performance-comparison-between-java-and-c-on-the-nexus-5/)
+	
 * Issue #97
 	* 
 * Issue #96
