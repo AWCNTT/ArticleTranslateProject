@@ -354,8 +354,17 @@
 	* [Protip: The power of drawables](https://plus.google.com/+FlavienLaurent/posts/a9YPAyeyXd4) 
 	* [Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android)
 
-* Issue #78
-	* 
+* [Issue #78](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2378/Issue%2378.md)
+	* [I Can Animate and So Can You](https://speakerdeck.com/dlew/i-can-animate-and-so-can-you) 
+	* [How To Decode ProGuard’s Code From Stack Trace](http://blog.simplyadvanced.net/android-how-to-decode-proguards-obfuscated-code-from-stack-trace/) 
+	* [Transition Animations – Part 2](http://blog.stylingandroid.com/archives/2162)
+	* [Making Your ActionBar Not Boring](http://flavienlaurent.com/blog/2013/11/20/making-your-action-bar-not-boring/)
+	* [Setting Up Android CheckStyle in Android Studio](http://softwaredevgeek.blogspot.com/2013/11/setting-up-android-checkstyle-in.html) 
+	* [Easy Testing with Android Studio](http://www.element84.com/easy-testing-with-android-studio.html)
+	* [Expand Your Brand With Translucent System UI](http://www.doubleencore.com/2013/11/expand-your-brand-with-translucent-system-ui/) 
+	* [Installing Google Glass in an Android Phone](http://pathofacoder.com/2013/07/19/installing-google-glass-in-an-android-phone/)
+	* [Set The Scene With The New Transitions Framework](http://www.doubleencore.com/2013/11/new-transitions-framework/)
+	
 * Issue #77
 	* 
 * Issue #76
