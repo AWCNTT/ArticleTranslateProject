@@ -377,7 +377,15 @@
 	* [How to use icon-fonts in Android](http://shomeser.blogspot.de/2013/11/how-to-use-icon-fonts-in-android.html)
 
 * Issue #76
-	* 
+	* [Storage access framework — Document Providers](https://plus.google.com/+LisaWrayZeitouni/posts/eEuNuYK7kjD)
+	* [Each Navigation Drawer Hides a ViewDragHelper](http://flavienlaurent.com/blog/2013/08/28/each-navigation-drawer-hides-a-viewdraghelper/) 
+	* [ActionBarCompat – Part5](http://blog.stylingandroid.com/archives/2096)
+	* [Linkin to In-App Content](https://developers.google.com/app-indexing/?rd=1) 
+	* [Use Genymotion with Jenkins for Android testing](http://blog.genymobile.com/genymotion-jenkins-android-testing/)
+	* [Fragments: Creating a Tabbed Android User Interface](http://devleader.ca/2013/11/04/fragments-tabbed-android-user-interface/)
+	* [A mobile design anecdote on perceived latency and touch feedback](https://medium.com/@romannurik/a-mobile-design-anecdote-on-perceived-latency-and-touch-feedback-f905a45b54dc)
+	* [Protip: Be mindful of your touch zones!](https://plus.google.com/+RomanNurik/posts/5HDnfDCFWQe)
+		
 * Issue #75
 	* 
 * Issue #74
