@@ -527,8 +527,10 @@
 	* [The Resurrection of Testing for Android](http://corner.squareup.com/2013/04/the-resurrection-of-testing-for-android.html)
 	* [Gradient Text](http://blog.stylingandroid.com/archives/1671)
 
-* Issue #57
-	* 
+* [Issue #57](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2357/Issue%2357.md)
+	* [Resources every Android developer must know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
+	* [Dynamic Icon – Part 2](http://blog.stylingandroid.com/archives/1646)
+
 * Issue #56
 	* 
 * Issue #55
