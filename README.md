@@ -223,7 +223,15 @@
 	* [Getting Started Wtih the Android Wear Developer Preview](http://developer.android.com/intl/zh-cn/training/building-wearables.html)
 	
 * Issue #93
-	* 
+	* [How Android transitions work](http://lucasr.org/2014/03/13/how-android-transitions-work/)
+	* [Localize Your Promotional Graphics on Google Play](http://android-developers.blogspot.com/2012/12/localize-your-promotional-graphics-on.html)
+	* [Storing A Pojo Into Shared Preferences](http://engineering.meetme.com/2014/03/android-tricks-and-tips-storing-a-pojo-into-shared-preferences/) 
+	* [Protip: Inflating layout for your custom view](http://trickyandroid.com/protip-inflating-layout-for-your-custom-view/)
+	* [Advanced blurring techniques](http://trickyandroid.com/advanced-blurring-techniques/) 
+	* [GlassGif - Notes for a live coding session using the GDK ](http://www.recursiverobot.com/post/79436012240/glassgif-notes-for-a-live-coding-session-using-the)
+	* [WebView Explorations](http://stefanodacchille.github.io/blog/2014/02/23/webview-explorations/)
+	* [The Ultimate Android Camera Development Guide](http://www.airpair.com/android/android-camera-development)
+	
 * Issue #92
 	* 
 * Issue #91
