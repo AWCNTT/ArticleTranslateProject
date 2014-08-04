@@ -167,7 +167,11 @@
 	* [Layout Inflation as Intended](http://www.doubleencore.com/2013/05/layout-inflation-as-intended/)
 	
 * Issue #99
-	* 
+	* [Bluetooth LE – Part 3](http://blog.stylingandroid.com/archives/2419)
+	* [First dip into MVP on Android](http://stephenpengilley.blogspot.com.es/2014/04/my-first-dip-into-mvp-on-android.html)
+	* [Robust and readable architecture for an Android App](http://joanzap.ghost.io/robust-architecture-for-an-android-app/)
+	* [Take 10 Minutes for this Developer Survey](http://www.vmob.me/DE3Q14AndroidWeekly)
+	
 * Issue #98
 	* 
 * Issue #97
