@@ -210,7 +210,18 @@
 	* [Android App Polishing: Customizing Soft Keyboard Action Button](https://plus.google.com/u/0/+CyrilMottier/posts/FBZrVnbUCXZ)
 	
 * Issue #94
-	* 
+	* [Protip: SQLite debugging](https://plus.google.com/+SebastianEngel/posts/jfBGygnDh6R)
+	* [Google Play services 4.3](http://android-developers.blogspot.com/2014/03/google-play-services-43.html)
+	* [On the Edge of the Sandbox: External Storage Permissions](http://www.doubleencore.com/2014/03/android-external-storage/) 
+	* [Creating custom notification cards with the Android Wear Developer Preview](http://howrobotswork.wordpress.com/2014/03/19/creating-custom-notification-cards-with-the-android-wear-developer-preview/)
+	* [Best Practices with SharedPreferences](http://yakivmospan.wordpress.com/2014/03/11/best-practice-sharedpreferences/)
+	* [Concurrent Database Access](https://github.com/dmytrodanylyk/dmytrodanylyk/blob/gh-pages/articles/Concurrent%20Database%20Access.md)
+	* [6 part series on blurring images](http://blog.stylingandroid.com/archives/2304)
+	* [Single SQLite connection](http://touchlabblog.tumblr.com/post/24474750219/single-sqlite-connection)
+	* [Align a TextView around an image](http://gmariotti.blogspot.de/2014/03/snippet-align-textview-around-image.html)
+	* [Android Wear with Genymotion](http://data-hk.com/rontam/Android_Wear_with_Genymotion/)
+	* [Getting Started Wtih the Android Wear Developer Preview](http://developer.android.com/intl/zh-cn/training/building-wearables.html)
+	
 * Issue #93
 	* 
 * Issue #92
