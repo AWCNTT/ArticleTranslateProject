@@ -238,7 +238,13 @@
 	* [Lets try Android Game Development with AndEngine](http://pathofacoder.com/2014/03/04/lets-try-android-game-development-with-andengine/)  
 	
 * Issue #91
-	* 
+	* [Protip: Use textAllCaps on API14 via AppCompat](https://plus.google.com/+MichaelBarany/posts/XomDmWkcwf8) 
+	* [Rest interaction in Android](http://mytechaddiction.blogspot.com/2014/02/rest-interaction-in-android.html)
+	* [Slides: Functional Reactive Programming on Android](http://slides.com/yaroslavheriatovych/frponandroid/#/) 
+	* [Integration Testing against REST APIs](http://www.mdswanson.com/blog/2014/02/24/integration-testing-rest-apis-for-android.html) 
+	* [Protip: Padding and scroll indicators for scrollable containers](https://plus.google.com/+AndroidDevelopers/posts/LpAA7q4jw9M) 
+	* [Android Studio vs. Eclipse: What You Need To Know](http://www.airpair.com/android/android-studio-vs-eclipse) 
+	
 * Issue #90
 	* 
 * Issue #89
