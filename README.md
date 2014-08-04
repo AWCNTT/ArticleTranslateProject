@@ -148,9 +148,16 @@
 	* [Using Custom Compound Views in Android](http://ryanharter.com/blog/2014/05/14/using-custom-compound-views-in-android/)
 	* [Working with Google Analytics API v4 for Android](http://benwilcock.wordpress.com/2014/04/11/working-with-google-analytics-api-v4-for-android/)
 	
-	
 * Issue #101
-	* 
+	* [git Parallax background effect for the ViewPager](http://howrobotswork.wordpress.com/2014/05/09/parallaxviewpager-parallax-background-effect-for-the-viewpager/)
+	* [Using GreenDao with Android Studio](http://blog.surecase.eu/using-greendao-with-android-studio-ide/)
+	* [Best resources for Android development](http://www.androidauthority.com/best-resources-android-development-372414/) 
+	* [Parallax Pager](http://prolificinteractive.com/blog/2014/04/30/parallax-pager-adding-depth-to-a-2-d-android-screen/)
+	* [Two Secure Coding Tools for Analyzing Android Apps](http://blog.sei.cmu.edu/post.cfm/secure-coding-tools-analyzing-android-apps-118)
+	* [Bluetooth LE – Part 5](http://blog.stylingandroid.com/archives/2526) 
+	* [Android App Polishing: Reducing User Frustration with Animations](https://plus.google.com/+CyrilMottier/posts/hZcCzmNBFzG)
+	* [Custom Layouts on Android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)
+	
 * Issue #100
 	* 
 * Issue #99
