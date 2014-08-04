@@ -137,7 +137,18 @@
 	* [Custom Animations with Fragments](http://cyrilmottier.com/2014/05/20/custom-animations-with-fragments/) - @[inferjay](http://github/inferjay)
 	* [Lazy Android Developers - Be Productive](https://speakerdeck.com/pareshmayani/lazy-android-developers-be-productive)
 * Issue #102
-	* 
+	* [Android’s Font Renderer](https://medium.com/p/c368bbde87d9)
+	* [Publishing with Gradle](http://meedamian.com/post/publishing-with-gradle) 
+	* [Play Store Compatibility Across Various Versions](https://plus.google.com/+KirillGrouchnikov/posts/XhbAe9z4hru)
+	* [Integration between action bar overlays & side drawer](https://plus.google.com/+KirillGrouchnikov/posts/JnuuU8MyuPv)
+	* [Chris Lacy Shares His Thoughts On Android](http://www.androidpolice.com/2014/05/16/interview-link-bubble-and-action-launcher-developer-chris-lacy-shares-his-thoughts-on-android-app-development-and-more/)
+	* [Stacking Notifications For Android Wear](http://android-developers.blogspot.com/2014/05/stacking-notifications-for-android-wear.html)
+	* [Bluetooth LE – Part 6](http://blog.stylingandroid.com/archives/2531)
+	* [Top 7 Tips for RxJava on Android](http://blog.futurice.com/top-7-tips-for-rxjava-on-android) 
+	* [Using Custom Compound Views in Android](http://ryanharter.com/blog/2014/05/14/using-custom-compound-views-in-android/)
+	* [Working with Google Analytics API v4 for Android](http://benwilcock.wordpress.com/2014/04/11/working-with-google-analytics-api-v4-for-android/)
+	
+	
 * Issue #101
 	* 
 * Issue #100
