@@ -279,8 +279,15 @@
 	* [Simpler Android apps with Flow and Mortar](http://corner.squareup.com/2014/01/mortar-and-flow.html)
 	* [Building Animations with the android.transition Framework](http://www.bignerdranch.com/blog/building-animations-android-transition-framework-part-1/)
 	
-* Issue #86
-	* 
+* [Issue #86](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2386/Issue%2386.md)
+	* [Android String Formatting with Phrase](http://corner.squareup.com/2014/01/phrase.html)
+	* [Drawing shapes with fingers](http://gmariotti.blogspot.com/2014/01/drawing-shapes-with-fingers.html)
+	* [Thread Scheduling in Android](http://www.androiddesignpatterns.com/2014/01/thread-scheduling-in-android.html) 
+	* [SurfaceView Video Cropping](https://github.com/dmytrodanylyk/dmytrodanylyk/blob/gh-pages/articles/surface-view-video-cropping.md)
+	* [Android Staggered Grid](http://codeascraft.com/2014/01/13/android-staggered-grid/)
+	* [Simpler Android apps with Flow and Mortar](http://corner.squareup.com/2014/01/mortar-and-flow.html)
+	* [TextClock Version 2 – Part 4](http://blog.stylingandroid.com/archives/2277)
+	
 * Issue #85
 	* 
 * Issue #84
