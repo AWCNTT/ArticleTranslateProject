@@ -297,8 +297,14 @@
 	* [Preserve Your Launchers: Use Activity Aliases](http://blog.danlew.net/2014/01/16/preserve-your-launchers-use-activity-alias/)
 	* [Introducing the Google Drive Android API](http://googledevelopers.blogspot.com/2014/01/introducing-google-drive-android-api.html)
 
-* Issue #84
-	* 
+* [Issue #84](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2384/Issue%2384.md)
+	* [Four Ways To Build A Mobile Application](http://www.smashingmagazine.com/2014/01/10/four-ways-to-build-a-mobile-app-part2-native-android/)
+	* [Mapbox for Android blasts off](https://www.mapbox.com/blog/mapbox-android/)
+	* [Espresso 1.1](https://plus.google.com/+AndroidDevelopers/posts/82DsBBAVAFH) 
+	* [Google Play Services 4.1](http://android-developers.blogspot.com/2014/01/google-play-services-41.html)
+	* [Testing on Android (Part 2): Functional Tests](http://daniel-codes.blogspot.com/2014/01/testing-on-android-part-2-functional.html) 
+	* [TextClock Version 2 – Part 2](http://blog.stylingandroid.com/archives/2256)
+	
 * Issue #83
 	* 
 * Issue #82
