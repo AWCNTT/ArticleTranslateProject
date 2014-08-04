@@ -376,7 +376,7 @@
 	* [Transition Animation – Part 1](http://blog.stylingandroid.com/archives/2143)
 	* [How to use icon-fonts in Android](http://shomeser.blogspot.de/2013/11/how-to-use-icon-fonts-in-android.html)
 
-* Issue #76
+* [Issue #76](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2376/Issue%2376.md)
 	* [Storage access framework — Document Providers](https://plus.google.com/+LisaWrayZeitouni/posts/eEuNuYK7kjD)
 	* [Each Navigation Drawer Hides a ViewDragHelper](http://flavienlaurent.com/blog/2013/08/28/each-navigation-drawer-hides-a-viewdraghelper/) 
 	* [ActionBarCompat – Part5](http://blog.stylingandroid.com/archives/2096)
@@ -386,8 +386,17 @@
 	* [A mobile design anecdote on perceived latency and touch feedback](https://medium.com/@romannurik/a-mobile-design-anecdote-on-perceived-latency-and-touch-feedback-f905a45b54dc)
 	* [Protip: Be mindful of your touch zones!](https://plus.google.com/+RomanNurik/posts/5HDnfDCFWQe)
 		
-* Issue #75
-	* 
+* [Issue #75](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2375/Issue%2375.md)
+	* [ActionBarCompat – Part 4](http://blog.stylingandroid.com/archives/2087) 
+	* [Android Animations Tutorial 7: The secret of fillBefore, fillAfter and fillEnabled](http://cogitolearning.co.uk/?p=1203)
+	* [Making your App Content more Accessible from Google](http://android-developers.blogspot.de/2013/10/making-your-app-content-more-accessible.html) 
+	* [Solving the Android image loading problem: Volley vs. Picasso](http://www.bignerdranch.com/blog/solving-the-android-image-loading-problem-volley-vs-picasso/)
+	* [Testing Your Android GCM Broadcast Receiver without GCM Messages](https://plus.google.com/108612553581259107752/posts/ERVnjUAjsbZ) 
+	* [Watch That Baseline Alignment](http://www.doubleencore.com/2013/10/shifty-baseline-alignment/)
+	* [GridView with Auto Resized Images on Android](http://www.rogcg.com/blog/2013/11/01/gridview-with-auto-resized-images-on-android) 
+	* [Making That Google Plus Profile Screen](http://antoine-merle.com/blog/2013/10/04/making-that-google-plus-profile-screen/)
+	* [Android 4.4 & rendering pipeline improvements](https://plus.google.com/+RomainGuy/posts/9QSTyVCSoz3)
+	
 * Issue #74
 	* 
 * Issue #73
