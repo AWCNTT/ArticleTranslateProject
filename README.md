@@ -487,8 +487,12 @@
 	* [Migrating Your Android App to Android Studio](http://blog.newrelic.com/2013/06/07/migrating-your-android-app-from-eclipse-to-android-studio/) 
 	* [Mobile Backend Starter](https://developers.google.com/cloud/samples/mbs/)
 	
-* Issue #63
-	* 
+* [Issue #63](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2363/Issue%2363.md)
+	* [Cloud Save – Part 1](http://blog.stylingandroid.com/archives/1837) 
+	* [Layout Inflation as Intende](http://www.doubleencore.com/2013/05/layout-inflation-as-intended/)
+	* [Navigation drawer with account picker](http://www.survivingwithandroid.com/2013/06/navigation-drawer-with-account-picker.html) 
+	* [Google Play Developer 8-Step Checkup](http://android-developers.blogspot.de/2013/06/google-play-developer-8-step-checkup.html?utm_source=feedly&utm_medium=feed&utm_campaign=Feed:+PlanetAndroidCom+(Planet+Android)) 
+	
 * Issue #62
 	* 
 * Issue #61
