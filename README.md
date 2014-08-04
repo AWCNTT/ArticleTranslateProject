@@ -365,8 +365,17 @@
 	* [Installing Google Glass in an Android Phone](http://pathofacoder.com/2013/07/19/installing-google-glass-in-an-android-phone/)
 	* [Set The Scene With The New Transitions Framework](http://www.doubleencore.com/2013/11/new-transitions-framework/)
 	
-* Issue #77
-	* 
+* [Issue #77](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2377/Issue%2377.md)
+	* [The State of Android Emulators](http://savvyapps.com/blog/state-android-emulators/) 
+	* [Android at Devoxx](https://plus.google.com/+RomainGuy/posts/cig97aEieaK) 
+	* [Storage Access Framework](http://www.doubleencore.com/2013/11/storage-access-framework/)
+	* [Cleaner View Casting with Generics](http://android-activities.blogspot.com/2013/11/cleaner-view-casting-with-generics.html)
+	* [Getting around with Google Maps Android API v2](https://speakerdeck.com/cyrilmottier/getting-around-with-google-maps-android-api-v2)
+	* [Making That Google Plus Profile Screen](http://antoine-merle.com/blog/2013/10/04/making-that-google-plus-profile-screen/)
+	* [Implementing #hashtags in android application](http://sourabhsoni.com/implementing-hashtags-in-android-application/)
+	* [Transition Animation – Part 1](http://blog.stylingandroid.com/archives/2143)
+	* [How to use icon-fonts in Android](http://shomeser.blogspot.de/2013/11/how-to-use-icon-fonts-in-android.html)
+
 * Issue #76
 	* 
 * Issue #75
