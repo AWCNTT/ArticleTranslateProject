@@ -536,8 +536,13 @@
 	* [Instant Mustache](http://www.androidzeitgeist.com/p/instant-mustache.html)
 	* [Dynamic Icon](http://blog.stylingandroid.com/archives/1471)
 	
-* Issue #55
-	* 
+* [Issue #55](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2355/Issue%2355.md)
+	* [Custom Class Loading in Dalvik](http://android-developers.blogspot.de/2011/07/custom-class-loading-in-dalvik.html)
+	* [Dalvik patch for Facebook for Android](https://www.facebook.com/notes/facebook-engineering/under-the-hood-dalvik-patch-for-facebook-for-android/10151345597798920)
+	* [Making your application’s data usage preferences available from system settings](http://gmariotti.blogspot.de/2013/02/making-your-applications-data-usage.html)
+	* [In-layout Notifications](http://cyrilmottier.com/2012/07/24/the-making-of-prixing-4-activity-tied-notifications/)
+	* [Native RTL support in Android 4.2](http://android-developers.blogspot.de/2013/03/native-rtl-support-in-android-42.html)
+	
 * [Issue #54](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2354/Issue%2354.md)
 	* [Using Cryptography to Store Credentials Safely](http://android-developers.blogspot.co.uk/2013/02/using-cryptography-to-store-credentials.html)
 	* [WMS On Android](http://www.azavea.com/blogs/labs/2013/01/wms-on-android/)
