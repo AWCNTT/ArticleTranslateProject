@@ -261,8 +261,17 @@
 	* [Fast, Effective, Double-Checked Locking in Android and Java Apps](http://blog.newrelic.com/2014/02/03/fast-effective-double-checked-locking-android-java-apps/)
 	* [New sample code, including Play Store-style tabs](https://plus.google.com/+AndroidDevelopers/posts/X8fg63wK6S8)
 	* [Mastering ProGuard for Building Lightweight Android Code](http://www.crashlytics.com/blog/mastering-proguard-for-building-lightweight-android-code/) 
-* Issue #88
-	* 
+* [Issue #88](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2388/Issue%2388.md)
+	* [Be a lazy but a productive android dev - Part 1-RoboGuice](http://www.technotalkative.com/lazy-productive-android-developer-1/)  
+	* [Nested Fragment and the BackStack - Part 2](http://curioustechizen.blogspot.com/2014/02/nested-fragment-and-backstack-part-2.html) 
+	* [Around Me Tutorial](http://www.michenux.net/android-around-me-tutorial-974.html) 
+	* [Monads: Your App as a Function, Part 2](http://mttkay.github.io/blog/2014/01/25/monads-your-app-as-a-function-part-2/)
+	* [The power of TextView (Part 1): Drawables](http://antonioleiva.com/textview_power_drawables/)
+	* [TextClock Version 2 – Part 6](http://blog.stylingandroid.com/archives/2293) 
+	* [Spans, a Powerful Concept](http://flavienlaurent.com/blog/2014/01/31/spans/) 
+	* [Google Updates Android Version Distribution Numbers](http://developer.android.com/intl/zh-cn/about/dashboards/index.html)
+	* [Upstream Messages With Google Cloud Messaging (Part 1)](http://www.grokkingandroid.com/upstream_messages_with_google_cloud_messaging/)
+	
 * Issue #87
 	* 
 * Issue #86
