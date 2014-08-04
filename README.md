@@ -531,8 +531,11 @@
 	* [Resources every Android developer must know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
 	* [Dynamic Icon – Part 2](http://blog.stylingandroid.com/archives/1646)
 
-* Issue #56
-	* 
+* [Issue #56](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2356/Issue%2356.md)
+	* [AntiPattern: freezing a UI with Broadcast Receiver](http://gmariotti.blogspot.ch/2013/02/antipattern-freezing-ui-with-broadcast.html)
+	* [Instant Mustache](http://www.androidzeitgeist.com/p/instant-mustache.html)
+	* [Dynamic Icon](http://blog.stylingandroid.com/archives/1471)
+	
 * Issue #55
 	* 
 * [Issue #54](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2354/Issue%2354.md)
