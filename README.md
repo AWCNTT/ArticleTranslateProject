@@ -272,8 +272,13 @@
 	* [Google Updates Android Version Distribution Numbers](http://developer.android.com/intl/zh-cn/about/dashboards/index.html)
 	* [Upstream Messages With Google Cloud Messaging (Part 1)](http://www.grokkingandroid.com/upstream_messages_with_google_cloud_messaging/)
 	
-* Issue #87
-	* 
+* [Issue #87](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%2387/Issue%2387.md)
+	* [Understanding How Your App Uses RAM](http://android-developers.blogspot.com/2014/01/process-stats-understanding-how-your.html)[**Android internals: ART in practice - Part 3**](http://blog.dominik-helleberg.de/2014/01/28/android-internals-art-in-practice/) 
+	* [Monads: Your App as a Function](http://mttkay.github.io/blog/2014/01/25/your-app-as-a-function/)
+	* [Nested Fragments and the Back Stack](http://curioustechizen.blogspot.com/2014/01/nested-fragments-and-back-stack.html)
+	* [Simpler Android apps with Flow and Mortar](http://corner.squareup.com/2014/01/mortar-and-flow.html)
+	* [Building Animations with the android.transition Framework](http://www.bignerdranch.com/blog/building-animations-android-transition-framework-part-1/)
+	
 * Issue #86
 	* 
 * Issue #85
