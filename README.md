@@ -672,7 +672,7 @@
 * [Issue #33](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2333.md)
 	* [Mobile Design Practices For Android: Tips And Techniques](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2333/mobile-design-practices-for-android-tips-and-techniques.md)
 	* [Must-have Libraries in Modern Android Developer Toolbox](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2333/must-have-libraries-in-modern-android-developer-toolbox.md)
-	* [Maven and Android – Part 6](http://blog.stylingandroid.com/archives/1122)
+	* [Maven and Android – Part 6](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2333/maven-and-android-part-6.md)
 	
 * [Issue #32](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/Issue%2332.md)
 	* [Maven and Android - Part 1](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/maven-and-android-part-1.md)
