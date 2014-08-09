@@ -675,7 +675,7 @@
 	* [Maven and Android – Part 6](http://blog.stylingandroid.com/archives/1122)
 	
 * [Issue #32](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/Issue%2332.md)
-	* [Maven and Android - Part 1](http://blog.stylingandroid.com/archives/1067)
+	* [Maven and Android - Part 1](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/maven-and-android-part-1.md)
 	* [Maven and Android - Part 2](http://blog.stylingandroid.com/archives/1072)
 	* [Maven and Android - Part 3](http://blog.stylingandroid.com/archives/1024)
 	* [Maven and Android - Part 4](http://blog.stylingandroid.com/archives/1089)
