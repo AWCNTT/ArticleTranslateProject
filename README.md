@@ -666,7 +666,7 @@
 	* [Android, LinearLayout Distribution Explained (weight and sizes)](http://ugiagonzalez.com/2012/01/19/android-linearlayout-distribution-explained-weight-and-sizes/)
 	* [Tutorial on customization of Android Activity Animation](http://code4reference.com/2012/08/customization-android-activity-animation/)	
 * [Issue #34](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2334.md)
-	* [Plurals](http://blog.stylingandroid.com/archives/1136)
+	* [Plurals](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/plurals.md)
 	* [Android Sliding Drawer Tutorial](http://www.androidpeople.com/android-sliding-drawer-tutorial)
 		
 * [Issue #33](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2333.md)
