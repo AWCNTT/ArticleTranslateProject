@@ -681,7 +681,7 @@
 	* [Maven and Android - Part 4](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/maven-and-android-part-4.md)
 	* [Maven and Android - Part 5](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/maven-and-android-part-5.md)
 	* [Don't Advertise Intent Filters That Are Not Yours](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/don't-advertise-intent-filters-that-are-not-yours.md)
-	* [31 Days of Android: Day 8–The Android Project Structure](http://chrisrisner.com/31-Days-of-Android--Day-8–The-Android-Project-Structure)
+	* [31 Days of Android: Day 8–The Android Project Structure](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/31-days-of-android-day-8–the-android-project-structure.md)
 	
 * [Issue #31](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2331/Issue%2331.md)
 	* [Creating Custom Layouts for Android](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2331/creating-custom-layouts-for-android.md)
