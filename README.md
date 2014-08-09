@@ -684,7 +684,7 @@
 	* [31 Days of Android: Day 8–The Android Project Structure](http://chrisrisner.com/31-Days-of-Android--Day-8–The-Android-Project-Structure)
 	
 * [Issue #31](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2331/Issue%2331.md)
-	* [Creating Custom Layouts for Android](http://arpitonline.com/blog/2012/07/01/creating-custom-layouts-for-android/?utm_source=androidweekly)
+	* [Creating Custom Layouts for Android](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2331/creating-custom-layouts-for-android.md)
 	
 * [Issue #30](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2330/Issue%2330.md)
 	* [Maven and Android – Part 1](http://blog.stylingandroid.com/archives/1067?utm_campaign=1067)
