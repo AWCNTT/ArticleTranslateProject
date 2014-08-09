@@ -677,7 +677,7 @@
 * [Issue #32](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/Issue%2332.md)
 	* [Maven and Android - Part 1](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/maven-and-android-part-1.md)
 	* [Maven and Android - Part 2](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/maven-and-android-part-2.md)
-	* [Maven and Android - Part 3](http://blog.stylingandroid.com/archives/1024)
+	* [Maven and Android - Part 3](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2332/maven-and-android-part-3.md)
 	* [Maven and Android - Part 4](http://blog.stylingandroid.com/archives/1089)
 	* [Maven and Android - Part 5](http://blog.stylingandroid.com/archives/1114)
 	* [Don't Advertise Intent Filters That Are Not Yours](http://commonsware.com/blog/2012/07/09/dont-advertise-intent-filters-that-are-not-yours.html)
