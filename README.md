@@ -667,7 +667,7 @@
 	* [Tutorial on customization of Android Activity Animation](http://code4reference.com/2012/08/customization-android-activity-animation/)	
 * [Issue #34](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2334.md)
 	* [Plurals](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/plurals.md)
-	* [Android Sliding Drawer Tutorial](http://www.androidpeople.com/android-sliding-drawer-tutorial)
+	* [Android Sliding Drawer Tutorial](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/android-sliding-drawer-tutorial.md)
 		
 * [Issue #33](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2333.md)
 	* [Mobile Design Practices For Android: Tips And Techniques](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2333/mobile-design-practices-for-android-tips-and-techniques.md)
