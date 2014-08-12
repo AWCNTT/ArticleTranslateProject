@@ -43,7 +43,7 @@ In this tutorial by Big Nerd Ranch you'll learn how to create a floating action 
 
 In this tutorial you'll learn how to create a media app for AndroidTV.
 
-[Ripples – Part 2] (http://blog.stylingandroid.com/archives/2726) (blog.stylingandroid.com)
+[Ripples – Part 2](http://blog.stylingandroid.com/archives/2726) (blog.stylingandroid.com)
 
 In this second article in the series, Mark Allison looks at ways in which to control the look of a Ripple drawable.
 
