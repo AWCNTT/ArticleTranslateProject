@@ -16,6 +16,17 @@
 
 翻译进度
 -------------------------------
+* [Issue #114](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23114/Issue%23114.md)
+	* [Aspect Oriented Programming in Android](http://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/)
+	* [Remote code execution on Android devices](http://labs.bromium.com/2014/07/31/remote-code-execution-on-android-devices/)
+	* [Build Variations using Gradle and Resource Folders ](http://ptrprograms.blogspot.de/2014/08/build-variations-using-gradle-and.html)
+	* [Android Wear: Installation + Setup ](http://www.technotalkative.com/android-wear-part-1-installation-setup/)
+	* [Android Wear: Hello World ](http://www.technotalkative.com/android-wear-part-2-hello-world/) 
+	* [Android Face Cropper ](http://lafosca.cat/android-face-cropper/)
+	* [Floating Action Buttons in Android L ](http://www.bignerdranch.com/blog/floating-action-buttons-in-android-l/)
+	* [Creating a Media App for AndroidTV ](http://ptrprograms.blogspot.com/2014/07/creating-media-app-for-androidtv.html)
+	* [Ripples – Part 2](http://blog.stylingandroid.com/archives/2726)
+	
 * [Issue #113](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23113/Issue%23113.md)
 	* [Creating a Media App for AndroidTV](http://ptrprograms.blogspot.com/2014/07/creating-media-app-for-androidtv.html)
 	* [Gradle Tutorial : Part 1 : Installation + Setup](http://rominirani.com/2014/07/28/gradle-tutorial-part-1-installation-setup/)
