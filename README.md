@@ -673,7 +673,7 @@
 * [Issue #35](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/Issue%2335.md)
 	* [Android Quick Tip: Formatting Text with Html.fromHtml()](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/android-quick-tip-formatting-text-with-html-fromhtml.md)
 	* [Android tips and tricks: synchronized scrolling](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/android-tips-and-tricks-synchronized-scrolling.md)
-	* [Android Development – Using Custom Fonts](http://www.barebonescoder.com/2010/05/android-development-using-custom-fonts/)
+	* [Android Development – Using Custom Fonts](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/android-development-using-custom-fonts.md)
 	* [Android, LinearLayout Distribution Explained (weight and sizes)](http://ugiagonzalez.com/2012/01/19/android-linearlayout-distribution-explained-weight-and-sizes/)
 	* [Tutorial on customization of Android Activity Animation](http://code4reference.com/2012/08/customization-android-activity-animation/)	
 * [Issue #34](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2334.md)
