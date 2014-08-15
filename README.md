@@ -674,7 +674,7 @@
 	* [Android Quick Tip: Formatting Text with Html.fromHtml()](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/android-quick-tip-formatting-text-with-html-fromhtml.md)
 	* [Android tips and tricks: synchronized scrolling](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/android-tips-and-tricks-synchronized-scrolling.md)
 	* [Android Development – Using Custom Fonts](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/android-development-using-custom-fonts.md)
-	* [Android, LinearLayout Distribution Explained (weight and sizes)](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/android-linearlayout-distribution-explained-weight-and-sizes/)
+	* [Android, LinearLayout Distribution Explained (weight and sizes)](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/aandroid-linearlayout-distribution-explained_weight-and-sizes.md)
 	* [Tutorial on customization of Android Activity Animation](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2335/tutorial-on-customization-of-android-activity-animation.md)	
 * [Issue #34](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/Issue%2334.md)
 	* [Plurals](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%2334/plurals.md)
