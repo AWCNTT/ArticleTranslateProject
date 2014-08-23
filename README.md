@@ -16,6 +16,18 @@
 
 翻译进度
 -------------------------------
+* [Issue #115](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23115/Issue%23115.md)
+	* [Use TextureView to Display Video With Custom Controls](http://www.malmstein.com/blog/2014/08/09/how-to-use-a-textureview-to-display-a-video-with-custom-media-player-controls/)
+	* [Neatly Composing REST Calls Using Retrofit and RxJava](http://joluet.github.io/blog/2014/07/07/rxjava-retrofit/)
+	* [A First Glance at Android's RecyclerView](http://www.grokkingandroid.com/first-glance-androids-recyclerview/)
+	* [Why I Use Crashlytics - Part 2](http://www.donnfelker.com/why-i-use-crashlytics-part-2/)
+	* [Streaming the Droid](https://speakerdeck.com/malmstein/streaming-the-droid)  
+	* [Locally release an Android Library for JCenter or Maven Central ](http://blog.blundell-apps.com/locally-release-an-android-library-for-jcenter-or-maven-central-inclusion/) 
+	* [[Android L Tutorials (Part 3)] - RecyclerView and CardView](http://treyrobinson.net/blog/android-l-tutorials-part-3-recyclerview-and-cardview/)
+	* [Ripples – Part 3](http://blog.stylingandroid.com/archives/2731)
+	* [How to store the Credentials securely in Android](http://codetalk.de/?p=86)
+	* [simple library publishing with Gradle](http://zserge.com/blog/gradle-maven-publish.html)
+
 * [Issue #114](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23114/Issue%23114.md)
 	* [Aspect Oriented Programming in Android](http://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/)
 	* [Remote code execution on Android devices](http://labs.bromium.com/2014/07/31/remote-code-execution-on-android-devices/)
