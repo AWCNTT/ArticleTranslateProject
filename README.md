@@ -16,6 +16,17 @@
 
 翻译进度
 -------------------------------
+* [Issue #116](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23116/Issue%23116.md)
+	* [Developing a driver assistance system ](https://medium.com/@Razvan/developing-driver-assistance-systems-using-android-powered-devices-bf5390c939b6)
+	* [Code coverage reports using Robolectric and Android ](http://raptordigital.blogspot.com/2014/08/code-coverage-reports-using-robolectric.html)
+	* [Selecting Items of a RecyclerView using StateListDrawables ](http://www.grokkingandroid.com/statelistdrawables-for-recyclerview-selection/) 
+	* [Programmatically Coloring Drawables ](http://ptrprograms.blogspot.com/2014/08/programmatically-coloring-drawables.html) 
+	* [Walk then talk ](https://medium.com/@romannurik/walk-then-talk-3b935bfe5484)
+	* [SimpleNoSQL For Android Released ](http://colintmiller.com/simplenosql-for-android-released/)
+	* [SimpleSectionedRecyclerViewAdapter ](https://plus.google.com/+GabrieleMariotti/posts/EdkQFx1RqhE)
+	* [Developing for Android Wear with Emulators ](http://kennethmascarenhas.wordpress.com/2014/08/19/developing-for-android-wear-with-emulators/)
+	* [Getting Groovy With Reactive Android ](http://open.blogs.nytimes.com/2014/08/18/getting-groovy-with-reactive-android/)
+	 
 * [Issue #115](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23115/Issue%23115.md)
 	* [Use TextureView to Display Video With Custom Controls](http://www.malmstein.com/blog/2014/08/09/how-to-use-a-textureview-to-display-a-video-with-custom-media-player-controls/)
 	* [Neatly Composing REST Calls Using Retrofit and RxJava](http://joluet.github.io/blog/2014/07/07/rxjava-retrofit/)
