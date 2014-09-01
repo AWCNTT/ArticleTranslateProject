@@ -16,6 +16,15 @@
 
 翻译进度
 -------------------------------
+* [Issue #117](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23117/Issue%23117.md)
+	* [Putting Your APKs on Diet ](http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/) 
+	* [Android iBeacon Patterns ](http://blog.surecase.eu/androidbeaconpatterns/)
+	* [Building Dynamic Custom Views ](http://ryanharter.com/blog/2014/08/29/building-dynamic-custom-views/)
+	* [Powerful New Messaging Features with GCM ](http://android-developers.blogspot.com/2014/08/powerful-new-messaging-features-with-gcm.html)
+	* [Match Timer – Part 2 ](http://blog.stylingandroid.com/match-timer-part-2/) 
+	* [Make your app work with Android Wear in 4 easy steps ](https://www.infinum.co/the-capsized-eight/articles/make-your-app-work-with-android-wear-in-4-easy-steps)
+	* [Getting Started with Android L Animations ](http://ptrprograms.blogspot.com/2014/08/getting-started-with-android-l.html)
+	
 * [Issue #116](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23116/Issue%23116.md)
 	* [Developing a driver assistance system ](https://medium.com/@Razvan/developing-driver-assistance-systems-using-android-powered-devices-bf5390c939b6)
 	* [Code coverage reports using Robolectric and Android ](http://raptordigital.blogspot.com/2014/08/code-coverage-reports-using-robolectric.html)
