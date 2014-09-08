@@ -16,6 +16,15 @@
 
 翻译进度
 -------------------------------
+* [Issue #118](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Issue%23118.md)
+	* [Kindly Asking for Ratings and Reviews ](http://ryanharter.com/blog/2014/09/05/kindly-asking-for-ratings-and-reviews/)
+	* [Kotlin, the Swift of Android ](http://blog.gouline.net/2014/08/31/kotlin-the-swift-of-android/)
+	* [Glide 3.0: a media management library for Android ](http://google-opensource.blogspot.com/2014/09/glide-30-media-management-library-for.html)
+	* [Building a RecyclerView LayoutManager – Part 1 ](http://wiresareobsolete.com/2014/09/building-a-recyclerview-layoutmanager-part-1/)
+	* [Match Timer – Part 3 ](https://blog.stylingandroid.com/match-timer-part-3/) 
+	* [Architecting Android…The clean way? ](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+	* [Cross Compiling FFmpeg with x264 for Android ](http://vinsol.com/blog/2014/07/30/cross-compiling-ffmpeg-with-x264-for-android/)
+
 * [Issue #117](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23117/Issue%23117.md)
 	* [Putting Your APKs on Diet ](http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/) 
 	* [Android iBeacon Patterns ](http://blog.surecase.eu/androidbeaconpatterns/)
