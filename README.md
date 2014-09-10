@@ -893,6 +893,7 @@
 * [jackuhan](https://github.com/jackuhan)
 * [lsjwzh](https://github.com/lsjwzh)
 * [lushan1314](https://github.com/lushan1314)
+* [teze](https://github.com/teze)
 
 项目历史
 -------------------------------
@@ -903,7 +904,7 @@
 * 2014/07/23 [jackuhan](https://github.com/jackuhan) 加入翻译小组。
 * 2014/07/26 [lsjwzh](https://github.com/lsjwzh) 加入翻译小组。
 * 2014/07/31 [lushan1314](https://github.com/lushan1314) 加入翻译小组。
-
+* 2014/09/10 [teze](https://github.com/teze) 加入翻译小组。
 
 版权声明
 -------------------------------
