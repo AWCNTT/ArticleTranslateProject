@@ -16,7 +16,7 @@ fullview: true
 <body><div class="container"><hr>
 
 <blockquote>
-  <p><strong><em>Edit by Fooyou Email : <a href="mailto:foyou23@qq.com">foyou23@qq.com</a> 2000-10-10 </em></strong> </p>
+  <p><strong><em>Edit by Fooyou Email : <a href="mailto:foyou23@qq.com">foyou23@qq.com</a>  </em></strong> </p>
 </blockquote>
 
 
