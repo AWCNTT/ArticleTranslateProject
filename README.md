@@ -17,12 +17,12 @@
 翻译进度
 -------------------------------
 * [Issue #118](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Issue%23118.md)
-	* [Kindly Asking for Ratings and Reviews ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Kindly%20Asking%20for%20Ratings%20and%20Reviews.md)
-	* [Kotlin, the Swift of Android ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Kotlin%2C%20the%20Swift%20of%20Android.md)
-	* [Glide 3.0: a media management library for Android ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Glide%203.0-%20a%20media%20management%20library%20for%20Android.md)
-	* [Building a RecyclerView LayoutManager – Part 1 ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Building%20a%20RecyclerView%20LayoutManager%20–%20Part%201.md)
-	* [Match Timer – Part 3 ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Match%20Timer%20–%20Part%203.md) 
-	* [Architecting Android…The clean way? ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Architecting%20Android%20The%20clean%20way%3F.md)
+	* [Kindly Asking for Ratings and Reviews ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Architecting-Android-The-clean-way.md)
+	* [Kotlin, the Swift of Android ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Kotlin-the-Swift-of-Android.md)
+	* [Glide 3.0: a media management library for Android ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Glide-3.0-a-media-management-library-for-Android.md)
+	* [Building a RecyclerView LayoutManager – Part 1 ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Building-a-RecyclerView-LayoutManager-Part-1.md)
+	* [Match Timer – Part 3 ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Match-Timer-Part-3.md) 
+	* [Architecting Android…The clean way? ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23118/2014-09-11-Architecting%20Android…The%20clean%20way.md)
 	* [Cross Compiling FFmpeg with x264 for Android ](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23118/Cross-Compiling-FFmpeg-with-x264-for-Android.md)
 
 * [Issue #117](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%23117/Issue%23117.md)
