@@ -231,7 +231,7 @@
 	* [App UI / UX – Part 3 ](http://blog.stylingandroid.com/archives/2591)
 	* [Hands on Retrofit(A Rest Api Client)](http://s3xy4ngyc.github.io/articles/hands-on-retrofit/)
 	* [Adding attributes to a custom view](http://droidista.blogspot.com/2014/06/adding-attributes-to-custom-view.html)(
-	* [Creating a Cards UI on Android](http://www.technology-ebay.de/the-teams/ebay-kleinanzeigen/blog/creating-a-cards-ui-on-android.html) - @[aaronplay](https://github.com/aaronplay)
+	* [在Android上创建卡片式UI](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/translated/Issue%23105/2014-11-06-Creating-a-Cards-UI-on-Android.md) - @[aaronplay](https://github.com/aaronplay)
 	* [AOSP Part 2: Build variants](http://udinic.wordpress.com/2014/06/04/aosp-part-2-build-variants/)
 	* [Dependency injection on Android: Dagger (Part 1) ](http://antonioleiva.com/dependency-injection-android-dagger-part-1/) 
 	* [Debugging During Robolectric Test Execution In Android Studio](http://www.culmination.org/2014/03/debugging-during-robolectric-test-execution-in-android-studio/)
