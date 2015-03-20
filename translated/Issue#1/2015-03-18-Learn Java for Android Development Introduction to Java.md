@@ -98,21 +98,29 @@ Let’s take this bubble idea a bit further. Because Java applications run withi
 
 让我们让这个气泡想法深入一点。因为Java应用程序运行在虚拟机中，独立于底层硬件。因此，虚拟机可以封装，包含，和管理代码执行，与直接操作机器代码的语言相比更加安全。每个Android应用使用不同的用户账户运行在基于Linux的操作系统中并且在它本身的虚拟机实例中。Android应用程序是由操作系统密切监视和关闭，如果他们运行出现问题（例如，使用太多处理能力，无响应，浪费资源等等）。因此，开发应用程序中重要的是稳定性和可响应性。应用程序可以使用定义良好的协议相互通信。
 
-##Compiling Your Code
+##编译你的代码（Compiling Your Code）
 
 Like many languages, Java is still a compiled language even though it doesn’t compile all the way down to machine code. This means you, the developer, need to compile your Android projects and package them up to deploy onto devices. The Eclipse development environment (used with the Android Development plug-in) makes this pretty painless. In Eclipse, automatic compilation is often turned on by default. This means that every time you save a project file, Eclipse recompiles the changes for your application package. You immediately see compile errors. Eclipse also interprets Java as you type, providing handy code coloring and formatting as well as showing many types of errors as you go. Often, you can click on the error and have Eclipse automatically fix a typo, or add an import statement, or provide a method stub for you, saving lots of typing.
 
+与很多编程语言一样，Java仍旧是一种编译型语言，尽管Java并不是全程编译成机器语言。这就意味着开发者需要编译你的Android项目并且打包项目配置到设备上。Eclipse开发环境（有Android开发插件）让这一切变得容易。在Eclipse中，自动编译默认是自动运行的。这意味着你每次保存项目时，Eclipse会重新编译你的项目。编译错误会及时看到。当你输入Java代码时Eclipse会同时解释你的程序，在你键入代码时提供代码高亮和格式化代码，以及各种类型的错误。通常，你可以点击错误使Eclipse自动为你修改代码，或者添加引用声明，或者为你提供跟方法，这样节省了很多输入工作。
+
 You can still manually compile your code if you so desire. Within Eclipse, you’ll find the Build settings under the project menu. If you have “Build Automatically” turned on, you can still choose the “Clean…” option that will allow you to do full rebuild of all files. If “Build Automatically” is turned off, “Build All” and “Build Project” menu options are enabled. "Build All" means to build all of the projects in the workspace. You can have many projects in an Eclipse workspace.
+
+如果你喜欢你依旧可以手动编译你的代码。在Eclipse中你会发现在项目按钮下的编译设置（Build setting）。如果你打开了“Build Automatically”，你依旧可以选择“Clean...”选项来重新编译你的项目。如果关闭了“Build Automatically”，“Build All”和“Build Project”菜单选项就可以选择的。“Build All”选项是编译当前workspace的所有项目。你可以在Eclipse的workspace中创建多个项目。
 
 The build process, for regular Java projects, results in a file with the extension of JAR – Java ARchive. Android applications take JAR files and package them for deployment on devices as Android PacKage files with an extension .apk. These formats not only include your compiled Java code, but also any other resources, such as strings, images, or sound files, that your application requires to run as well as the Application Manifest file, AndroidManifest.xml. The Android Manifest file is a file required by all Android applications, which you use to define configuration details about your app.
 
-##What is an Object Oriented Programming Language?
+编译进程，对于一般的Java项目，最终形成JAR--Java ARchive扩展文件。Android应用程序使用JAR文件和包文件来开发，形成Android Package files的为.apk的扩展文件。这些格式化的并不只包括已经编译好的Java代码，还包括一些其他资源，例如字符串，图片和声音文件，你的应用程序需要同时运行在Application Manifest file, AndroidManifest.xml。Android清单文件是所有的Android应用程序所要求的，你用它来定义你的应用程序配置的详细信息所需的文件。
+
+##什么是面向对象的编程语言（What is an Object Oriented Programming Language?）
 
 Okay. Time for a very brief and 20,000 foot view of object oriented programming (OOP). OOP is a programming style or technique that relies upon the definition of data structures called objects. For those new to OOP, an object can be thought of much like a custom data type. For example, you might have a Dog object, which represents the blueprint for a generic dog, with a name, breed, and gender. You could then create different instances of the Dog object to represent specific dogs. Each Dog object must be created by calling its constructor (a method that has the same name as the object itself, and may or may not have parameters for setting initial values). For example, the following Dog objects use a constructor with three parameters (name, breed, gender):
 
 	Dog dog1 = new Dog("Lassie", collie, female);
 	Dog dog2 = new Dog("Fifi", poodle, female);
 	Dog dog3 = new Dog("Asta", foxterrier, male);
+
+好了。
 	
 So where is this Dog object defined? Well, here we need to begin defining some of the fundamental building blocks of the Java programming language. A class provides a definition for an object. Therefore, there is a Dog class somewhere—either defined by you or in some library somewhere. Generally speaking, a class will be defined in its own file, with the filename matching the class name (e.g. Dog.java). There are exceptions to this rule, such as classes defined within other classes (when a class is declared within a class, it is generally defined for use within the parent class only as a helper class, and referred to as an inner class).
 
