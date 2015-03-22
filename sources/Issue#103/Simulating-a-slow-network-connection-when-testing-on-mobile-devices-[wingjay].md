@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "文章中文标题xxxx"
-date: xxxx-xx-xx xx:xx
+title: "在移动设备上进行测试时模拟一个慢速网络连接"
+date: 2015-03-22 23:30
 comments: true
-categories: xxxxx(文章关键字，多个关键字用英文空格分割)
+categories: 移动设备 模拟慢速网络 测试
 ---
 
-Mobile devices often have spotty network connectivity - rural areas, sitting in the subway or in a car are classic situations where the connection suffers. So mobile native or web apps need to take this into account and degrade gracefully when network requests time out or the response takes a long time to arrive. You can set network parameters in most emulators (see [here](http://developer.android.com/tools/devices/emulator.html#netdelay) for Android) or use a tool like the powerful [Charles proxy](http://www.charlesproxy.com/). But on a physical device this is of no use. This is especially useful to test different devices and platforms under real-life conditions.
+移动设备的网络连接通常不太稳定－比如在农村，坐在地铁上或车里都会发生连接问题。所以移动原生应用或移动web应用必须考虑慢速网络，同时尽量减轻网络请求超时或长时间响应给用户带来的不满。为了模拟慢速连接，在大多数模拟器上你可以通过设置网络参数(对于安卓设备可以参考(http://developer.android.com/tools/devices/emulator.html#netdelay))，或者使用一个工具－Charles proxy(http://www.charlesproxy.com/)。
+但这在实际物理设备上不管用。这主要用于真实环境下的不同设备和平台。
+
 
 Using a wireless router we can use Linux traffic shaping to add delay, slow down the throughput and also randomly drop packets. For this example I used OpenWRT because I’m familiar with it and because it has a long list of [supported routers](http://wiki.openwrt.org/toh/start)， but DD-WRT might work too. Get a supported router and a [snapshot](http://downloads.openwrt.org/snapshots/trunk/) image of the unstable Barrier Breaker release for the router. Flash it and set up your wifi. I ended up bridging the wifi to the WAN port since I did not need any routing:
 
