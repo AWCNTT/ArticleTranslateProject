@@ -120,13 +120,24 @@ Okay. Time for a very brief and 20,000 foot view of object oriented programming 
 	Dog dog2 = new Dog("Fifi", poodle, female);
 	Dog dog3 = new Dog("Asta", foxterrier, male);
 
-好了。
+好了。现在是时间来简明的看一下什么是面向对象了。面向对象变成是一种编程风格也是一种技术，其依赖于一种被称为对象的数据结构的定义。对于刚刚接触面向对象编程的人，你可以认为对象为一种自定义的数据类型。例如，你有一个称为Dog的对象，它代表一类普通的有名字、繁殖和性别的狗类模型。你可以创建Dog对象不同的实例以表示特定类型的狗狗。每个Dog对象必须有他的构造方法（与对象同名的方法，可能有参数来设定初始值）创建。例如，下面的Dog对象必须使用一个有三个参数（name，breed，gender）的构造方法来创建。
+
+	Dog dog1 = new Dog("Lassie", collie, female);
+	Dog dog2 = new Dog("Fifi", poodle, female);
+	Dog dog3 = new Dog("Asta", foxterrier, male);
+
 	
 So where is this Dog object defined? Well, here we need to begin defining some of the fundamental building blocks of the Java programming language. A class provides a definition for an object. Therefore, there is a Dog class somewhere—either defined by you or in some library somewhere. Generally speaking, a class will be defined in its own file, with the filename matching the class name (e.g. Dog.java). There are exceptions to this rule, such as classes defined within other classes (when a class is declared within a class, it is generally defined for use within the parent class only as a helper class, and referred to as an inner class).
 
+所以这个Dog对象是如何定义的呢？我们需要开始定义一些Java编程语言的基本的编译模块。类为对象提供定义。因此，Dog类既不是由用户定义的，也不是由一些类库定义的。一般来说，类是由他自身的文件名和类名相同的文件定义的。但这之中还是有特例的，比如在其他类中定义的类（当一个类在另一个类中声明，它通常只是为父类定义并作为一个帮助类来使用，或者指向一个内部类）。
+
 When you want to reference an object from within another class, you need to include an import statement in the top of your class file, much like you would use a #include statement in a compiled language like C.
 
+当你想在其他类中引用一个对象时，你需要在你的类文件的开头出包含一个引用声明，与编译型语言C中的#include声明很类似。
+
 A class typically describes the data and behavior of an object. The behavior is defined using class methods. Method is the common term for a subroutine in an OOP language. Many common object classes are defined in shared class libraries like software development kits (SDKs), whereas others are defined by you, the developer, for your own purposes. Software is then built up by using and manipulating object instances in different ways.
+
+类通常是用来描述对象的数据和行为的。行为用来定义类的方法。方法是面向对象编程语言中最常见的子程序。很多对象类被定义在一个共享的类中，像软件开发包（SDKs），其他的都是由开发人员根据具体的需求来自行定义的。软件是通过不同的方式使用和操作对象实例来编写的。
 
 Please realize this is a very generalized definition of OOP. There are entire books written on this subject. If you’d like to know more about OOP, here are a few resources you might want to check out:
 
@@ -134,13 +145,25 @@ Please realize this is a very generalized definition of OOP. There are entire bo
 <li>[Sun Java Tutorials on Java](http://www.oracle.com/technetwork/java/index.html)
 <li>[The Java Tutorials at Oracle](http://docs.oracle.com/javase/tutorial/java/concepts/)
 
+请认识到这是一种普遍的面向对象编程的定义。还有一些有关这个方面的比较全面的书籍。如果你想深入了解面向对象编程，这里有一些你可以浏览的资源：
+
+<li>Wikipedia has a [nice overview of OOP](http://en.wikipedia.org/wiki/Object-oriented_programming)
+<li>[Sun Java Tutorials on Java](http://www.oracle.com/technetwork/java/index.html)
+<li>[The Java Tutorials at Oracle](http://docs.oracle.com/javase/tutorial/java/concepts/)
+
 Note: We use a lot of different terminology in this tutorial. There are multiple ways to refer to a given concept (e.g. superclass vs. parent class), which is confusing to those new to object oriented programming. Different developers use different terms, and so we have tried to mention synonyms where appropriate. Deciding which terms you will use is a personal choice.
 
-##Understanding Inheritance
+注意：本教程中我们使用了很多术语。对于刚刚接触面向对象编程的人来说有很多方法来了解这些术语（例如：superclass vs. parent class）。不同的开发者使用不同的术语，因此我们尝试着使用合适的同义词。使用什么术语由你个人的情况而定。
+
+##理解继承（Understanding Inheritance）
 
 Here is another important Java concept you’ll run into a lot: inheritance. Simply put, inheritance means that Java classes (and therefore objects) can be organized into hierarchies with lower, more specific, classes in the hierarchy inheriting behavior and traits from higher, more generic, classes.
 
+还有一个非常重要今后会经常使用的Java内容：继承。简单来说，继承的含义是Java的类（也可以是对象）可以被使用在一个低层级的更加有效的类中，该类的行为方法继承自更加高级的的类。（这段翻译的不好，请见谅啊。）
+
 This concept is best illustrated by example. Let’s pretend we are developing a Java application to simulate an aquarium. This aquarium has some fish in it. Therefore, we might define a class to represent a fish. This class, called Fish, could include some data fields (also called attributes, or class member variables) to describe a fish object: species, color and size; as well as some of its behavior in the form of methods (also called subroutines, or functions in procedural languages), like `eat()`, `sleep()`, and `makeBabyFish()`.
+
+下述例子很好的阐明了这些内容。我们假设正在开发一个Java应用程序用来模拟一个水池。这个水池中有一些鱼。因此，我们可以定义一个类来代表鱼。该类被命名为Fish，包含一些数据字段（也被成为属性，或者类的成员变量）来表述一个鱼的对象：种类，颜色和大小；和用方法的格式来表述鱼的一些行为（也被称为子程序，或者程序语言上的功能），如 `eat()`, `sleep()`, and `makeBabyFish()`.
 
 A special type of method, called a constructor, is used to create and initialize an object; constructors are named the same as their class and may include parameters. The following Fish class has two constructors: one for creating a generic Fish object and another for constructing a specific Fish object with some initial data. You’ll also see that the Fish class has two eat() methods: one for eating something random, and another for eating another fish, which would be represented by another instance of the Fish class:
 <pre><code>
@@ -179,7 +202,48 @@ public class Fish {
     };
 }
 </code></pre>
+
+构造方法是一种特殊类型的方法，用于创建和初始化一个对象；构造方法的名字与所在的类一致并且还包含一些参数。下面的Fish类中包含两个构造方法：一个用来创建一个普通的Fish对象，另一个用来构造一个具有一些初始化数据特定的Fish对象。你可以看到Fish类中有两个eat（）方法：一个作用是随机吃东西，另一个是吃其他的鱼，其可以被其他的Fish类实例所代表。
+<pre><code>
+public class Fish {
+
+    private String mSpecies;
+    private String mColor;
+    private int mSize;
+
+    Fish() {
+        // generic fish
+        mSpecies = "unknown";
+        mColor = "unknown";
+        mSize = 0;
+    }
+
+    Fish(String species, String color, int size) {
+        mSpecies = species;
+        mColor = color;
+        mSize = size;
+    }
+    public void eat() {
+        // eat some algae
+    };
+        
+    public void eat(Fish fishToEat) {
+        // eat another fish!
+    };
+        
+    public void sleep() {
+        // sleep
+    };
+        
+    public void makeBabyFish(Fish fishSpouse, int numBabies) {
+        // Make numBabies worth of baby fish with Fish spouse
+    };
+}
+</code></pre>
+
 Classes can be organized into hierarchies, where a derived class (or subclass) includes all the features of its parent class (or superclass), but refines and adds to them to define a more specific object using the extends keyword. This is called inheritance.
+
+类可以被组织进不同的层级，衍生类（或者子类）包含父类（或者超类）的所有特性，但是定义一个更加高效的对象通过使用改善和添加扩展字来实现。这就是继承。
 
 For example, the Fish class might have two subclasses: FreshwaterFish and SaltwaterFish. These subclasses would have all the features of the Fish class, but could further customize the objects through new attributes and behaviors or modified behaviors from the parent class Fish. For example, the FreshwaterFish class might include information about the type of freshwater environment lived in (e.g. river, lake, pond, or puddle). Similarly, the SaltwaterFish class might customize the `makeBabyFish()` method such that the fish eats its mate after breeding (as defined in the super class) by using the override mechanism, like this:
 
@@ -195,7 +259,22 @@ public class SaltwaterFish extends Fish
     }
 }
 </code></pre>
-##Organizing Object Behavior with Interfaces
+
+比如说，Fish类有两个子类：FreshwaterFish和SaltwaterFish。这两个子类有Fish类的所有特性，但是可以通过添加新的属性和行为或者重新定义Fish父类的行为来自定义对象。例如，FreshwaterFish类中包含淡水环境的信息（例如，河流，湖泊，池塘或者水潭）。与此相似的是，SaltwaterFish类自定义makeBabyFish（）方法，即鱼儿在繁殖后吃了同伴，通过使用override机制，如下述代码：
+<pre><code>
+public class SaltwaterFish extends Fish
+{
+    @Override
+    public void makeBabyFish(Fish fishSpouse, int numBabies) {
+        // call parent method
+        super.makeBabyFish(fishSpouse, numBabies);
+        // eat mate
+        eat(fishSpouse);
+    }
+}
+</code></pre>
+
+##通过接口组织对象的行为（Organizing Object Behavior with Interfaces）
 
 In Java, you can organize object behaviors in what are called interfaces. While a class defines an object, an interface defines some behavior that can be applied to an object. For example, we could define a Swimmer interface that provides a set of methods that are common across all objects that can swim, whether they are fish, otters, or submergible androids. The Swimmer interface might specify four methods: `startSwimming()`, `stopSwimming()`, `dive()`, and `surface()`.
 <pre><code>
@@ -213,25 +292,54 @@ public class Fish implements Swimmer {
     // Provide implementations of the four methods within the Swimmer interface 
 }
 </code></pre>
-##Organizing Classes and Interfaces with Packages
+
+在Java中，你可以通过使用接口来组织对象行为。虽然类定义了一个对象，但是接口定义的一些行为也可以应用于对象。例如，我们可以定义一个名为Swimmer的接口，这个接口提供了一系列的方法来实现所有对象都具有游泳的行为，无论是鱼，水獭还是安卓潜艇。Swimmer接口指定了四个方法：`startSwimming()`, `stopSwimming()`, `dive()`, and `surface()`。
+<pre><code>
+public interface Swimmer
+{
+    void startSwimming();
+    void stopSwimming();
+    void dive(); 
+    void surface(); 
+}
+</code></pre>
+
+像Fish这样的类可以实现Swimmer接口并且提供游泳行为的实现：
+<pre><code>
+public class Fish implements Swimmer {
+    // Provide implementations of the four methods within the Swimmer interface 
+}
+</code></pre>
+
+
+##通过包组织类和接口（Organizing Classes and Interfaces with Packages）
 
 Class hierarchies, such as our fish classes, can then be organized into packages. A package is simply a set of classes and interfaces, bundled together. Developers use namespaces to uniquely name packages. For example, we could use com.mamlambo.aquarium or com.ourclient.project.subproject as our package name to keep track of our fish-related classes.
+
+类的层级，比如我们的fish类们，可以使用packages来组织起来。包就是一系列类和接口简单的集合在一起。开发者使用命名空间（namespaces）来命名不同的包。例如，我们可以使用com.mamlambo.aquarium或者com.ourclient.project.subproject来作为包名来追踪我们的与鱼相关的类。
 
 ##Wrapping Up
 
 Wow! You’ve just embarked on a crash-course in Java for Android development. We’ve covered a pretty intense amount of material here, so let things settle for a bit before moving on to the next lesson of this tutorial series. In Lesson 2, we switch our focus to the nitty-gritty details of Java syntax.
 
+哇!你刚刚完成了Java for Android development的课程。我们讨论了很多重要的知识，因此在进入下一节课程之前先把本课的内容吸收一下。在第二节中，我们将注意力转移到Java语法上来。
+
 You’ve only scratched the surface of Java development for Android development. Check out all the other great tutorials on Mobiletuts+ to dive deeper into Java and Android development. Good luck!
+
+你仅仅是接触了Android开发中需要的Java知识的皮毛。查看Mobiletuts+上其他好的教程来深入学习Java和Android开发。祝你好运！
 
 About the Authors
 Mobile developers Lauren Darcey and Shane Conder have coauthored several books on Android development: an in-depth programming book entitled Android Wireless Application Development and Sams TeachYourself Android Application Development in 24 Hours. When not writing, they spend their time developing mobile software at their company and providing consulting services. They can be reached at via email to androidwirelessdev+mt@gmail.com, via their blog at androidbook.blogspot.com, and on Twitter @androidwireless.
+
+关于作者
+Mobile developers Lauren Darcey 和 Shane Conder合著了一些有关Android开发的书籍：《深入学习Android无线程序开发》和《Sams24小时自学Android开发》。在写书之前，他们在他们公司做移动软件开发。你可以联系他们通过邮件：androidwirelessdev+mt@gmail.com，通过他们的博客androidbook.blogspot.com,或者通过Twitter @androidwireless.
 
 ---
 
 
 原文地址：[http://code.tutsplus.com/tutorials/java-tutorial--mobile-2604](http://code.tutsplus.com/tutorials/java-tutorial--mobile-2604)
 
-译者：[译者ID](https://github.com/译者ID) 校对：[校对者ID](https://github.com/校对者ID)
+译者：[chiahaolu](https://github.com/chaihaolu) 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由[AWCNTT](https://github.com/AWCNTT) 原创翻译，[AndroidWeekly中国](http://www.androidweekly.cn/) 荣誉推出
 
