@@ -951,7 +951,7 @@
 	* [Android Layout Tutorial](http://www.learn-android.com/2010/01/05/android-layout-tutorial/)	
 * [Issue #1](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%231/Issue%231.md)
 	* [Introducing Android WebDriver](https://github.com/AWCNTT/ArticleTranslateProject/blob/master/sources/Issue%231/introducing-android-webdriver.md)
-	* [Learn Java for Android Development: Introduction to Java](http://mobile.tutsplus.com/tutorials/android/java-tutorial/ )@[chiahaolu](https://github.com/chiahaolu/)
+	* [Learn Java for Android Development: Introduction to Java](https://github.com/chiahaolu/ArticleTranslateProject/blob/master/translated/Issue%231/2015-03-18-Learn%20Java%20for%20Android%20Development%20Introduction%20to%20Java.md )@[chiahaolu](https://github.com/chiahaolu/)
 	
 团队成员
 -------------------------------
