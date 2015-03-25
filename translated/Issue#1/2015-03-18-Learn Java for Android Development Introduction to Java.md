@@ -339,7 +339,7 @@ Mobile developers Lauren Darcey 和 Shane Conder合著了一些有关Android开�
 
 原文地址：[http://code.tutsplus.com/tutorials/java-tutorial--mobile-2604](http://code.tutsplus.com/tutorials/java-tutorial--mobile-2604)
 
-译者：[chiahaolu](https://github.com/chaihaolu) 校对：[校对者ID](https://github.com/校对者ID)
+译者：[chiahaolu](https://github.com/chiahaolu) 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由[AWCNTT](https://github.com/AWCNTT) 原创翻译，[AndroidWeekly中国](http://www.androidweekly.cn/) 荣誉推出
 
