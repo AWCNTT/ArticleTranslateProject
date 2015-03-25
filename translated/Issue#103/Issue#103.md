@@ -17,7 +17,7 @@ categories: Issue#103
 
 这是在Mac上构建AOSP系列文章中的第一篇。
  
-[**在移动设备上进行测试时模拟一个慢速网络连接**](http://kevin-read.com/post/86601925386/simulating-a-slow-network-connection-when-testing-on) (kevin-read.com)
+[**在移动设备上进行测试时模拟一个慢速网络连接**](https://github.com/wingjay/ArticleTranslateProject/tree/master/translated/Issue%23103/2015-3-23-Simulating-a-slow-network-connection-when-testing-on-mobile-devices.md) 
 
 如果你想要在一个设备上模拟缓慢和参差不齐的网络连接，可以做到这一点的方法之一是通过在路由器上配置OpenWRT。
 
